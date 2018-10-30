@@ -23,8 +23,8 @@ def write_dict_to_file(filename,d):
             f.write(json.dumps({key:d[key]}) + '\n')
 
 
-def get_business_id_stemmed_text(filename):
-    business_id_stemmed_text = defaultdict(list)
+def get_id_stemmed_text(filename, key):
+    id_stemmed_text = defaultdict(list)
     all_texts = []
     with open(filename,'r') as f:
         i = 0
@@ -33,12 +33,14 @@ def get_business_id_stemmed_text(filename):
             if i % 10000 == 0:
                 print(i)
             row = json.loads(line)
-            business_id = row['business_id']
+            id = row[key]
             text = row['text'].split()
-            business_id_stemmed_text[business_id].append(text)
+            id_stemmed_text[id].append(text)
             all_texts.append(text)
 
-    return business_id_stemmed_text,all_texts
+    return id_stemmed_text,all_texts
+
+
 
 
 def convert_list_of_tuples_to_dict(list_of_tuples,no_of_topics):
@@ -62,10 +64,12 @@ def get_business_topic_vector(business_id,model,dictionary,business_topic_vector
     return business_topic_vector
 
 
+
+
 #business_id_stars = get_business_id_stars('output/restaurants.json')
 
 # Should work for both tips and restaurant files.
-business_id_stemmed_text,all_texts = get_business_id_stemmed_text('output/stemmed_restaurant_tips.json')
+id_stemmed_text, all_texts = get_id_stemmed_text('output/stemmed_restaurant_tips.json', 'business_id')
 
 print('###### Converting to dictionary ########')
 dictionary = corpora.Dictionary(all_texts)
@@ -76,15 +80,41 @@ temp_file  = datapath('yelp_tips_50_topics.model')
 print(temp_file)
 model = ldamodel.load(temp_file)
 
-business_topic_vector = defaultdict(list)
-i = 0
-for business_id in business_id_stemmed_text.keys():
-    i+=1
-    if i % 10000 == 0:
-        print(i)
-    business_topic_vector = get_business_topic_vector(business_id,model,dictionary,
-                                                      business_topic_vector,business_id_stemmed_text,50)
+def get_topic_vector_for_text(stemmed_text_list,model,dictionary):
+    doc_term_text = dictionary.doc2bow(stemmed_text_list)
+    topic_vector = model[doc_term_text]
+    topic_vector = convert_list_of_tuples_to_dict(topic_vector,50)
+    return topic_vector
 
+
+def get_review_topic_vector(id_stemmed_text):
+    review_topic_vector = defaultdict(list)
+    i = 0
+    for id in id_stemmed_text:
+        i+=1
+        if i % 10000 == 0:
+            print(i)
+        review_topic_vector[id] = get_topic_vector_for_text(id_stemmed_text[id],model,dictionary)
+
+    return review_topic_vector
+
+
+
+#business_topic_vector = defaultdict(list)
+def get_business_topc_vector(id_stemmed_text):
+    business_topic_vector = defaultdict(list)
+    i = 0
+    for business_id in id_stemmed_text.keys():
+        i+=1
+        if i % 10000 == 0:
+            print(i)
+        business_topic_vector = get_business_topic_vector(business_id, model, dictionary,
+                                                          business_topic_vector, id_stemmed_text, 50)
+
+    return business_topic_vector
+
+business_topic_vector = get_business_topc_vector(id_stemmed_text)
+#review_topic_vector = get_review_topic_vector(id_stemmed_text)
 
 write_dict_to_file('output/business_tips_topic_vector.json',business_topic_vector)
 
