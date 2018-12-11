@@ -16,7 +16,7 @@
 
 ### How to run the notebooks
 
-The notebooks in the notebook basically implement the above pipeline diagram post the data processing layer. The inputs to the notebooks can be found here.
+The notebooks in the notebook basically implement the above pipeline diagram post the data processing layer. The inputs to the notebooks can be found [here](https://drive.google.com/drive/folders/1MZ5BT_GJVqFHdUMY9Bdvb2uu9ipx7_I9?usp=sharing).
 
 - This notebook Topic_modeling_analysis_nmf_az.ipynb runs the nmf topic modelling algorithm for the state of AZ
 - This notebook Topic_modeling_analysis_v4.ipynb runs the lda topic modelling algorithm for state of NV
