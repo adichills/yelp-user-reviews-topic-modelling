@@ -1,5 +1,0 @@
-Topic 0:   9929.743*burger, 7772.092*sandwich, 7514.962*place, 6749.307*fri, 6147.460*like, 5601.207*beer, 5482.422*good, 3849.947*best, 3764.107*just
-Topic 1:   13504.738*pizza, 4713.228*taco, 4095.978*tri, 3966.749*place, 3655.943*fresh, 3626.611*love, 3447.032*best, 3308.657*delici, 2702.447*tea
-Topic 2:   14103.013*order, 13692.955*good, 12416.258*chicken, 10811.714*veri, 10214.800*sauc, 9058.789*salad, 8930.179*chees, 8647.809*delici, 8556.828*flavor
-Topic 3:   3422.886*bar, 3393.022*restaur, 3303.558*ha, 3299.307*park, 2868.929*tabl, 2857.506*menu, 2677.532*coffe, 2652.183*just, 2627.657*street
-Topic 4:   26953.842*place, 25827.081*great, 22708.306*good, 18834.367*veri, 15848.576*time, 15563.748*servic, 10769.783*order, 10498.512*realli, 10236.003*alway

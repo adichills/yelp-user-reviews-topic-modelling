@@ -1,8 +1,0 @@
-Topic 0:   breakfast, burger, coffee, brunch, ve, just, fries, like, place
-Topic 1:   place, good, great, service, ve, time, friendly, love, like
-Topic 2:   cleveland, old, just, game, bar, city, like, room, downtown
-Topic 3:   great, good, place, bar, menu, beer, service, nice, really
-Topic 4:   pizza, sauce, italian, cheese, best, cream, crust, pasta, delicious
-Topic 5:   sushi, chicken, rice, spicy, good, dishes, rolls, roll, chinese
-Topic 6:   ordered, got, just, really, time, like, came, meal, wasn
-Topic 7:   good, sauce, cheese, pork, beef, chicken, meat, fries, like

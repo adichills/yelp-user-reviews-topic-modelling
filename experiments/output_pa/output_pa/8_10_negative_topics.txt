@@ -1,8 +1,0 @@
-Topic 0:   2739.357*chicken, 2448.396*like, 2249.124*sauce, 2079.849*ordered, 2042.904*good, 1571.023*dish, 1519.740*just, 1431.795*fried, 1422.835*soup
-Topic 1:   947.288*breakfast, 929.093*coffee, 695.710*eggs, 671.490*brunch, 447.882*bacon, 430.673*toast, 384.550*diner, 321.803*pancakes, 269.219*egg
-Topic 2:   5192.586*minutes, 4691.287*table, 4253.400*service, 4139.078*time, 4052.766*came, 3640.087*asked, 3510.053*waitress, 3266.802*order, 3073.451*server
-Topic 3:   5529.291*place, 2627.843*bar, 2395.866*like, 2280.186*service, 2217.594*good, 2018.575*just, 1764.528*really, 1605.466*restaurant, 1472.906*don
-Topic 4:   4632.816*pizza, 1919.442*order, 1107.610*wings, 1072.059*time, 1071.125*beer, 1064.942*place, 1027.319*just, 926.976*good, 894.694*like
-Topic 5:   469.465*avoid, 313.189*chocolate, 291.528*cake, 264.889*driver, 213.687*cream, 148.687*costs, 140.419*hash, 135.184*corporate, 131.240*window
-Topic 6:   3599.445*good, 3025.489*cheese, 2938.678*just, 2844.638*like, 2429.599*fries, 2359.729*ordered, 2243.187*salad, 2226.258*burger, 1980.358*place
-Topic 7:   1214.114*rude, 1131.678*said, 1054.009*just, 1019.229*people, 1013.068*don, 972.603*customer, 845.430*order, 798.053*customers, 781.171*like

@@ -1,6 +1,0 @@
-Topic 0:   13674.963*great, 11556.995*bar, 10969.559*place, 9610.529*veri, 9310.782*drink, 7481.955*good, 6909.302*servic, 6891.824*time, 6681.244*tabl
-Topic 1:   8695.456*burger, 6646.408*taco, 2461.527*chip, 1909.543*mexican, 1801.821*salsa, 1412.157*burrito, 1366.448*good, 1357.536*flavor, 1211.912*margarita
-Topic 2:   15625.812*place, 13809.813*good, 13491.681*pizza, 9604.799*great, 8129.232*alway, 7463.357*ve, 6619.230*time, 5833.512*like, 5766.403*tri
-Topic 3:   13013.789*order, 10086.917*good, 10018.734*chees, 8475.465*fri, 8070.864*sauc, 7825.852*salad, 6961.606*got, 6408.448*bread, 6189.805*sandwich
-Topic 4:   8915.623*dish, 6879.536*restaur, 6693.778*veri, 6273.287*good, 6063.753*order, 5529.389*tri, 5040.149*flavor, 4894.210*chicken, 4641.163*place
-Topic 5:   6590.459*just, 6376.156*like, 4688.379*know, 4063.427*make, 3997.870*place, 3966.195*pittsburgh, 3768.161*want, 3566.094*onli, 3512.405*eat

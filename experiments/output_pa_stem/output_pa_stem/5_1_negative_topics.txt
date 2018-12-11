@@ -1,5 +1,0 @@
-Topic 0:   9159.293*order, 5162.725*pizza, 4343.180*minut, 3674.906*wait, 3153.740*time, 3056.949*ask, 2823.093*did, 2458.639*came, 2187.545*got
-Topic 1:   7127.676*place, 4374.807*good, 4215.109*servic, 4057.745*drink, 3960.513*tabl, 3739.903*just, 3524.553*time, 3520.379*like, 3218.869*veri
-Topic 2:   3149.260*burger, 2953.909*sandwich, 2613.405*order, 2543.847*time, 2509.433*just, 2298.799*did, 2188.418*fri, 1913.598*place, 1699.488*like
-Topic 3:   4232.373*like, 4084.281*tast, 3661.431*good, 3298.092*chicken, 3202.000*sauc, 2948.284*order, 2948.253*veri, 2617.188*flavor, 2578.711*just
-Topic 4:   2214.495*restaur, 1745.801*manag, 1700.614*custom, 1444.338*tabl, 1421.502*servic, 1333.396*reserv, 1215.185*peopl, 1140.583*taco, 1114.071*door

@@ -1,8 +1,0 @@
-Topic 0:   16722.077*buffet, 12126.558*sushi, 9912.283*shrimp, 8206.155*fish, 7638.159*roll, 6905.747*crab, 6483.238*dessert, 6136.911*like, 5308.702*lobster
-Topic 1:   13632.459*room, 8686.409*hotel, 7948.864*stay, 4972.184*card, 4611.811*day, 4154.560*night, 3754.223*casino, 3738.689*did, 3722.000*park
-Topic 2:   11266.586*restaur, 9402.390*vega, 4530.123*club, 4458.961*wine, 4374.027*la, 4243.446*bar, 4035.791*drink, 3878.232*menu, 3655.703*dine
-Topic 3:   28519.585*order, 22037.416*fri, 19970.684*like, 19507.914*chicken, 17265.532*burger, 17212.259*chees, 16704.430*good, 14957.497*tast, 14531.506*salad
-Topic 4:   17342.007*custom, 15126.272*place, 12593.091*servic, 12119.487*like, 10471.767*rude, 10298.894*just, 9796.486*manag, 8661.262*staff, 8426.021*hi
-Topic 5:   46281.777*order, 36834.627*ask, 35885.918*wait, 34225.887*tabl, 32005.383*did, 30888.313*servic, 30657.034*minut, 28410.230*time, 28004.321*came
-Topic 6:   30894.832*order, 21164.299*pizza, 16073.941*time, 8784.976*locat, 8672.433*place, 8017.264*just, 7966.629*wait, 7530.932*got, 5830.633*minut
-Topic 7:   42127.917*place, 27771.453*good, 21750.837*just, 21674.324*like, 18707.314*price, 18534.587*veri, 17066.984*servic, 16520.210*tast, 15556.647*realli

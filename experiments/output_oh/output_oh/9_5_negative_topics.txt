@@ -1,9 +1,0 @@
-Topic 0:   806.220*chips, 788.208*mexican, 786.880*taco, 641.456*salsa, 427.066*burrito, 426.048*dog, 310.654*margarita, 276.561*cafe, 272.197*guacamole
-Topic 1:   3399.285*place, 3362.300*like, 2986.421*good, 2927.572*just, 1948.760*really, 1525.035*better, 1435.059*sushi, 1406.670*don, 1133.049*little
-Topic 2:   5763.438*table, 5687.564*service, 5579.243*minutes, 4551.868*time, 4371.997*bar, 4310.194*came, 4069.308*server, 3682.758*place, 3633.059*just
-Topic 3:   1533.356*called, 1488.814*manager, 1361.945*order, 1206.196*customer, 1183.836*told, 932.195*said, 899.406*card, 884.141*phone, 839.017*owner
-Topic 4:   4490.483*pizza, 3135.086*ordered, 2766.620*burger, 2641.432*cheese, 2209.221*fries, 1776.613*order, 1709.923*got, 1636.552*sandwich, 1483.533*wings
-Topic 5:   4073.131*place, 2996.803*service, 2023.495*time, 2012.648*ve, 1869.838*good, 1799.046*just, 1705.947*location, 1646.601*times, 1575.500*like
-Topic 6:   1757.934*beer, 1177.005*fish, 949.596*bar, 880.421*good, 690.130*menu, 641.020*pork, 630.935*bbq, 612.876*lobster, 562.485*cheese
-Topic 7:   1961.544*order, 1772.503*just, 1629.907*like, 1477.500*time, 1203.526*people, 1129.777*place, 1031.051*don, 963.297*know, 946.746*line
-Topic 8:   4317.114*chicken, 3707.354*ordered, 2769.029*good, 2612.211*salad, 2494.492*like, 1850.706*meal, 1835.514*dish, 1820.429*sauce, 1725.785*steak

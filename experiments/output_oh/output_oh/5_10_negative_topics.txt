@@ -1,5 +1,0 @@
-Topic 0:   5325.027*order, 3323.953*time, 3160.102*said, 2949.618*manager, 2880.686*told, 2575.105*minutes, 2404.201*service, 2303.789*asked, 2072.313*customer
-Topic 1:   5062.903*place, 4754.957*good, 4082.127*just, 3383.960*like, 2901.683*really, 2775.880*better, 2617.764*pizza, 2454.772*ve, 2313.797*restaurant
-Topic 2:   5832.186*table, 5308.007*service, 4453.943*server, 4345.018*minutes, 4159.371*came, 3763.730*bar, 3487.880*time, 3222.499*drinks, 3198.800*waitress
-Topic 3:   4263.433*place, 2661.867*like, 1695.604*people, 1683.912*bar, 1647.287*just, 1479.731*don, 1184.836*staff, 1045.896*time, 846.528*bad
-Topic 4:   5488.571*ordered, 5315.201*chicken, 4314.054*like, 3540.440*cheese, 3510.277*sauce, 3450.587*good, 3089.441*salad, 2754.566*got, 2382.099*just

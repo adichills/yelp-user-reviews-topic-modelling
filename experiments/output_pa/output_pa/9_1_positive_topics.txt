@@ -1,9 +1,0 @@
-Topic 0:   12204.890*pizza, 4810.583*sauce, 4534.686*cheese, 4458.147*good, 4255.200*tacos, 4210.186*like, 3715.110*just, 3312.017*wings, 3210.348*hot
-Topic 1:   26749.940*good, 24025.306*place, 18287.991*great, 12527.062*really, 10314.557*like, 9977.010*ve, 9674.762*service, 8743.132*time, 8202.069*nice
-Topic 2:   3487.057*thai, 2680.122*chicken, 2470.363*spicy, 2380.804*rice, 2195.388*curry, 1944.789*noodles, 1649.017*soup, 1645.480*dish, 1570.504*sauce
-Topic 3:   8197.246*came, 7791.034*ordered, 7404.232*got, 6760.304*great, 6298.400*time, 6228.873*delicious, 6021.923*dinner, 5965.143*table, 5533.222*restaurant
-Topic 4:   5259.554*bar, 2016.381*night, 1266.447*local, 1264.146*music, 1206.123*grill, 1169.653*beer, 1143.712*drink, 1081.841*fun, 1028.172*joint
-Topic 5:   3677.466*sushi, 2130.053*highly, 2026.384*roll, 1946.911*fish, 1801.300*restaurant, 1504.540*recommend, 1373.009*tuna, 1330.636*dishes, 1230.878*asian
-Topic 6:   6902.205*burger, 6899.711*fries, 6466.265*sandwich, 3140.399*cheese, 2548.808*burgers, 2263.575*bread, 2129.582*salad, 1892.239*sandwiches, 1455.440*steak
-Topic 7:   4468.942*cream, 3348.860*sweet, 3259.013*perfectly, 3223.464*dish, 3222.399*flavor, 2638.771*pork, 2579.770*ice, 2342.388*served, 2297.790*cooked
-Topic 8:   4800.027*coffee, 3814.671*like, 3255.849*just, 2600.047*breakfast, 2403.669*love, 2300.278*vegan, 2220.324*place, 2192.921*free, 2160.771*tea

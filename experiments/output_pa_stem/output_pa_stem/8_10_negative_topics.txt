@@ -1,8 +1,0 @@
-Topic 0:   4907.847*pizza, 4328.074*order, 2686.487*chicken, 2072.695*sauc, 2063.493*chees, 1891.391*salad, 1809.554*like, 1442.605*wing, 1395.023*tast
-Topic 1:   8066.441*place, 5154.556*good, 4511.264*like, 4509.039*just, 3739.612*realli, 2946.596*servic, 2844.592*price, 2604.765*time, 2568.554*better
-Topic 2:   3086.451*fri, 3076.170*sandwich, 2870.218*burger, 1579.291*order, 1024.165*chees, 889.319*like, 874.417*just, 839.699*did, 800.816*egg
-Topic 3:   1181.721*sushi, 1161.704*chicken, 1142.339*order, 1093.609*roll, 1047.174*rice, 993.112*soup, 993.058*dish, 869.487*tast, 855.277*noodl
-Topic 4:   1590.166*tast, 1511.050*taco, 1485.120*good, 1462.294*veri, 1382.862*dish, 1344.929*flavor, 1250.380*like, 1104.517*steak, 1009.377*meat
-Topic 5:   4667.746*drink, 4494.862*tabl, 3932.993*bar, 3271.247*did, 3156.452*order, 2784.305*ask, 2655.694*server, 2486.256*came, 2305.185*restaur
-Topic 6:   5506.850*wait, 5459.119*order, 4425.295*time, 4384.591*minut, 3223.065*ask, 2943.324*servic, 2886.877*said, 2582.688*did, 2466.331*told
-Topic 7:   847.805*card, 777.418*buffet, 707.837*use, 626.274*dirti, 556.226*place, 497.203*smell, 491.083*bathroom, 489.263*old, 481.186*eat

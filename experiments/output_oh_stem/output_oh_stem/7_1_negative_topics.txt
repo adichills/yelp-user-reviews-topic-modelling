@@ -1,7 +1,0 @@
-Topic 0:   5405.451*place, 2740.723*bar, 2393.382*just, 2320.186*like, 2223.393*becaus, 2075.403*restaur, 1873.940*peopl, 1722.927*look, 1703.537*realli
-Topic 1:   5239.246*order, 4912.543*good, 4195.218*chicken, 4000.991*fri, 3496.902*like, 3454.835*place, 3451.668*veri, 3325.423*sauc, 3318.824*tast
-Topic 2:   3572.498*salad, 2580.334*like, 1841.316*chees, 1815.277*tast, 1814.579*taco, 1517.884*just, 1504.633*did, 1277.356*veri, 1109.560*good
-Topic 3:   2110.716*steak, 1166.532*potato, 1136.465*dinner, 1106.003*veri, 985.973*good, 956.868*wine, 912.397*cook, 876.192*ice, 804.447*meal
-Topic 4:   3475.885*place, 3136.247*like, 2764.142*time, 2367.609*just, 1855.843*locat, 1817.787*servic, 1788.521*good, 1786.245*order, 1455.749*ve
-Topic 5:   715.454*music, 517.325*loud, 485.358*smoke, 473.885*play, 447.037*restaur, 441.169*patio, 410.489*night, 397.921*atmospher, 340.366*like
-Topic 6:   10910.704*order, 7275.462*wait, 7129.865*minut, 6968.117*tabl, 6767.285*time, 6722.762*ask, 6082.222*servic, 5979.618*did, 4595.708*drink
