@@ -1,0 +1,16 @@
+Topic 0:   3.863*place, 2.215*like, 1.954*just, 1.654*realli, 1.102*good, 1.079*tri, 1.067*look, 0.941*becaus, 0.861*review
+Topic 1:   3.085*chicken, 1.187*fri, 1.062*sauc, 0.981*tast, 0.972*rice, 0.750*soup, 0.736*sandwich, 0.720*salad, 0.683*noodl
+Topic 2:   4.904*pizza, 0.528*crust, 0.507*chees, 0.444*slice, 0.344*deliveri, 0.336*pepperoni, 0.282*sauc, 0.236*wing, 0.193*dough
+Topic 3:   6.128*order, 0.769*took, 0.727*wrong, 0.623*deliveri, 0.582*got, 0.491*came, 0.398*min, 0.392*minut, 0.391*did
+Topic 4:   4.778*burger, 1.621*fri, 0.493*chees, 0.438*bun, 0.389*onion, 0.389*patti, 0.384*shake, 0.308*bacon, 0.251*cook
+Topic 5:   4.562*wait, 2.891*minut, 1.201*hour, 0.986*min, 0.897*seat, 0.879*line, 0.792*long, 0.570*anoth, 0.484*final
+Topic 6:   4.743*buffet, 0.821*crab, 0.656*select, 0.638*leg, 0.591*line, 0.572*dessert, 0.523*station, 0.516*vega, 0.502*seafood
+Topic 7:   3.911*servic, 1.659*horribl, 1.554*custom, 1.232*bad, 1.134*terribl, 1.029*worst, 0.814*slow, 0.599*rude, 0.512*poor
+Topic 8:   3.755*sushi, 2.052*roll, 0.861*fish, 0.653*rice, 0.639*ayc, 0.439*eat, 0.411*chef, 0.394*tuna, 0.390*nigiri
+Topic 9:   2.095*said, 2.064*manag, 1.808*ask, 1.405*told, 1.231*did, 0.979*custom, 0.908*rude, 0.903*want, 0.900*hi
+Topic 10:  3.748*steak, 0.949*cook, 0.878*medium, 0.665*rare, 0.535*potato, 0.512*meat, 0.477*egg, 0.474*rib, 0.411*cut
+Topic 11:  2.783*tabl, 2.376*drink, 2.057*server, 1.353*bar, 1.333*came, 1.122*ask, 0.971*seat, 0.929*water, 0.878*waitress
+Topic 12:  3.205*room, 1.775*hotel, 1.548*stay, 0.637*night, 0.547*bed, 0.501*desk, 0.458*check, 0.450*floor, 0.441*vega
+Topic 13:  3.481*taco, 0.897*burrito, 0.864*salsa, 0.780*mexican, 0.721*chip, 0.608*bean, 0.568*asada, 0.501*carn, 0.443*meat
+Topic 14:  2.735*veri, 1.667*restaur, 1.651*price, 1.196*good, 1.053*disappoint, 0.740*dish, 0.693*small, 0.674*portion, 0.671*menu
+Topic 15:  3.707*time, 1.407*locat, 1.011*ve, 0.735*alway, 0.626*everi, 0.617*ha, 0.543*come, 0.471*close, 0.464*wast

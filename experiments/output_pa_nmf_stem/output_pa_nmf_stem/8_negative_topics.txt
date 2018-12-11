@@ -1,0 +1,8 @@
+Topic 0:   2.194*bar, 1.530*drink, 1.319*beer, 1.136*bartend, 0.350*menu, 0.340*friend, 0.339*night, 0.338*select, 0.326*game
+Topic 1:   1.049*chicken, 0.849*tast, 0.826*veri, 0.762*sauc, 0.649*dish, 0.633*salad, 0.624*good, 0.621*like, 0.579*flavor
+Topic 2:   3.466*pizza, 0.451*crust, 0.431*chees, 0.320*order, 0.312*deliveri, 0.294*sauc, 0.250*pepperoni, 0.244*wing, 0.243*slice
+Topic 3:   1.711*order, 0.950*ask, 0.900*said, 0.845*did, 0.747*manag, 0.599*told, 0.498*time, 0.480*came, 0.411*custom
+Topic 4:   2.706*burger, 0.564*fri, 0.310*medium, 0.284*cook, 0.206*patti, 0.202*bun, 0.191*good, 0.176*burgatori, 0.171*bacon
+Topic 5:   1.235*place, 0.743*servic, 0.624*time, 0.537*just, 0.491*ve, 0.489*good, 0.466*ha, 0.457*like, 0.435*realli
+Topic 6:   1.807*wait, 1.448*minut, 1.291*tabl, 0.792*seat, 0.597*hour, 0.475*reserv, 0.451*waitress, 0.434*servic, 0.409*server
+Topic 7:   2.080*sandwich, 1.128*fri, 0.585*chees, 0.511*bread, 0.372*primanti, 0.353*meat, 0.341*slaw, 0.289*coleslaw, 0.281*pittsburgh

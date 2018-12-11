@@ -1,0 +1,17 @@
+Topic 0:   2076.680*chicken, 1553.906*like, 1379.563*rice, 1348.499*sauce, 1197.863*sushi, 1085.345*ordered, 1080.721*good, 993.013*shrimp, 962.327*place
+Topic 1:   2273.538*burger, 1090.329*fries, 695.621*burgers, 473.866*medium, 301.103*bacon, 286.111*rare, 256.231*bun, 218.350*cooked, 215.433*burgatory
+Topic 2:   4345.258*came, 4292.162*table, 3659.822*waitress, 3218.883*server, 3154.482*minutes, 3151.915*ordered, 2836.139*service, 2623.414*time, 2446.018*took
+Topic 3:   3062.121*good, 2818.946*place, 2171.601*service, 1998.414*menu, 1764.569*just, 1712.493*restaurant, 1641.208*salad, 1486.624*better, 1457.449*really
+Topic 4:   2627.096*place, 1987.965*like, 1922.858*beer, 1803.086*just, 1558.728*good, 1470.528*don, 1393.798*really, 1102.485*ve, 923.487*know
+Topic 5:   470.263*avoid, 146.117*costs, 85.670*chains, 81.675*dump, 53.408*hookah, 47.565*waits, 38.687*unhealthy, 33.155*bye, 26.032*ventured
+Topic 6:   293.994*hill, 281.890*turkey, 244.101*vegan, 226.563*wedding, 211.419*tuna, 160.603*veal, 138.213*bloody, 132.687*meeting, 124.824*hummus
+Topic 7:   774.638*crab, 681.660*game, 305.116*dip, 280.325*watch, 188.324*lukewarm, 174.017*games, 151.995*legs, 136.591*nachos, 120.175*fail
+Topic 8:   823.401*pork, 491.784*bbq, 369.287*hot, 329.420*dog, 309.615*ribs, 309.064*brisket, 294.404*pulled, 279.103*plastic, 212.545*mac
+Topic 9:   217.325*club, 172.838*steaks, 106.513*celebrate, 89.821*river, 73.642*steakhouse, 72.830*sam, 65.980*chris, 37.186*au, 37.021*anybody
+Topic 10:  735.734*buffet, 335.585*indian, 272.250*miss, 250.342*hit, 240.172*duck, 209.857*hair, 111.495*eat, 98.536*flies, 98.528*ave
+Topic 11:  2883.599*bar, 1575.209*place, 1571.498*people, 1286.814*time, 1244.638*just, 1091.092*bartender, 966.174*like, 923.158*don, 901.794*went
+Topic 12:  785.149*restaurant, 751.833*staff, 725.016*service, 667.148*dirty, 663.011*place, 607.799*experience, 478.699*terrible, 465.686*money, 421.755*family
+Topic 13:  970.338*breakfast, 731.322*dish, 719.076*cream, 714.127*eggs, 697.383*potatoes, 580.928*menu, 574.264*brunch, 561.211*ordered, 558.996*coffee
+Topic 14:  169.167*car, 146.310*rolled, 114.740*eyes, 109.881*parking, 98.562*drunk, 93.705*dress, 89.840*security, 79.659*code, 71.557*slammed
+Topic 15:  4123.388*pizza, 3269.465*cheese, 2430.905*like, 2387.540*sandwich, 2147.553*ordered, 2081.944*just, 1829.004*good, 1777.693*sauce, 1619.594*fries
+Topic 16:  3436.905*order, 2479.187*said, 2284.208*told, 1962.765*time, 1892.472*minutes, 1780.326*manager, 1646.657*asked, 1349.532*called, 1313.008*service

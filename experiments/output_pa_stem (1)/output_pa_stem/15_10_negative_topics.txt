@@ -1,0 +1,15 @@
+Topic 0:   3752.212*chicken, 3538.516*order, 3018.606*tast, 2963.271*sauc, 2730.887*like, 2577.877*salad, 2236.384*veri, 2014.139*dish, 1938.359*flavor
+Topic 1:   8189.721*place, 6401.736*good, 5189.619*just, 4848.318*like, 4308.859*realli, 3593.469*veri, 3552.671*time, 3535.233*servic, 3313.768*price
+Topic 2:   3076.276*sandwich, 2907.887*fri, 2870.160*burger, 1191.283*chees, 702.117*order, 677.995*just, 673.434*like, 673.392*bread, 628.995*meat
+Topic 3:   1246.126*roll, 1181.663*sushi, 875.450*rice, 761.722*noodl, 753.396*thai, 750.610*crab, 676.260*soup, 647.229*chines, 612.012*shrimp
+Topic 4:   688.892*store, 277.904*learn, 268.964*locat, 262.225*drive, 253.264*bought, 205.881*groceri, 175.608*buy, 170.999*year, 161.938*review
+Topic 5:   4149.486*bar, 2238.128*tabl, 2051.284*drink, 1686.961*bartend, 1428.125*restaur, 1315.470*reserv, 1249.896*seat, 1142.117*night, 1033.253*peopl
+Topic 6:   1010.413*egg, 973.393*breakfast, 944.156*coffe, 777.365*buffet, 682.731*brunch, 466.870*toast, 466.156*clean, 444.674*dirti, 431.008*ice
+Topic 7:   847.836*card, 510.655*italian, 446.133*credit, 424.987*cash, 300.917*charg, 262.389*pay, 205.361*gift, 197.612*calamari, 160.825*veal
+Topic 8:   8781.812*order, 6150.916*wait, 5868.499*minut, 5807.598*time, 5591.250*ask, 4900.040*did, 4198.205*tabl, 4185.462*servic, 3750.005*said
+Topic 9:   259.805*alcohol, 150.205*club, 81.836*outrag, 76.231*sam, 73.299*mike, 63.554*theater, 46.403*rid, 45.081*sticker, 42.305*built
+Topic 10:  836.391*place, 615.916*peopl, 520.508*servic, 512.740*like, 511.809*rude, 477.942*employe, 461.560*smoke, 425.192*work, 401.270*smell
+Topic 11:  106.022*pool, 101.576*whenev, 99.483*allergi, 96.359*steel, 72.844*valentin, 70.032*falafel, 66.432*familiar, 65.440*chri, 63.707*grub
+Topic 12:  4907.794*pizza, 2126.997*order, 1447.587*wing, 812.214*chees, 784.569*deliveri, 642.461*sauc, 576.683*crust, 468.823*place, 406.202*hoagi
+Topic 13:  267.626*giant, 264.131*hand, 210.937*market, 182.621*wash, 147.381*eagl, 115.430*screen, 94.903*naan, 94.608*park, 87.293*sold
+Topic 14:  1510.931*taco, 956.584*chip, 715.828*mexican, 613.079*salsa, 503.138*burrito, 369.829*bean, 341.685*margarita, 323.295*tortilla, 303.905*rice

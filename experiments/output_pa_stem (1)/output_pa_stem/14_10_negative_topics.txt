@@ -1,0 +1,14 @@
+Topic 0:   1384.700*place, 1009.516*eat, 991.287*like, 790.500*money, 766.983*thai, 760.364*worst, 697.019*star, 629.780*card, 617.503*soup
+Topic 1:   7938.364*place, 5698.091*good, 4779.388*just, 4275.344*realli, 4207.921*like, 3877.526*servic, 3784.128*time, 3449.244*veri, 2804.098*restaur
+Topic 2:   3467.072*fri, 3076.571*sandwich, 2870.165*burger, 2307.201*chees, 1777.901*order, 1693.249*like, 1453.710*good, 1431.908*just, 1107.666*bread
+Topic 3:   3274.200*chicken, 2854.360*sauc, 2772.262*order, 2522.306*tast, 2334.661*dish, 2010.552*veri, 1931.547*flavor, 1922.136*like, 1691.930*good
+Topic 4:   653.187*store, 448.873*hand, 408.038*hi, 388.766*bathroom, 385.420*use, 378.052*custom, 343.259*employe, 318.158*dirti, 306.554*owner
+Topic 5:   3628.011*bar, 2473.904*beer, 2354.215*drink, 1511.001*taco, 1472.758*bartend, 1169.283*wine, 814.559*night, 776.016*glass, 714.542*like
+Topic 6:   2541.422*tabl, 1741.416*seat, 1616.980*peopl, 1414.308*reserv, 1281.550*wait, 1119.386*restaur, 1099.898*walk, 1057.635*staff, 1007.360*place
+Topic 7:   1420.845*fish, 619.837*smell, 305.737*tuna, 296.382*dirti, 239.967*floor, 200.842*clean, 197.617*calamari, 192.499*seafood, 184.960*old
+Topic 8:   8021.195*order, 5599.302*ask, 5447.974*minut, 5145.815*wait, 4877.492*did, 4819.194*time, 3843.895*came, 3810.082*tabl, 3754.309*servic
+Topic 9:   352.447*sick, 143.430*poison, 128.728*ill, 85.079*code, 78.427*bouncer, 76.236*sam, 76.056*health, 72.849*valentin, 72.500*mi
+Topic 10:  1746.195*salad, 915.977*lunch, 777.120*buffet, 469.874*line, 351.780*brunch, 302.552*dress, 235.193*chipotl, 206.898*crepe, 192.939*omelet
+Topic 11:  445.442*free, 445.307*hill, 381.423*sometim, 252.998*takeout, 166.476*gluten, 121.518*squirrel, 99.488*allergi, 65.445*chri, 45.270*song
+Topic 12:  4907.799*pizza, 2893.008*order, 1389.929*wing, 784.573*deliveri, 668.118*sauc, 666.218*time, 665.167*chees, 604.991*place, 526.967*crust
+Topic 13:  340.710*indian, 267.630*giant, 147.386*eagl, 145.565*id, 115.435*screen, 111.916*lo, 109.314*market, 94.908*naan, 87.951*sold

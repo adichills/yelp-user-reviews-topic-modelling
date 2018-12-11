@@ -1,0 +1,8 @@
+Topic 0:   23143.235*sushi, 19251.386*roll, 14246.688*item, 12574.325*menu, 9498.776*crab, 9309.617*cocktail, 7187.592*fish, 6483.497*tuna, 6189.409*chef
+Topic 1:   31877.653*order, 24407.712*chees, 22977.038*tri, 22580.263*coffe, 20961.413*sweet, 20059.929*flavor, 18972.257*delici, 18355.297*just, 18272.180*potato
+Topic 2:   61135.900*pizza, 18148.412*locat, 13989.703*salad, 12001.698*crust, 10865.384*italian, 9047.670*fresh, 8937.917*chees, 8739.388*sauc, 7588.806*pasta
+Topic 3:   55500.181*like, 45644.103*place, 42837.040*burger, 41699.964*good, 33617.851*just, 32730.518*sandwich, 26689.909*fri, 22023.891*ve, 20889.727*know
+Topic 4:   89399.496*great, 53635.372*place, 45512.249*veri, 42031.180*servic, 41709.606*good, 38766.040*bar, 32329.213*night, 31684.917*drink, 31288.085*love
+Topic 5:   82719.761*place, 67945.548*time, 64405.583*good, 60641.260*order, 56068.023*great, 51255.902*veri, 49663.500*servic, 37814.180*alway, 35473.842*wait
+Topic 6:   33402.867*taco, 18343.552*chip, 17251.492*salsa, 16767.122*mexican, 15481.865*good, 13580.621*burrito, 13544.155*bean, 9182.310*green, 8218.791*place
+Topic 7:   47624.358*chicken, 40592.658*good, 29684.996*veri, 25917.800*place, 25854.507*dish, 23562.371*order, 23259.084*tri, 21051.693*rice, 21034.692*restaur

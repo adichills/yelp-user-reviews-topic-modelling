@@ -1,0 +1,10 @@
+Topic 0:   24575.555*pizza, 12763.233*said, 12720.738*order, 8900.366*manager, 8525.889*called, 7923.185*told, 7691.467*customer, 5452.340*phone, 4931.920*asked
+Topic 1:   18297.512*like, 13887.440*just, 13480.382*place, 12595.010*good, 11242.534*menu, 11077.134*didn, 11006.716*ordered, 10249.975*got, 8574.390*really
+Topic 2:   6171.687*wings, 5180.106*restaurant, 3777.687*parking, 3401.264*dinner, 3136.471*serving, 2865.480*patio, 2462.186*friends, 2198.008*groupon, 2116.669*lot
+Topic 3:   18781.526*chicken, 18286.875*cheese, 15785.701*ordered, 15773.772*salad, 11443.453*sauce, 11295.037*good, 11064.396*like, 10228.186*bread, 7983.463*steak
+Topic 4:   29312.956*order, 26478.646*minutes, 19426.284*came, 16326.916*took, 16157.484*ordered, 15129.971*waitress, 14871.406*time, 13571.036*asked, 12087.018*got
+Topic 5:   12308.404*burger, 12033.729*fries, 3963.519*options, 3625.110*burgers, 3204.976*menu, 2658.652*medium, 1993.615*rare, 1859.110*bun, 1550.190*limited
+Topic 6:   13329.442*good, 9785.936*rice, 8728.928*place, 8637.870*chicken, 8011.829*fish, 7752.082*restaurant, 7224.621*tacos, 6908.181*sauce, 6805.957*like
+Topic 7:   45218.669*place, 29998.591*service, 25022.773*just, 23838.165*time, 23678.280*like, 20734.443*good, 20581.980*don, 14921.100*ve, 14347.859*really
+Topic 8:   22221.712*table, 14825.830*server, 14269.203*said, 12956.674*service, 12437.521*restaurant, 10431.099*minutes, 9625.478*asked, 9544.690*walked, 9284.554*tables
+Topic 9:   11778.454*bar, 8299.606*beer, 7840.725*breakfast, 6280.118*coffee, 5368.975*like, 4895.232*place, 4492.930*just, 4156.577*eggs, 3124.521*don

@@ -1,0 +1,16 @@
+Topic 0:   2.443*steak, 1.439*dessert, 1.357*salad, 1.338*dish, 1.331*meal, 1.269*bread, 1.252*chees, 1.188*perfect, 1.168*dinner
+Topic 1:   6.028*pizza, 0.877*crust, 0.715*slice, 0.491*chees, 0.469*pepperoni, 0.338*order, 0.331*garlic, 0.323*sauc, 0.317*pie
+Topic 2:   6.629*great, 2.529*servic, 0.784*atmospher, 0.726*price, 0.685*awesom, 0.583*excel, 0.553*custom, 0.438*drink, 0.353*recommend
+Topic 3:   6.132*burger, 2.111*fri, 0.799*shake, 0.609*chees, 0.502*onion, 0.462*bun, 0.400*bacon, 0.374*patti, 0.366*truffl
+Topic 4:   3.085*chicken, 1.953*thai, 1.813*rice, 1.624*fri, 1.538*noodl, 1.311*spici, 1.151*order, 1.143*soup, 1.131*curri
+Topic 5:   5.637*sushi, 3.204*roll, 1.190*ayc, 0.986*fish, 0.815*fresh, 0.674*tuna, 0.606*chef, 0.605*nigiri, 0.590*sashimi
+Topic 6:   1.956*time, 1.627*order, 1.585*drink, 1.583*wait, 1.539*like, 1.527*did, 1.488*just, 1.260*becaus, 1.236*bar
+Topic 7:   5.328*buffet, 1.012*crab, 0.834*leg, 0.801*dessert, 0.729*station, 0.717*select, 0.697*line, 0.688*seafood, 0.577*lunch
+Topic 8:   4.845*good, 1.954*realli, 0.868*pretti, 0.792*price, 0.527*servic, 0.409*place, 0.388*nice, 0.376*like, 0.284*littl
+Topic 9:   4.882*taco, 1.045*salsa, 0.998*asada, 0.966*mexican, 0.857*carn, 0.841*burrito, 0.587*chip, 0.566*pastor, 0.489*fish
+Topic 10:  3.765*breakfast, 1.933*egg, 1.306*pancak, 1.202*coffe, 0.865*toast, 0.812*waffl, 0.733*bacon, 0.713*hash, 0.639*brunch
+Topic 11:  5.355*veri, 1.978*friendli, 1.703*staff, 1.364*nice, 0.945*clean, 0.678*restaur, 0.672*attent, 0.593*help, 0.534*delici
+Topic 12:  3.595*vega, 3.513*best, 1.958*la, 1.675*ve, 1.370*restaur, 0.719*strip, 0.710*visit, 0.654*time, 0.648*everi
+Topic 13:  4.610*place, 3.015*love, 1.452*amaz, 0.985*tri, 0.778*recommend, 0.654*awesom, 0.615*definit, 0.556*delici, 0.551*everyth
+Topic 14:  5.129*alway, 1.078*time, 0.816*come, 0.683*favorit, 0.561*ve, 0.543*friendli, 0.527*love, 0.512*everi, 0.491*locat
+Topic 15:  4.878*sandwich, 0.727*bread, 0.545*earl, 0.544*chees, 0.527*turkey, 0.502*salad, 0.467*lunch, 0.392*chicken, 0.300*fresh

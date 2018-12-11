@@ -1,0 +1,5 @@
+Topics: 5 Iterations: 1 Time: 439.559s.
+Topics: 8 Iterations: 1 Time: 450.529s.
+Topics: 10 Iterations: 1 Time: 450.679s.
+Topics: 15 Iterations: 1 Time: 474.353s.
+Topics: 23 Iterations: 1 Time: 511.596s.

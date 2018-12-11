@@ -1,0 +1,11 @@
+Topic 0:   1.869*table, 1.799*came, 1.736*asked, 1.734*server, 1.618*said, 1.234*waitress, 1.224*manager, 1.147*didn, 0.991*did
+Topic 1:   2.585*place, 1.584*like, 1.478*just, 1.298*good, 1.275*really, 1.185*don, 0.719*time, 0.686*better, 0.675*people
+Topic 2:   4.871*pizza, 0.709*crust, 0.526*wings, 0.492*cheese, 0.345*pizzas, 0.342*sauce, 0.311*toppings, 0.306*ordered, 0.294*delivery
+Topic 3:   3.589*chicken, 1.387*salad, 1.079*sauce, 0.964*ordered, 0.836*rice, 0.794*fried, 0.704*sandwich, 0.667*soup, 0.584*dry
+Topic 4:   3.217*order, 0.780*called, 0.770*time, 0.682*location, 0.635*wrong, 0.601*phone, 0.569*told, 0.545*said, 0.526*delivery
+Topic 5:   4.224*service, 1.494*horrible, 1.263*customer, 1.129*terrible, 1.060*slow, 0.954*bad, 0.800*worst, 0.782*poor, 0.772*rude
+Topic 6:   3.111*burger, 2.035*fries, 0.837*burgers, 0.700*cheese, 0.485*cold, 0.420*bun, 0.412*sandwich, 0.409*ordered, 0.377*bacon
+Topic 7:   3.628*minutes, 1.753*waited, 1.683*wait, 1.131*waiting, 0.871*took, 0.761*seated, 0.687*hour, 0.626*long, 0.614*time
+Topic 8:   1.521*tacos, 1.365*salsa, 1.287*taco, 1.247*mexican, 1.198*chips, 1.034*burrito, 0.923*beans, 0.668*fish, 0.650*cheese
+Topic 9:   3.552*sushi, 1.032*roll, 0.904*rolls, 0.674*fish, 0.365*tuna, 0.308*rice, 0.301*happy, 0.299*hour, 0.299*quality
+Topic 10:  3.607*bar, 1.298*beer, 1.226*bartender, 0.945*drinks, 0.881*drink, 0.801*happy, 0.749*hour, 0.526*night, 0.489*sat

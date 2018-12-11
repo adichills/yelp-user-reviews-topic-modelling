@@ -1,0 +1,16 @@
+Topic 0:   2.509*table, 2.307*came, 2.233*server, 1.610*waitress, 1.098*asked, 1.060*drinks, 1.023*ordered, 1.003*took, 0.977*waiter
+Topic 1:   2.816*place, 1.791*like, 1.732*good, 1.561*just, 1.491*really, 0.947*don, 0.759*great, 0.751*better, 0.688*bad
+Topic 2:   4.867*pizza, 0.705*crust, 0.529*wings, 0.456*cheese, 0.347*sauce, 0.344*pizzas, 0.307*toppings, 0.307*delivery, 0.304*ordered
+Topic 3:   4.344*chicken, 1.103*rice, 1.036*sauce, 0.960*fried, 0.725*ordered, 0.534*dry, 0.503*flavor, 0.469*tasted, 0.452*soup
+Topic 4:   4.209*order, 0.711*wrong, 0.495*delivery, 0.465*got, 0.402*took, 0.395*orders, 0.385*placed, 0.377*pick, 0.365*phone
+Topic 5:   4.347*service, 1.558*horrible, 1.174*terrible, 1.173*customer, 1.136*slow, 0.974*bad, 0.785*poor, 0.670*good, 0.660*worst
+Topic 6:   3.653*burger, 2.229*fries, 0.962*burgers, 0.448*cheese, 0.438*bun, 0.435*cold, 0.364*ordered, 0.355*medium, 0.327*cooked
+Topic 7:   4.081*minutes, 1.881*waited, 1.600*wait, 1.178*waiting, 0.733*seated, 0.537*finally, 0.502*took, 0.492*later, 0.469*told
+Topic 8:   4.108*sushi, 1.185*roll, 1.030*rolls, 0.782*fish, 0.418*tuna, 0.346*fresh, 0.343*rice, 0.333*quality, 0.313*salmon
+Topic 9:   2.055*tacos, 1.826*salsa, 1.743*taco, 1.649*mexican, 1.584*chips, 1.410*burrito, 1.229*beans, 0.897*fish, 0.806*rice
+Topic 10:  4.080*bar, 1.330*bartender, 1.243*beer, 0.862*drink, 0.778*drinks, 0.560*sat, 0.505*night, 0.425*bartenders, 0.407*area
+Topic 11:  4.225*salad, 0.828*dressing, 0.659*lettuce, 0.540*lunch, 0.467*soup, 0.445*ordered, 0.384*small, 0.362*salads, 0.353*steak
+Topic 12:  2.303*said, 2.075*manager, 1.589*told, 1.347*asked, 0.956*rude, 0.845*customer, 0.827*called, 0.739*owner, 0.708*business
+Topic 13:  3.733*sandwich, 1.180*cheese, 1.169*bread, 0.764*meat, 0.692*sandwiches, 0.493*ordered, 0.455*turkey, 0.420*bbq, 0.381*breakfast
+Topic 14:  2.899*time, 1.451*location, 1.212*ve, 1.113*times, 0.531*long, 0.453*don, 0.431*second, 0.374*waste, 0.338*wait
+Topic 15:  3.380*hour, 2.272*happy, 0.631*half, 0.461*menu, 0.339*prices, 0.309*wait, 0.272*pm, 0.272*price, 0.221*drinks

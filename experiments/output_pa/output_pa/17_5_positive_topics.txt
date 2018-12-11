@@ -1,0 +1,17 @@
+Topic 0:   5006.587*chicken, 4157.183*tacos, 3158.187*sauce, 3131.620*cheese, 2851.258*good, 2540.466*wings, 2511.970*taco, 2424.325*pork, 2354.573*chips
+Topic 1:   19654.578*place, 17630.556*good, 14763.243*like, 12609.006*ve, 12278.562*just, 10757.868*really, 10394.291*time, 9620.009*don, 6861.258*pittsburgh
+Topic 2:   1749.783*buffet, 1503.344*indian, 774.829*chicken, 458.357*naan, 438.976*signature, 425.412*dishes, 412.073*masala, 341.835*vegetarian, 265.913*weekly
+Topic 3:   11680.710*bar, 9813.276*great, 7140.277*place, 6635.013*beer, 6614.784*good, 5163.644*drinks, 4673.061*nice, 4140.723*night, 3944.629*drink
+Topic 4:   1794.927*shop, 1123.950*grill, 989.527*turkey, 823.811*oysters, 797.767*market, 796.622*heart, 719.781*square, 682.942*pretzel, 642.423*conversation
+Topic 5:   3865.084*sushi, 2697.409*fish, 2333.408*roll, 1315.721*tuna, 1199.483*rolls, 640.306*fresh, 630.635*salmon, 625.452*japanese, 587.154*penn
+Topic 6:   7206.135*sandwich, 2373.554*sandwiches, 1817.070*fries, 1297.763*bread, 947.723*slaw, 917.509*beef, 677.994*deli, 654.659*primanti, 605.507*sub
+Topic 7:   3891.793*cream, 2487.087*ice, 1871.418*chocolate, 1236.733*meats, 1213.119*cake, 1135.040*dessert, 981.403*waffle, 959.765*sweet, 937.732*flavors
+Topic 8:   4222.838*coffee, 3534.224*brunch, 2107.785*tea, 1652.904*vegan, 1207.274*cafe, 1158.066*delicious, 1129.607*french, 1021.765*sunday, 858.318*chocolate
+Topic 9:   6404.628*burger, 4428.455*fries, 2414.136*burgers, 1858.716*bacon, 1055.968*onion, 1003.856*steak, 967.144*bun, 715.841*filet, 659.383*potato
+Topic 10:  12373.479*pizza, 2665.391*sauce, 2223.906*chinese, 2195.403*crust, 1886.159*good, 1669.017*pie, 1649.015*cheese, 1535.910*chicken, 1498.934*order
+Topic 11:  1391.170*pittsburgh, 1171.336*chef, 887.929*pho, 868.698*case, 862.947*view, 785.709*steak, 693.731*menu, 681.739*birthday, 668.289*restaurant
+Topic 12:  3590.238*thai, 2123.338*curry, 2117.726*spicy, 1846.290*rice, 1771.114*noodles, 1446.544*tofu, 1396.446*soup, 1231.602*spice, 1224.753*chicken
+Topic 13:  4342.309*breakfast, 3299.113*lunch, 2330.156*fresh, 2185.529*salad, 1935.400*eggs, 1840.530*toast, 1641.554*free, 1608.185*diner, 1565.346*cheese
+Topic 14:  10565.759*ordered, 7676.236*came, 7040.479*got, 5894.466*salad, 5880.438*good, 5772.230*delicious, 5666.524*sauce, 5098.624*meal, 4814.841*dinner
+Topic 15:  1202.564*told, 974.531*minutes, 876.547*took, 761.014*did, 675.153*asked, 672.907*decided, 634.997*said, 590.473*walked, 578.980*owner
+Topic 16:  9701.640*great, 6336.035*service, 4372.930*friendly, 3932.117*place, 3860.363*restaurant, 3786.133*delicious, 3611.607*staff, 3288.619*recommend, 3200.460*excellent

@@ -1,0 +1,15 @@
+Topic 0:   696.582*parking, 544.209*drive, 448.604*dog, 375.518*car, 348.642*lot, 303.967*window, 292.236*hot, 271.786*cafe, 260.503*closed
+Topic 1:   4500.229*pizza, 726.435*buffet, 646.081*delivery, 350.373*indian, 331.783*pizzas, 292.121*deliver, 265.039*called, 212.783*ordered, 211.285*pepperoni
+Topic 2:   5510.702*table, 3685.695*server, 3405.933*service, 3094.172*came, 3067.509*minutes, 2738.864*restaurant, 2304.289*tables, 2240.187*drinks, 2152.994*took
+Topic 3:   893.293*card, 591.852*credit, 374.345*gift, 290.316*use, 280.373*bathroom, 223.522*hands, 215.360*floor, 194.758*cards, 183.919*restroom
+Topic 4:   3003.843*cheese, 2159.311*ordered, 2036.855*salad, 1434.978*chicken, 1375.065*sauce, 1318.277*bread, 1243.112*wings, 1207.298*like, 1172.315*got
+Topic 5:   1986.369*location, 956.763*line, 712.831*ve, 671.518*owner, 647.663*chipotle, 642.116*staff, 588.157*business, 569.433*don, 531.927*time
+Topic 6:   225.811*margaritas, 149.132*chop, 134.565*margarita, 100.345*tequila, 99.849*john, 99.390*pool, 94.700*clientele, 94.611*al, 76.291*shoulder
+Topic 7:   1434.822*sushi, 1182.290*chicken, 880.028*rice, 806.714*chinese, 739.733*roll, 697.064*fried, 686.853*rolls, 496.065*like, 465.036*egg
+Topic 8:   2539.101*service, 2446.158*place, 1531.070*ve, 1321.385*good, 1185.571*years, 1146.989*time, 1081.266*used, 1050.605*bad, 1042.683*times
+Topic 9:   2949.612*burger, 1952.945*fries, 1848.641*steak, 1475.555*good, 1320.512*sandwich, 1167.938*ordered, 952.977*burgers, 931.473*better, 903.430*menu
+Topic 10:  2856.558*asked, 2771.977*said, 1688.731*manager, 1675.751*didn, 1665.470*waitress, 1459.931*came, 1357.820*told, 1116.180*like, 1086.023*ordered
+Topic 11:  4149.909*like, 3896.945*good, 3037.719*just, 2707.709*chicken, 2485.980*sauce, 2382.798*ordered, 2277.190*really, 2255.749*place, 1894.758*flavor
+Topic 12:  736.477*music, 586.483*loud, 499.674*customers, 492.310*man, 406.358*counter, 351.916*staff, 349.211*employees, 314.695*hear, 304.390*young
+Topic 13:  4512.962*place, 3072.111*bar, 2683.723*like, 2220.160*beer, 2019.257*good, 1987.706*just, 1556.287*really, 1230.007*great, 1104.299*don
+Topic 14:  5715.849*order, 4146.106*time, 3741.734*minutes, 2816.210*just, 2722.820*place, 2347.171*service, 2305.689*wait, 2189.013*told, 2039.468*people

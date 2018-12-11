@@ -1,0 +1,16 @@
+Topic 0:   6612.858*place, 4955.068*like, 4132.901*just, 2947.016*realli, 2789.063*good, 2480.671*look, 2450.264*bar, 2029.677*price, 1898.877*peopl
+Topic 1:   2800.828*sandwich, 815.625*beef, 596.723*bread, 570.492*bbq, 542.123*rib, 540.448*corn, 462.780*meat, 424.049*pork, 373.034*turkey
+Topic 2:   3451.453*salad, 1854.007*taco, 1390.181*chees, 939.403*tomato, 841.095*dress, 806.990*lettuc, 784.359*chicken, 534.620*just, 520.103*pepper
+Topic 3:   987.147*dirti, 674.986*clean, 522.208*bathroom, 407.032*floor, 379.282*hand, 361.208*disgust, 353.243*mash, 351.269*smell, 344.754*waffl
+Topic 4:   1447.952*egg, 1435.557*sushi, 1264.371*coffe, 1212.165*breakfast, 781.247*buffet, 739.456*roll, 609.018*brunch, 554.710*bacon, 532.900*toast
+Topic 5:   985.710*chip, 795.145*mexican, 697.502*salsa, 544.238*burrito, 538.054*margarita, 285.703*guacamol, 236.257*bland, 211.499*flavor, 188.210*guac
+Topic 6:   7416.613*tabl, 6779.847*order, 6431.638*wait, 5812.086*minut, 5052.802*ask, 4819.450*drink, 4696.239*did, 4581.813*server, 4454.917*came
+Topic 7:   740.861*music, 493.733*loud, 486.783*ramen, 332.906*play, 328.866*noodl, 265.219*band, 233.720*hear, 214.371*broth, 214.225*bun
+Topic 8:   2926.102*manag, 2199.883*custom, 1891.733*restaur, 1887.962*servic, 1554.630*staff, 1451.823*experi, 1203.248*owner, 1169.223*hi, 1141.022*time
+Topic 9:   3396.692*servic, 3279.243*place, 2793.532*time, 2742.625*good, 2170.859*restaur, 2142.894*ha, 1973.923*veri, 1811.041*just, 1660.218*great
+Topic 10:  3890.366*burger, 2983.395*pizza, 2477.425*fri, 2210.509*chees, 1407.973*good, 1268.085*wing, 1106.133*order, 1058.380*sauc, 997.352*like
+Topic 11:  1071.342*park, 471.807*patio, 471.382*lot, 388.061*chocol, 271.402*tv, 266.002*sport, 251.833*panera, 224.452*car, 202.974*bar
+Topic 12:  1089.912*card, 859.266*game, 572.747*credit, 420.531*indian, 411.789*pho, 382.007*gift, 366.356*use, 338.508*coupon, 316.888*play
+Topic 13:  7089.804*order, 3301.507*time, 2032.984*said, 2010.976*place, 1865.641*just, 1851.150*pizza, 1837.553*wait, 1809.111*minut, 1776.470*ask
+Topic 14:  1180.172*bowl, 1167.714*charg, 1023.030*extra, 573.891*chipotl, 432.817*tuna, 398.283*rice, 228.603*mile, 108.204*term, 100.054*burrito
+Topic 15:  4166.796*chicken, 3748.777*order, 3391.512*tast, 3192.787*like, 3066.109*veri, 2830.375*sauc, 2780.351*good, 2471.844*dish, 2012.922*did

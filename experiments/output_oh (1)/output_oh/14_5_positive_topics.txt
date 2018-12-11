@@ -1,0 +1,14 @@
+Topic 0:   4231.985*coffee, 3365.989*cream, 2244.053*vegan, 2164.211*ice, 1655.566*free, 1388.560*shop, 1291.899*chocolate, 1011.498*tea, 959.828*gluten
+Topic 1:   13539.317*good, 13365.497*great, 13016.808*place, 10360.190*service, 7097.954*friendly, 6626.943*restaurant, 5604.709*staff, 4986.104*nice, 4952.810*time
+Topic 2:   3906.890*cleveland, 2103.945*city, 1793.372*ohio, 1212.744*downtown, 750.500*th, 713.518*location, 638.875*west, 633.082*lake, 611.224*new
+Topic 3:   13701.688*great, 8728.826*good, 7272.022*bar, 6749.051*place, 6595.492*beer, 5828.615*night, 5235.539*happy, 5103.102*really, 5038.460*time
+Topic 4:   2932.931*delicious, 2529.709*dessert, 2499.490*wine, 2379.791*great, 2353.062*pasta, 2328.242*restaurant, 2242.849*amazing, 2129.188*italian, 2059.397*bread
+Topic 5:   4488.003*sushi, 2680.543*chicken, 2600.544*chinese, 2467.623*roll, 2222.663*rolls, 2099.888*rice, 1986.653*good, 1850.471*dishes, 1828.950*indian
+Topic 6:   6836.442*chicken, 5282.195*sauce, 5278.735*good, 4817.444*salad, 4206.422*like, 4101.620*fresh, 3610.027*really, 3290.013*soup, 3162.014*just
+Topic 7:   4753.227*cheese, 4603.702*good, 2967.908*bacon, 2942.392*ordered, 2769.837*pork, 2739.669*fried, 2706.957*fries, 2683.692*got, 2594.520*chicken
+Topic 8:   3172.776*meal, 3129.914*just, 2957.498*came, 2766.136*ordered, 2628.564*table, 2347.065*experience, 2326.968*restaurant, 2304.660*didn, 2292.500*did
+Topic 9:   747.052*girl, 581.371*fry, 361.907*chili, 331.073*gourmet, 305.896*fellow, 303.674*soul, 282.156*stir, 269.722*teriyaki, 237.190*oily
+Topic 10:  6492.249*like, 5171.003*bar, 5090.295*place, 2683.270*don, 2668.074*just, 2664.592*people, 2193.113*old, 2052.378*parking, 1992.806*lot
+Topic 11:  9058.273*place, 8616.790*ve, 6906.852*love, 6787.038*best, 5496.030*burger, 5374.447*great, 4143.990*amazing, 3603.329*time, 3409.691*just
+Topic 12:  1297.185*man, 959.952*know, 807.027*customer, 806.544*minutes, 771.554*slow, 687.020*door, 627.503*time, 591.373*owner, 560.530*stars
+Topic 13:  12010.546*pizza, 5228.909*sandwich, 4628.822*cheese, 4494.486*good, 3702.924*sauce, 2727.546*just, 2589.587*bbq, 2577.073*like, 2352.521*sandwiches

@@ -1,0 +1,15 @@
+Topic 0:   16869.090*buffet, 6656.312*crab, 4985.641*lobster, 4234.926*seafood, 3930.360*shrimp, 3785.289*price, 3766.946*line, 3673.795*select, 3437.075*dessert
+Topic 1:   6454.846*noodl, 2594.238*ramen, 2418.281*chines, 1655.556*broth, 1616.368*soup, 1613.029*egg, 1111.204*pot, 1081.991*express, 960.984*chow
+Topic 2:   13627.217*room, 8524.456*hotel, 7578.513*stay, 5888.728*vega, 3851.588*casino, 3695.583*park, 3170.066*strip, 3119.185*la, 2687.100*night
+Topic 3:   18546.063*fri, 17898.536*burger, 15868.736*like, 15809.046*order, 14839.678*good, 14759.792*salad, 13711.204*chees, 13263.080*just, 11435.719*did
+Topic 4:   21331.421*pizza, 13855.696*order, 5362.052*wing, 4462.184*locat, 3937.981*time, 3866.011*pho, 3723.401*deliveri, 3477.026*place, 2503.803*slice
+Topic 5:   27423.756*place, 22154.339*like, 14937.189*just, 8581.579*realli, 8493.886*look, 7940.064*becaus, 7532.805*want, 6920.785*peopl, 6587.054*know
+Topic 6:   7723.302*breakfast, 7647.762*egg, 7473.359*ice, 5836.380*coffe, 5503.893*hot, 5236.398*cream, 4606.618*tea, 3850.923*dog, 3848.147*cake
+Topic 7:   21773.799*chicken, 13326.742*tast, 13104.829*rice, 11548.468*sauc, 11077.548*order, 10910.190*like, 10072.779*flavor, 8021.754*dish, 7948.117*good
+Topic 8:   19138.663*place, 12527.617*sushi, 11979.870*roll, 10589.582*good, 9925.827*servic, 8948.269*time, 7546.355*price, 7319.634*ha, 6456.353*restaur
+Topic 9:   61161.399*order, 43089.852*wait, 42698.254*time, 40748.093*ask, 38677.034*servic, 36026.513*minut, 33131.543*did, 29162.836*just, 27565.111*tabl
+Topic 10:  4472.376*club, 3906.628*night, 3392.000*line, 3214.076*peopl, 2963.019*friend, 2645.783*sick, 2538.512*bar, 2519.839*got, 2397.677*girl
+Topic 11:  19598.489*restaur, 13387.163*steak, 13102.413*tabl, 10639.238*meal, 9964.491*waiter, 9948.847*menu, 9815.212*veri, 9069.352*server, 8890.087*dinner
+Topic 12:  11902.670*sandwich, 7084.663*bread, 4444.791*servic, 4014.407*pasta, 3304.603*better, 3301.074*italian, 3220.538*veri, 3172.736*price, 2777.292*good
+Topic 13:  9126.588*taco, 5625.917*chip, 4016.619*mexican, 3757.954*burrito, 3503.013*salsa, 2541.361*bean, 2523.039*nacho, 1961.697*margarita, 1896.999*tortilla
+Topic 14:  12245.394*manag, 7782.363*told, 7620.676*charg, 6651.403*did, 6385.211*said, 6288.896*card, 5863.574*custom, 3656.995*phone, 3586.185*day

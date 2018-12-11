@@ -1,0 +1,14 @@
+Topic 0:   3436.120*sauce, 2607.817*chicken, 2306.065*like, 2061.552*ordered, 1685.775*good, 1678.737*flavor, 1411.275*just, 1329.120*dish, 1325.076*tasted
+Topic 1:   2473.431*burger, 1245.226*fries, 739.183*burgers, 348.607*medium, 340.335*bacon, 282.725*burgatory, 269.365*bun, 256.382*patty, 208.726*cooked
+Topic 2:   5136.602*time, 5105.593*service, 4921.274*minutes, 4878.364*came, 4158.357*table, 4008.511*just, 3944.789*ordered, 3565.234*waitress, 3364.327*got
+Topic 3:   4965.968*place, 2934.327*just, 2919.631*good, 2786.010*like, 2068.362*better, 2004.437*don, 1868.515*really, 1387.931*great, 1387.766*service
+Topic 4:   2720.889*order, 1631.190*said, 1488.087*pizza, 1378.974*just, 1154.777*called, 1110.366*don, 907.060*told, 897.671*customer, 883.626*place
+Topic 5:   908.532*tacos, 616.736*taco, 398.310*cake, 172.656*queso, 167.053*gonna, 135.350*bell, 132.869*tortillas, 120.362*creme, 72.027*whipped
+Topic 6:   941.707*good, 619.685*restaurant, 585.736*really, 520.568*options, 507.754*menu, 499.965*nice, 499.502*salad, 498.868*meal, 467.604*wine
+Topic 7:   3035.950*pizza, 2269.528*sandwich, 2117.230*cheese, 1276.809*fries, 765.213*ordered, 694.936*mexican, 671.481*chips, 650.199*sandwiches, 614.176*bread
+Topic 8:   763.888*pork, 320.460*dog, 291.375*smoke, 234.043*pulled, 210.198*duck, 205.746*avoid, 164.788*bbq, 152.566*belly, 111.379*brew
+Topic 9:   386.373*free, 178.078*giant, 171.682*gluten, 155.085*avocado, 153.210*steaks, 138.292*eagle, 110.310*celebrate, 103.357*benedict, 87.730*sam
+Topic 10:  1333.389*place, 951.097*good, 892.613*don, 833.308*like, 703.595*want, 702.308*buffet, 690.153*big, 616.746*really, 600.318*just
+Topic 11:  625.494*card, 448.023*open, 376.790*credit, 375.343*people, 337.803*line, 320.561*room, 314.331*closed, 312.786*employees, 289.882*cash
+Topic 12:  1584.164*manager, 1303.034*restaurant, 1158.000*staff, 1027.783*bar, 851.643*time, 709.180*experience, 675.712*table, 675.012*customers, 652.054*people
+Topic 13:  1041.529*breakfast, 850.467*coffee, 762.456*eggs, 614.752*brunch, 506.856*bacon, 440.575*potatoes, 430.810*toast, 412.426*diner, 343.154*cream

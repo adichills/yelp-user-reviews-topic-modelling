@@ -1,0 +1,10 @@
+Topic 0:   65506.950*good, 31486.128*burger, 29867.258*fries, 26245.052*really, 25853.093*place, 25756.467*like, 21299.380*pretty, 17309.131*location, 14426.452*just
+Topic 1:   24950.263*great, 21593.256*tacos, 18839.197*good, 16696.119*mexican, 16400.389*place, 16288.915*chips, 15303.258*salsa, 11994.834*taco, 10074.752*burrito
+Topic 2:   37010.274*bar, 36654.119*place, 36619.957*like, 24136.116*just, 21843.349*good, 20746.488*beer, 19294.069*don, 19163.690*people, 17846.707*drinks
+Topic 3:   7469.468*believe, 6934.591*bite, 6107.403*tempe, 5751.702*entire, 5493.820*new, 5356.497*ingredients, 5155.806*course, 5095.386*yelp, 4537.326*trip
+Topic 4:   20338.675*like, 16325.869*meat, 15187.126*sandwich, 14895.160*bbq, 14710.612*don, 13745.078*order, 13249.737*just, 11028.477*know, 10970.273*free
+Topic 5:   53156.575*great, 50253.655*time, 49484.594*place, 45760.981*service, 40079.334*got, 39712.836*ordered, 37066.673*good, 36811.655*came, 30857.836*went
+Topic 6:   29366.151*breakfast, 22476.589*coffee, 16013.223*bacon, 12368.984*sandwich, 11651.091*cheese, 10565.408*good, 10402.309*place, 10169.096*eggs, 9940.639*love
+Topic 7:   56459.658*place, 55433.776*great, 30144.320*best, 30099.508*love, 29678.228*service, 26122.613*ve, 23116.257*sushi, 18469.998*good, 18156.539*friendly
+Topic 8:   55898.632*pizza, 19359.583*wine, 13171.487*wings, 12904.489*cheese, 11605.796*italian, 11238.269*crust, 8639.608*pasta, 6043.293*pie, 6007.744*sauce
+Topic 9:   51437.372*chicken, 30450.423*good, 27003.473*sauce, 23293.136*salad, 23241.725*fried, 21601.631*ordered, 21377.859*rice, 19642.013*dish, 16681.653*delicious

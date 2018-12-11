@@ -1,0 +1,5 @@
+Topic 0:   7823.187*ordered, 6842.636*cheese, 6370.709*salad, 6214.897*delicious, 5924.591*chicken, 5808.669*sauce, 5753.354*got, 5038.803*just, 4164.651*good
+Topic 1:   16916.497*good, 14312.293*place, 9058.416*great, 7755.399*like, 7300.679*chicken, 6981.727*service, 6691.994*time, 6529.571*lunch, 6460.174*ve
+Topic 2:   4075.626*cleveland, 3411.637*bar, 3210.400*tacos, 2979.396*menu, 2795.368*restaurant, 2711.290*just, 2534.509*table, 2090.959*old, 2036.633*parking
+Topic 3:   23726.640*great, 19291.481*place, 18306.071*good, 11097.892*service, 9608.624*bar, 9601.212*really, 9307.693*time, 7903.582*like, 7729.954*beer
+Topic 4:   12116.235*pizza, 5468.244*sauce, 5356.192*best, 4708.029*ve, 4270.917*like, 3958.902*good, 3879.100*place, 3322.874*cheese, 3007.075*love

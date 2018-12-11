@@ -1,0 +1,14 @@
+Topic 0:   4157.195*tacos, 4151.135*chicken, 3934.607*good, 3351.511*sauce, 2937.441*wings, 2511.983*taco, 2242.584*cheese, 2195.229*pork, 2160.062*fried
+Topic 1:   23265.067*place, 17245.517*great, 17115.675*good, 10545.025*like, 10215.330*ve, 8478.918*pittsburgh, 8013.314*just, 7985.165*service, 7836.895*really
+Topic 2:   3112.256*italian, 1023.429*family, 964.515*home, 900.485*literally, 893.296*like, 843.551*know, 718.662*way, 666.296*somewhat, 621.899*sausage
+Topic 3:   10235.386*ordered, 10089.786*got, 9611.329*good, 8636.466*came, 8304.826*time, 7523.501*really, 6267.803*didn, 6185.099*went, 5988.423*just
+Topic 4:   7193.025*sandwich, 2376.555*sandwiches, 1123.963*grill, 1069.182*market, 1028.754*bread, 989.540*turkey, 796.634*heart, 796.610*ramen, 736.212*meatball
+Topic 5:   4601.894*breakfast, 4477.267*coffee, 3678.961*brunch, 2279.663*eggs, 1840.543*toast, 1607.513*french, 1605.832*diner, 1540.735*pancakes, 1254.011*bacon
+Topic 6:   1994.577*bbq, 1576.952*pork, 1199.412*ribs, 1068.547*mac, 1046.772*pulled, 1000.192*brisket, 987.194*slaw, 809.730*cheese, 800.211*airport
+Topic 7:   4199.325*cream, 2996.570*chocolate, 2681.050*sweet, 2487.100*ice, 2259.400*dessert, 1917.225*cake, 1808.209*like, 1766.486*flavor, 1617.861*butter
+Topic 8:   2525.167*beer, 1976.058*vegan, 1922.879*free, 1080.068*dog, 1072.280*tea, 987.916*gluten, 960.981*gyro, 954.753*hot, 924.318*beers
+Topic 9:   6932.579*fries, 6404.641*burger, 2437.695*cheese, 2414.149*burgers, 1867.847*bacon, 1863.077*beer, 1098.335*onion, 1033.040*french, 912.636*potato
+Topic 10:  12373.493*pizza, 2195.416*crust, 1967.555*cheese, 1536.645*pie, 1448.375*sauce, 1206.132*delivery, 1184.818*asian, 1124.537*pizzas, 1121.143*best
+Topic 11:  5315.398*restaurant, 4271.779*great, 3793.855*dinner, 3746.742*service, 3689.013*delicious, 3546.348*menu, 3506.664*wine, 3252.983*meal, 3152.939*dish
+Topic 12:  3670.052*sushi, 3590.250*thai, 2890.180*spicy, 2509.984*rice, 2485.532*chicken, 2282.611*noodles, 2223.918*chinese, 2150.989*rolls, 2123.350*curry
+Topic 13:  6416.348*salad, 6009.982*chicken, 5886.390*lunch, 5651.980*fresh, 5608.864*good, 4073.934*delicious, 3891.279*place, 3657.783*great, 3413.099*like

@@ -1,0 +1,13 @@
+Topic 0:   9734.817*burger, 4027.495*fri, 3751.100*best, 2926.840*thai, 2922.775*cleveland, 2870.777*game, 2714.772*ve, 2501.251*place, 1507.370*bun
+Topic 1:   5382.680*roll, 4765.009*sushi, 3276.024*place, 2862.025*good, 2712.490*tea, 2543.340*fish, 2481.530*rice, 2470.528*tri, 2381.253*spici
+Topic 2:   15399.766*good, 11383.948*veri, 10882.160*great, 8795.328*chees, 8347.228*place, 8168.183*sandwich, 8038.901*chicken, 6774.598*sauc, 6769.781*order
+Topic 3:   4266.326*park, 2661.538*street, 1406.612*treat, 1005.125*belli, 989.886*ye, 924.537*dark, 876.014*shop, 624.321*school, 598.515*quiet
+Topic 4:   13870.062*order, 12096.869*just, 12092.365*time, 11908.980*like, 11536.610*place, 10581.579*good, 10192.254*did, 7776.818*becaus, 7450.158*want
+Topic 5:   1884.166*place, 1857.609*mexican, 1819.727*like, 1506.743*store, 1366.817*pita, 1354.216*hummu, 1236.448*ha, 1119.137*gyro, 950.815*falafel
+Topic 6:   5053.296*taco, 4750.532*dish, 3501.783*restaur, 3366.927*menu, 2750.918*happi, 2282.675*hour, 2143.134*rice, 1812.167*margarita, 1700.253*tri
+Topic 7:   2219.430*vegan, 2196.377*indian, 2153.002*french, 2152.388*pho, 1869.879*buffet, 1806.041*bowl, 1804.625*veggi, 1699.213*option, 1380.228*cute
+Topic 8:   13605.366*pizza, 2746.971*crust, 2135.182*italian, 1462.827*sauc, 1443.352*best, 1335.057*pie, 1281.572*lakewood, 1100.303*order, 1053.093*good
+Topic 9:   12279.239*bar, 9985.745*beer, 9571.566*great, 6904.703*drink, 5555.027*place, 4246.542*menu, 4129.221*night, 3515.451*love, 3491.234*select
+Topic 10:  4940.872*flavor, 4178.827*sweet, 3423.384*cream, 3255.291*fri, 3228.205*sauc, 3085.800*pork, 2612.860*ice, 2505.876*potato, 2370.863*like
+Topic 11:  12848.514*great, 11317.634*veri, 9623.816*place, 9070.571*servic, 8255.133*good, 8244.214*restaur, 7730.927*time, 6894.252*love, 6415.594*dinner
+Topic 12:  1458.646*wine, 751.647*dessert, 683.069*glass, 650.440*pasta, 605.869*cheesecak, 530.464*cours, 500.130*hi, 480.263*bottl, 478.074*artichok

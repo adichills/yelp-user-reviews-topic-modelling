@@ -1,0 +1,11 @@
+Topic 0:   316.542*closed, 314.357*door, 276.296*cafe, 261.545*open, 214.767*parking, 203.688*monday, 200.304*drove, 187.326*sign, 186.385*called
+Topic 1:   1435.819*sushi, 810.080*chinese, 749.641*rice, 732.964*buffet, 608.913*roll, 511.996*rolls, 467.447*cleveland, 438.500*restaurant, 423.399*asian
+Topic 2:   5919.583*table, 5123.033*minutes, 4645.052*service, 4514.564*came, 4292.885*server, 3952.216*time, 3668.085*asked, 3319.829*waitress, 3068.728*didn
+Topic 3:   899.356*card, 599.292*credit, 411.475*music, 375.460*gift, 332.245*use, 314.051*cash, 248.711*pay, 246.139*playing, 224.511*coupon
+Topic 4:   4503.292*pizza, 2723.018*order, 2125.259*ordered, 1514.124*wings, 1265.478*said, 1130.550*time, 1082.246*asked, 1077.994*cheese, 1042.752*told
+Topic 5:   5062.171*place, 3560.143*service, 2643.453*just, 2548.977*like, 2526.018*don, 2468.477*time, 2302.325*ve, 2166.590*good, 1861.303*staff
+Topic 6:   3951.892*bar, 2365.506*beer, 1456.432*bartender, 720.799*drink, 687.919*beers, 547.505*selection, 525.515*drinks, 428.781*bartenders, 290.410*place
+Topic 7:   2207.247*order, 1503.369*just, 1331.200*time, 1236.416*place, 1185.438*said, 1171.842*like, 1151.266*minutes, 1076.581*got, 969.901*went
+Topic 8:   1903.542*good, 1738.137*menu, 1451.541*really, 1396.587*place, 1305.411*just, 1075.011*service, 1048.890*price, 1037.828*better, 1026.760*restaurant
+Topic 9:   5391.716*like, 5151.636*good, 4997.371*chicken, 4377.752*ordered, 3591.311*just, 3423.367*sauce, 2965.842*place, 2643.139*cheese, 2499.153*salad
+Topic 10:  1027.817*tacos, 899.775*chips, 833.643*taco, 788.189*mexican, 653.942*salsa, 529.428*burrito, 497.156*like, 332.892*beans, 326.609*dog

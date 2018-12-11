@@ -1,0 +1,5 @@
+Topic 0:   23729.616*good, 19272.648*like, 18403.175*place, 18028.541*order, 17288.778*tast, 17064.683*restaur, 16930.812*veri, 16591.307*dish, 14996.729*just
+Topic 1:   16866.284*buffet, 13628.775*room, 12243.194*vega, 9128.333*price, 8524.595*hotel, 8326.156*place, 8077.476*veri, 8045.490*stay, 7337.565*better
+Topic 2:   23991.538*place, 14582.674*like, 11928.677*just, 10537.073*time, 9811.898*ha, 9735.201*becaus, 9459.917*peopl, 8551.755*know, 8467.776*review
+Topic 3:   29139.725*order, 23941.491*like, 21087.853*fri, 19838.903*chicken, 19100.762*good, 18896.066*pizza, 17898.543*burger, 17801.871*place, 17694.010*just
+Topic 4:   65561.824*order, 44129.657*ask, 42438.726*wait, 41778.948*servic, 40300.961*time, 37476.540*did, 36468.647*minut, 33359.474*tabl, 29093.211*said

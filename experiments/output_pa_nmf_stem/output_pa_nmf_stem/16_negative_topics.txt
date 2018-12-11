@@ -1,0 +1,16 @@
+Topic 0:   1.910*tabl, 1.357*ask, 1.000*waitress, 0.978*server, 0.957*did, 0.817*said, 0.799*seat, 0.783*came, 0.689*manag
+Topic 1:   1.838*place, 1.040*just, 0.819*like, 0.818*time, 0.708*realli, 0.678*ve, 0.626*ha, 0.604*becaus, 0.548*want
+Topic 2:   3.513*pizza, 0.454*crust, 0.425*chees, 0.250*pepperoni, 0.245*slice, 0.218*sauc, 0.201*deliveri, 0.164*pie, 0.149*dough
+Topic 3:   2.942*order, 0.590*time, 0.565*deliveri, 0.412*said, 0.394*did, 0.390*phone, 0.374*wrong, 0.341*told, 0.331*took
+Topic 4:   3.048*burger, 0.643*fri, 0.339*medium, 0.309*cook, 0.231*patti, 0.227*bun, 0.197*burgatori, 0.184*bacon, 0.182*brgr
+Topic 5:   1.807*servic, 0.627*terribl, 0.600*custom, 0.597*horribl, 0.596*rude, 0.516*bad, 0.499*slow, 0.466*manag, 0.391*worst
+Topic 6:   2.483*wait, 1.698*minut, 0.811*hour, 0.490*long, 0.393*time, 0.381*seat, 0.335*min, 0.293*took, 0.289*final
+Topic 7:   2.282*sandwich, 1.170*fri, 0.584*chees, 0.531*bread, 0.405*primanti, 0.373*slaw, 0.369*meat, 0.317*coleslaw, 0.282*pittsburgh
+Topic 8:   2.607*bar, 1.739*drink, 1.512*beer, 1.372*bartend, 0.378*select, 0.346*game, 0.301*friend, 0.294*sit, 0.290*night
+Topic 9:   2.709*salad, 1.390*steak, 0.516*lettuc, 0.499*dress, 0.490*lunch, 0.328*chees, 0.292*cook, 0.286*meal, 0.270*soup
+Topic 10:  2.061*taco, 0.737*mexican, 0.589*salsa, 0.560*chip, 0.329*burrito, 0.304*bean, 0.276*margarita, 0.266*tortilla, 0.221*bell
+Topic 11:  1.245*tast, 0.994*sauc, 0.874*dish, 0.840*like, 0.729*flavor, 0.597*thai, 0.544*noodl, 0.493*soup, 0.451*bland
+Topic 12:  2.979*chicken, 0.397*fri, 0.373*rice, 0.314*dri, 0.279*buffalo, 0.210*chines, 0.199*got, 0.186*tso, 0.166*breast
+Topic 13:  2.261*veri, 1.663*good, 1.136*price, 0.513*disappoint, 0.466*small, 0.454*nice, 0.418*portion, 0.390*menu, 0.387*qualiti
+Topic 14:  2.943*sushi, 1.255*roll, 0.603*fish, 0.465*rice, 0.381*buffet, 0.304*tuna, 0.253*qualiti, 0.251*hibachi, 0.235*sashimi
+Topic 15:  2.515*wing, 0.322*sauc, 0.169*hot, 0.150*night, 0.126*flavor, 0.121*buffalo, 0.116*dri, 0.113*fri, 0.113*boneless

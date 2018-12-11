@@ -1,0 +1,9 @@
+Topic 0:   1.261*just, 1.226*place, 1.116*like, 1.087*did, 1.086*becaus, 1.060*want, 1.058*room, 1.004*said, 0.923*peopl
+Topic 1:   1.429*chicken, 1.265*tast, 1.194*good, 1.082*like, 0.973*veri, 0.839*flavor, 0.834*sauc, 0.788*steak, 0.770*meat
+Topic 2:   4.864*pizza, 0.520*crust, 0.470*chees, 0.441*slice, 0.343*deliveri, 0.333*pepperoni, 0.266*sauc, 0.238*wing, 0.230*place
+Topic 3:   5.096*order, 1.024*time, 0.685*wrong, 0.684*ask, 0.647*said, 0.642*got, 0.626*took, 0.615*did, 0.610*sandwich
+Topic 4:   4.517*burger, 1.584*fri, 0.432*chees, 0.414*bun, 0.369*shake, 0.368*patti, 0.358*onion, 0.289*bacon, 0.253*good
+Topic 5:   2.772*wait, 2.215*minut, 2.018*tabl, 1.290*seat, 1.136*server, 1.030*drink, 0.975*came, 0.879*ask, 0.726*took
+Topic 6:   4.053*buffet, 0.691*crab, 0.598*select, 0.569*vega, 0.559*line, 0.543*leg, 0.534*price, 0.503*dessert, 0.446*station
+Topic 7:   3.436*servic, 1.437*custom, 1.308*horribl, 1.156*bad, 0.991*place, 0.931*terribl, 0.922*veri, 0.868*worst, 0.865*good
+Topic 8:   3.555*sushi, 1.922*roll, 0.809*fish, 0.611*ayc, 0.600*rice, 0.524*place, 0.495*eat, 0.391*chef, 0.371*fresh

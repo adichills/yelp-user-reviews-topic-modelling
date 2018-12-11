@@ -1,0 +1,11 @@
+Topic 0:   256.984*cafe, 247.473*door, 215.466*number, 204.232*monday, 186.489*casino, 186.007*starving, 185.241*called, 166.481*drove, 145.908*sign
+Topic 1:   1433.573*sushi, 772.527*chinese, 706.785*buffet, 588.047*cleveland, 550.309*roll, 400.287*hibachi, 376.828*rolls, 351.325*place, 345.036*game
+Topic 2:   5858.916*table, 5064.672*service, 4278.750*place, 4233.854*minutes, 4086.911*came, 4001.270*time, 3990.047*server, 3928.211*just, 3536.072*asked
+Topic 3:   915.262*card, 617.154*credit, 377.680*gift, 344.571*use, 289.685*cash, 225.516*coupon, 210.199*cards, 186.472*pay, 175.827*games
+Topic 4:   4480.642*pizza, 2899.933*order, 2400.852*ordered, 1534.299*wings, 1393.230*said, 1320.561*asked, 1308.669*cheese, 1141.821*told, 1109.719*time
+Topic 5:   2838.337*place, 2554.661*service, 1827.657*like, 1781.366*time, 1690.279*staff, 1653.717*location, 1640.403*just, 1580.133*times, 1532.955*ve
+Topic 6:   1962.475*bar, 1769.306*beer, 1417.847*bartender, 509.096*beers, 431.092*bartenders, 252.759*selection, 246.110*ignored, 232.827*tap, 209.998*place
+Topic 7:   2225.460*order, 1669.331*minutes, 1600.901*time, 1384.507*just, 1005.207*got, 989.820*said, 983.383*place, 905.889*drive, 890.140*ve
+Topic 8:   1825.490*really, 1519.807*good, 1473.794*place, 1329.382*just, 977.907*service, 972.074*meal, 836.479*menu, 800.763*like, 792.495*don
+Topic 9:   5531.363*good, 5366.543*like, 4964.590*chicken, 4091.648*ordered, 3542.224*place, 3528.012*just, 3188.647*sauce, 2503.765*salad, 2456.612*cheese
+Topic 10:  1035.399*tacos, 835.315*chips, 806.383*taco, 777.125*mexican, 688.246*like, 633.841*salsa, 407.007*steak, 404.791*burrito, 404.381*ordered

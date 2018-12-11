@@ -1,0 +1,8 @@
+Topic 0:   1.536*order, 1.494*time, 1.459*just, 1.449*like, 1.369*did, 1.176*steak, 1.171*tabl, 1.154*restaur, 1.081*menu
+Topic 1:   5.986*pizza, 0.872*crust, 0.711*slice, 0.494*chees, 0.467*pepperoni, 0.385*good, 0.377*order, 0.320*garlic, 0.315*pie
+Topic 2:   4.201*great, 2.499*place, 2.416*servic, 1.526*love, 1.508*veri, 1.487*friendli, 1.408*alway, 1.377*staff, 1.288*amaz
+Topic 3:   5.949*burger, 2.009*fri, 0.781*shake, 0.616*chees, 0.486*onion, 0.450*bun, 0.415*bacon, 0.390*good, 0.364*patti
+Topic 4:   2.672*chicken, 1.856*good, 1.512*fri, 1.431*rice, 1.312*thai, 1.196*sauc, 1.153*order, 1.145*noodl, 1.089*soup
+Topic 5:   5.504*sushi, 3.111*roll, 1.176*ayc, 0.965*fish, 0.830*fresh, 0.676*eat, 0.664*place, 0.656*tuna, 0.618*chef
+Topic 6:   4.299*taco, 0.919*salsa, 0.892*mexican, 0.882*asada, 0.757*carn, 0.751*burrito, 0.512*chip, 0.499*pastor, 0.417*tortilla
+Topic 7:   5.032*buffet, 1.009*crab, 0.873*vega, 0.813*leg, 0.790*dessert, 0.711*line, 0.704*station, 0.703*select, 0.671*seafood

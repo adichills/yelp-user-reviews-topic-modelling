@@ -1,0 +1,16 @@
+Topic 0:   13349.851*pizza, 2338.272*crust, 1798.902*pie, 1463.439*slice, 1183.235*great, 1153.609*oyster, 915.139*pepperoni, 912.484*deliveri, 874.508*sub
+Topic 1:   6914.611*taco, 2163.080*chip, 1921.526*mexican, 1814.958*salsa, 1350.779*burrito, 1200.845*margarita, 1061.929*tortilla, 757.483*guacamol, 728.887*chorizo
+Topic 2:   15063.120*place, 9334.018*good, 7864.013*alway, 7460.490*ve, 6054.288*like, 5787.392*ha, 5568.373*love, 5175.981*best, 5111.933*great
+Topic 3:   8009.702*order, 6403.593*tabl, 5874.167*did, 5778.430*restaur, 5750.351*meal, 5284.717*salad, 4712.886*just, 4703.226*veri, 4595.734*make
+Topic 4:   3563.081*dish, 2168.602*recommend, 2118.687*vegan, 1825.914*highli, 1761.125*delici, 1711.920*love, 1437.672*amaz, 1410.042*restaur, 1399.498*pork
+Topic 5:   4002.813*wing, 1914.566*game, 1579.771*man, 1272.891*watch, 1267.913*kay, 925.609*tv, 520.147*sport, 370.384*steeler, 349.195*buffalo
+Topic 6:   9278.014*sandwich, 4657.303*breakfast, 3046.169*egg, 2109.467*pancak, 2084.363*bbq, 2055.577*fri, 1911.003*toast, 1743.183*diner, 1697.315*bread
+Topic 7:   4167.122*roll, 3725.253*sushi, 3702.158*cream, 3521.630*ice, 2789.665*tea, 2605.221*soup, 2237.963*flavor, 1952.594*sweet, 1892.263*shrimp
+Topic 8:   14525.861*good, 13689.728*order, 13593.091*place, 12335.408*like, 12204.285*time, 11115.560*realli, 10637.726*tri, 10171.834*got, 9817.197*veri
+Topic 9:   879.489*airport, 615.551*dollar, 489.998*odd, 487.630*reuben, 429.939*tot, 376.200*na, 362.396*bf, 331.988*cheesesteak, 326.961*john
+Topic 10:  9399.774*burger, 1956.112*fri, 1364.906*bacon, 1163.615*pierogi, 1002.217*onion, 970.167*chip, 825.352*squar, 794.656*rock, 792.041*market
+Topic 11:  4947.984*coffe, 2059.944*bun, 1885.025*shop, 1323.637*crepe, 1166.287*pretzel, 1107.987*sweet, 1062.251*pastri, 961.462*french, 914.028*tea
+Topic 12:  11155.851*bar, 9539.340*great, 8669.051*drink, 7805.360*beer, 4358.423*nice, 3955.840*veri, 3935.655*menu, 3925.643*brunch, 3896.730*night
+Topic 13:  6933.071*veri, 4673.971*good, 3770.951*great, 3490.824*thai, 3307.569*servic, 3152.516*restaur, 2498.178*spici, 2456.470*dish, 2441.958*curri
+Topic 14:  9328.628*chicken, 8386.587*sauc, 6114.376*fri, 5436.189*chees, 5257.030*hot, 3640.119*order, 2668.880*spici, 2665.469*flavor, 2588.615*good
+Topic 15:  2994.856*pasta, 2565.407*dessert, 2066.464*chocol, 2041.829*italian, 1907.355*wine, 1873.246*cake, 1829.397*salad, 1733.325*meatbal, 1654.470*sauc

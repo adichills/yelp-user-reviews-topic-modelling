@@ -1,0 +1,14 @@
+Topic 0:   4493.122*place, 3716.315*good, 3592.003*price, 2814.377*menu, 2747.017*restaur, 2720.348*just, 2429.348*veri, 2405.371*realli, 2228.439*better
+Topic 1:   3841.938*burger, 2800.837*sandwich, 2021.509*fri, 998.792*chees, 640.095*beef, 635.486*bbq, 565.330*bun, 529.265*meat, 500.933*onion
+Topic 2:   4007.271*salad, 1854.015*taco, 1828.016*chees, 1200.371*chicken, 1018.198*like, 898.827*tast, 893.964*tomato, 855.953*bread, 806.999*lettuc
+Topic 3:   1039.627*kid, 358.230*hotel, 348.590*son, 344.763*waffl, 301.326*park, 294.800*old, 228.370*mile, 204.747*children, 189.225*room
+Topic 4:   1264.380*coffe, 1229.575*egg, 1212.174*breakfast, 1056.637*place, 854.733*dirti, 758.243*like, 731.716*clean, 604.560*brunch, 553.286*tabl
+Topic 5:   1013.391*chip, 795.154*mexican, 697.456*salsa, 644.185*burrito, 538.047*margarita, 285.702*guacamol, 201.467*bland, 183.939*queso, 146.634*eh
+Topic 6:   7843.668*order, 7196.622*wait, 7162.228*tabl, 6733.367*minut, 5326.743*ask, 4879.190*did, 4821.060*drink, 4659.337*time, 4483.633*came
+Topic 7:   3252.069*chicken, 1707.290*rice, 1303.460*dish, 1248.522*roll, 1235.673*tast, 1061.181*like, 1050.632*order, 1007.119*sauc, 975.137*noodl
+Topic 8:   2795.956*custom, 2776.064*manag, 2574.465*servic, 2208.770*place, 2202.688*time, 2167.708*restaur, 1843.696*staff, 1794.363*becaus, 1612.724*rude
+Topic 9:   5246.552*order, 4834.497*pizza, 3251.435*time, 1678.212*place, 1130.210*ha, 1105.671*ve, 908.553*servic, 889.201*year, 888.661*use
+Topic 10:  2960.267*good, 2776.996*veri, 2774.205*like, 2726.029*order, 2657.684*tast, 2127.309*steak, 2095.155*cook, 1855.381*did, 1830.923*sauc
+Topic 11:  3064.475*bar, 2599.470*beer, 803.754*sushi, 781.272*buffet, 773.298*place, 599.562*game, 583.675*music, 569.277*good, 554.119*select
+Topic 12:  1093.121*card, 699.797*soup, 695.975*thai, 581.840*credit, 411.820*pho, 399.674*bowl, 382.008*gift, 363.003*pad, 262.480*tea
+Topic 13:  3415.292*like, 3226.696*just, 3016.914*place, 1911.006*want, 1655.115*wing, 1645.138*look, 1642.484*order, 1575.174*say, 1483.522*know

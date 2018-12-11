@@ -1,0 +1,8 @@
+Topic 0:   12340.817*pizza, 4831.750*cheese, 4099.911*tacos, 3950.348*sauce, 3873.233*good, 3173.606*wings, 2653.817*chicken, 2590.480*like, 2438.410*taco
+Topic 1:   20738.194*place, 19660.152*good, 11372.823*great, 10005.070*like, 9334.409*really, 8915.288*ve, 8743.497*just, 8073.162*time, 7715.421*lunch
+Topic 2:   5553.273*chicken, 4068.192*rice, 3978.890*spicy, 3600.875*thai, 2811.063*sauce, 2396.274*soup, 2265.412*noodles, 2204.483*fried, 2093.720*curry
+Topic 3:   9788.029*good, 9453.198*ordered, 8070.250*came, 7895.031*got, 7327.327*time, 6890.897*really, 6101.815*dinner, 6055.211*just, 5964.759*table
+Topic 4:   9421.817*bar, 6547.620*beer, 5552.447*great, 4402.792*place, 3060.161*drinks, 2838.793*drink, 2751.440*selection, 2602.798*coffee, 2581.290*night
+Topic 5:   6065.396*great, 5485.185*restaurant, 5037.134*menu, 4282.587*service, 3958.230*pittsburgh, 3887.122*sushi, 3659.011*ve, 3295.893*best, 3216.436*place
+Topic 6:   6312.037*salad, 3834.093*sauce, 3602.278*bread, 2953.498*cheese, 2773.613*pasta, 2640.557*italian, 2011.384*fresh, 1929.790*chicken, 1918.468*soup
+Topic 7:   6230.723*burger, 3553.761*bacon, 3549.427*cream, 3539.901*fries, 3391.290*breakfast, 3203.228*brunch, 2939.165*cheese, 2620.476*sweet, 2572.975*french

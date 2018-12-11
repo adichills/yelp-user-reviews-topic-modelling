@@ -1,0 +1,15 @@
+Topic 0:   18954.375*shrimp, 12323.574*liked, 9523.283*chinese, 8023.045*noodles, 7358.800*fried, 7254.978*crab, 7190.235*chicken, 7112.095*dishes, 5915.803*orange
+Topic 1:   21593.224*tacos, 16696.088*mexican, 15303.225*salsa, 14612.603*chips, 11994.801*taco, 10422.057*burrito, 9442.450*good, 7668.086*green, 7611.636*shop
+Topic 2:   28244.350*like, 24068.592*people, 19218.808*just, 16054.318*don, 14976.528*know, 12546.447*inside, 11732.934*time, 11573.456*table, 11571.821*really
+Topic 3:   6114.371*believe, 6107.370*tempe, 5751.669*entire, 4052.049*yelp, 3924.780*course, 3672.534*bomb, 3283.243*platter, 3215.725*weird, 2690.761*plain
+Topic 4:   24596.074*salad, 14077.129*fresh, 13791.962*menu, 11439.698*options, 10134.959*free, 9822.816*meat, 9576.024*delicious, 9083.680*love, 8690.989*bread
+Topic 5:   62783.005*place, 49745.523*time, 46135.990*good, 38836.003*service, 33480.270*restaurant, 33002.904*great, 31444.220*got, 31116.722*try, 31072.151*ordered
+Topic 6:   42362.013*place, 41315.614*great, 35351.677*bar, 34694.868*good, 22490.456*beer, 18011.423*drinks, 17479.330*nice, 16268.739*really, 15682.177*fun
+Topic 7:   69076.668*great, 53488.793*place, 42997.464*service, 30243.046*love, 25490.674*friendly, 24502.771*best, 23804.652*happy, 23116.213*sushi, 22723.676*staff
+Topic 8:   17026.141*dinner, 16707.366*wine, 15914.915*night, 13145.644*dessert, 12758.740*table, 11978.562*server, 11128.132*menu, 9821.888*experience, 9416.642*perfect
+Topic 9:   20353.253*ve, 18703.939*best, 13171.454*wings, 11624.109*italian, 9463.786*bread, 8462.551*time, 8361.688*order, 7832.125*sandwich, 7413.840*good
+Topic 10:  11424.119*real, 8849.841*phoenix, 8312.053*onions, 6344.305*world, 5512.768*indian, 4942.802*toast, 3779.330*american, 3716.092*located, 3655.214*traditional
+Topic 11:  31486.307*burger, 29897.770*fries, 29120.500*breakfast, 22472.039*coffee, 21801.171*good, 18387.758*cheese, 15375.050*bacon, 15300.315*sandwich, 11569.641*burgers
+Topic 12:  55898.479*pizza, 11238.252*crust, 10311.721*ingredients, 8430.630*sauce, 8130.316*surprised, 7436.417*cheese, 6553.899*good, 6507.651*pie, 5956.179*large
+Topic 13:  25041.357*just, 24219.033*like, 19159.499*don, 13173.189*cream, 11164.364*ice, 10960.787*stars, 10537.493*ve, 9823.328*know, 9556.313*eat
+Topic 14:  46832.058*chicken, 43448.200*good, 33178.801*sauce, 20706.606*rice, 20409.914*spicy, 18875.648*ordered, 18483.387*really, 18208.269*pork, 16108.069*flavor

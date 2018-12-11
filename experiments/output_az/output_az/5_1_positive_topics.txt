@@ -1,0 +1,5 @@
+Topic 0:   good, ordered, great, service, came, got, time, really, burger
+Topic 1:   place, great, good, service, love, friendly, best, ve, staff
+Topic 2:   place, bar, like, just, great, night, good, time, beer
+Topic 3:   pizza, sushi, good, fresh, best, rice, place, thai, restaurant
+Topic 4:   like, cheese, just, sauce, sandwich, chicken, sweet, meat, good

@@ -1,0 +1,17 @@
+Topic 0:   1235.602*rice, 1057.269*chicken, 840.964*sauc, 825.228*tast, 779.497*chip, 763.073*mexican, 760.842*thai, 752.301*bean, 751.852*order
+Topic 1:   8238.313*place, 6617.913*good, 5808.008*just, 5733.680*like, 4675.570*veri, 4009.472*realli, 3747.521*menu, 3659.437*restaur, 3466.543*tast
+Topic 2:   3651.014*fri, 2997.377*sandwich, 2473.549*burger, 1475.569*chees, 1120.062*egg, 1012.077*like, 1008.551*order, 932.886*breakfast, 889.301*meat
+Topic 3:   1237.559*sushi, 912.221*roll, 670.878*fish, 466.297*hotel, 288.960*station, 212.057*tuna, 203.621*salmon, 161.548*hibachi, 158.578*sum
+Topic 4:   1521.665*taco, 460.237*phone, 376.604*custom, 318.380*learn, 256.636*answer, 222.203*attitud, 150.285*manag, 148.706*gluten, 141.450*bell
+Topic 5:   1556.981*place, 1086.090*peopl, 1074.511*bar, 1073.998*custom, 1025.457*work, 924.180*busi, 916.500*owner, 903.477*rude, 887.488*make
+Topic 6:   1521.305*flavor, 1011.793*like, 944.105*good, 940.273*sauc, 714.268*plate, 629.798*place, 629.151*star, 590.397*bit, 584.810*better
+Topic 7:   283.567*lamb, 228.708*crab, 210.625*pita, 171.168*tough, 164.583*cut, 161.802*hummu, 160.500*prime, 157.331*leg, 155.708*chop
+Topic 8:   8898.927*order, 5373.432*ask, 4559.512*did, 3814.570*came, 3792.887*time, 3442.049*said, 3130.667*server, 2780.377*waitress, 2770.747*manag
+Topic 9:   846.846*coffe, 90.134*shop, 61.021*starbuck, 60.957*fuss, 48.422*mocha, 47.220*cafe, 41.945*tree, 35.142*barista, 32.622*fake
+Topic 10:  619.439*smoke, 368.562*gyro, 329.596*market, 290.293*squar, 214.953*na, 168.327*gon, 127.989*strawberri, 96.220*cigarett, 93.278*sun
+Topic 11:  657.179*pasta, 599.658*salad, 463.893*soup, 334.366*italian, 203.316*dress, 167.854*spaghetti, 159.060*veal, 158.323*caesar, 133.535*fli
+Topic 12:  5175.530*pizza, 2042.330*order, 1239.365*wing, 709.377*chees, 700.457*deliveri, 616.294*burger, 596.685*crust, 562.746*place, 499.565*sauc
+Topic 13:  815.375*card, 543.940*charg, 360.843*credit, 293.550*cash, 278.938*smile, 250.484*pay, 175.195*giant, 161.005*park, 151.174*eagl
+Topic 14:  417.822*beer, 183.538*advertis, 120.276*draft, 97.930*sam, 70.881*pumpkin, 48.890*silki, 44.239*rocket, 41.365*surli, 40.968*miller
+Topic 15:  1066.413*waiter, 803.372*buffet, 450.341*hoagi, 207.316*plastic, 156.579*hi, 99.534*cashier, 99.480*napkin, 97.500*health, 84.304*hair
+Topic 16:  4841.975*wait, 3936.075*tabl, 3336.841*minut, 3159.769*drink, 2907.352*bar, 2867.949*seat, 2378.517*time, 2285.528*servic, 1724.680*restaur

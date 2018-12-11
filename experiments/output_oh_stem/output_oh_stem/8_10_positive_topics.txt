@@ -1,0 +1,8 @@
+Topic 0:   9728.312*burger, 8944.365*sandwich, 8416.467*fri, 4404.069*chees, 4070.701*good, 3617.447*wing, 3593.987*beer, 3096.699*place, 2964.546*like
+Topic 1:   10922.239*great, 8508.924*place, 7662.077*veri, 6581.567*good, 6022.237*servic, 5865.453*love, 5401.722*delici, 5231.131*fresh, 5109.165*taco
+Topic 2:   9788.647*order, 8227.174*good, 7879.989*veri, 7165.331*salad, 6921.290*sauc, 6913.842*chicken, 6664.084*delici, 6182.632*chees, 6057.313*flavor
+Topic 3:   3820.016*alway, 3066.577*park, 2932.925*ha, 2787.133*cleveland, 2734.940*year, 2669.152*locat, 2536.328*street, 2189.538*love, 2181.268*place
+Topic 4:   17505.766*place, 16867.624*good, 13834.742*order, 13809.748*time, 13354.286*pizza, 11947.995*like, 11011.844*just, 8602.514*realli, 8450.925*veri
+Topic 5:   5355.160*dish, 5187.365*restaur, 3311.659*best, 3134.438*cleveland, 2938.300*ve, 2657.476*noodl, 2565.491*chines, 2560.196*thai, 2485.595*spici
+Topic 6:   13869.539*great, 12247.892*bar, 9067.484*place, 7826.413*drink, 7016.920*beer, 6735.150*veri, 6398.962*good, 6108.499*night, 5567.903*servic
+Topic 7:   2033.330*indian, 1835.700*buffet, 1590.308*like, 1473.018*sub, 1292.070*coffe, 1177.334*offer, 1159.550*market, 1133.341*fall, 1078.903*shop

@@ -1,0 +1,15 @@
+Topic 0:   1315.418*beer, 1296.592*bar, 942.508*plate, 820.145*place, 710.993*wine, 689.103*price, 643.973*select, 632.349*look, 546.543*game
+Topic 1:   2181.552*sandwich, 1096.756*soup, 847.252*bowl, 761.689*beef, 673.639*chines, 485.921*chicken, 447.786*corn, 428.764*crab, 427.603*noodl
+Topic 2:   1815.822*taco, 1486.996*like, 965.056*chees, 916.111*tast, 822.022*tomato, 768.461*bean, 702.361*salad, 697.126*chip, 676.716*salsa
+Topic 3:   1918.235*steak, 823.734*medium, 582.054*rare, 322.748*room, 319.943*hair, 313.508*waffl, 270.411*locat, 265.939*glass, 265.721*hotel
+Topic 4:   1550.888*egg, 1351.951*coffe, 1277.705*breakfast, 755.336*bacon, 614.046*toast, 590.109*brunch, 548.553*place, 519.999*like, 454.798*pancak
+Topic 5:   619.121*music, 262.699*mexican, 251.055*loud, 188.502*club, 175.657*danc, 123.025*panini, 120.785*fun, 120.200*tequila, 113.039*jalapeno
+Topic 6:   7443.342*tabl, 6714.861*wait, 6646.643*minut, 6151.215*order, 5303.108*ask, 5028.503*drink, 4191.939*server, 4177.126*came, 4164.000*time
+Topic 7:   4283.793*veri, 3890.418*good, 3821.388*chicken, 3220.465*tast, 2574.415*dish, 2146.367*fri, 2110.526*meal, 2075.069*flavor, 1990.426*like
+Topic 8:   7340.643*place, 6673.609*order, 6591.957*time, 5709.652*servic, 3886.336*just, 3884.788*becaus, 3633.505*veri, 3611.662*did, 3569.209*like
+Topic 9:   4745.186*pizza, 3359.137*order, 1822.482*chees, 1635.057*place, 1559.622*good, 1497.765*just, 1433.563*sauc, 1230.784*burger, 1204.264*like
+Topic 10:  1665.591*restaur, 1153.985*place, 947.714*like, 915.634*burger, 911.958*review, 867.977*star, 814.272*better, 801.071*high, 783.752*pretti
+Topic 11:  1413.710*sushi, 427.182*buffet, 412.319*tuna, 371.128*roll, 369.208*park, 287.751*book, 212.371*giant, 202.421*japanes, 184.282*air
+Topic 12:  877.986*card, 749.721*thai, 575.025*credit, 462.558*pho, 395.715*pad, 341.051*noodl, 272.398*soup, 244.772*asian, 234.719*casino
+Topic 13:  2738.819*like, 1996.854*place, 1854.586*just, 1830.510*order, 1652.109*wing, 1192.554*fri, 1128.984*did, 1063.875*good, 1011.781*time
+Topic 14:  2257.567*salad, 435.884*lettuc, 216.108*pita, 159.377*lasagna, 141.196*alley, 139.396*display, 138.015*jack, 136.231*coke, 132.031*falafel

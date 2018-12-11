@@ -1,0 +1,16 @@
+Topic 0:   1.594*ordered, 1.574*just, 1.395*came, 1.355*like, 1.327*steak, 1.275*got, 1.272*menu, 1.252*time, 1.226*table
+Topic 1:   5.851*pizza, 0.883*crust, 0.538*slice, 0.478*cheese, 0.471*pepperoni, 0.423*pizzas, 0.423*toppings, 0.326*garlic, 0.312*slices
+Topic 2:   5.933*great, 2.016*service, 0.656*atmosphere, 0.508*awesome, 0.474*excellent, 0.450*customer, 0.406*prices, 0.396*happy, 0.381*drinks
+Topic 3:   5.483*sushi, 1.531*rolls, 1.456*roll, 1.142*ayce, 0.943*fish, 0.797*fresh, 0.611*tuna, 0.563*eat, 0.556*sashimi
+Topic 4:   4.784*chicken, 1.811*fried, 1.453*rice, 1.031*sauce, 0.729*salad, 0.621*bbq, 0.603*wings, 0.511*beef, 0.505*sandwich
+Topic 5:   5.047*burger, 2.592*fries, 1.501*burgers, 0.727*cheese, 0.611*shake, 0.446*bacon, 0.409*truffle, 0.383*onion, 0.377*bun
+Topic 6:   5.921*place, 0.960*like, 0.878*try, 0.750*eat, 0.724*just, 0.707*awesome, 0.616*don, 0.581*people, 0.545*want
+Topic 7:   3.732*best, 3.686*vegas, 2.047*ve, 1.879*las, 0.665*strip, 0.659*restaurant, 0.637*far, 0.588*town, 0.545*time
+Topic 8:   5.434*buffet, 1.361*crab, 1.296*buffets, 1.102*legs, 0.934*seafood, 0.875*line, 0.790*selection, 0.770*lunch, 0.749*station
+Topic 9:   3.980*breakfast, 1.514*eggs, 1.378*coffee, 1.096*pancakes, 1.055*sandwich, 0.920*toast, 0.756*bacon, 0.703*hash, 0.684*french
+Topic 10:  6.494*good, 2.651*really, 1.249*pretty, 0.893*nice, 0.854*service, 0.489*prices, 0.468*price, 0.389*got, 0.364*little
+Topic 11:  4.059*tacos, 1.806*taco, 1.363*mexican, 1.288*asada, 1.222*salsa, 1.124*carne, 0.863*chips, 0.800*burrito, 0.668*pastor
+Topic 12:  5.388*love, 0.402*favorite, 0.280*location, 0.237*coming, 0.220*come, 0.213*times, 0.209*absolutely, 0.208*time, 0.187*happy
+Topic 13:  3.717*amazing, 3.089*friendly, 2.976*staff, 1.588*delicious, 1.342*definitely, 1.192*service, 1.164*recommend, 1.155*super, 0.816*highly
+Topic 14:  3.621*ramen, 1.368*pho, 1.135*broth, 1.101*noodles, 1.034*pork, 0.718*bowl, 0.680*soup, 0.556*spicy, 0.521*noodle
+Topic 15:  4.779*thai, 1.777*pad, 1.588*curry, 0.910*tea, 0.742*spicy, 0.664*rice, 0.512*soup, 0.483*lunch, 0.472*noodles

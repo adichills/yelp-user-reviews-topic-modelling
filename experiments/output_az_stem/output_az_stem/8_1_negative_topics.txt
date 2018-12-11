@@ -1,0 +1,8 @@
+Topic 0:   18071.662*manag, 15891.957*custom, 13835.372*ask, 12853.838*said, 11496.971*hi, 9719.451*did, 9493.144*rude, 8254.732*told, 7638.581*owner
+Topic 1:   51148.447*order, 38605.667*wait, 36711.255*minut, 33839.545*tabl, 28790.138*ask, 26980.757*time, 25799.938*came, 25057.051*did, 24890.696*servic
+Topic 2:   15883.915*burger, 12641.938*beer, 11484.870*place, 10918.878*fri, 10244.568*sandwich, 9333.353*good, 8242.473*bar, 8103.445*like, 7681.363*drink
+Topic 3:   12997.234*menu, 12546.852*place, 12268.754*price, 11549.645*like, 11100.694*good, 10128.692*veri, 9050.124*sushi, 8019.352*egg, 7692.900*breakfast
+Topic 4:   35383.501*place, 25822.963*time, 24813.732*order, 22824.471*just, 22220.060*like, 15569.948*pizza, 14163.260*look, 13498.482*becaus, 11858.743*want
+Topic 5:   28717.557*chicken, 21489.683*order, 20456.191*sauc, 20262.968*like, 20147.144*good, 19459.761*tast, 16962.024*veri, 12982.526*did, 12817.565*flavor
+Topic 6:   12881.830*taco, 8455.580*chip, 7253.131*bean, 7062.374*roll, 6869.304*salsa, 6571.693*mexican, 6517.759*burrito, 5783.795*like, 5319.417*tast
+Topic 7:   10984.744*restaur, 10459.381*place, 9284.949*ha, 8833.555*locat, 8207.970*servic, 6534.287*year, 5989.213*review, 5886.596*use, 5610.508*great

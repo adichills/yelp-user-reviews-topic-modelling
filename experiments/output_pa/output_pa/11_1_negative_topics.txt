@@ -1,0 +1,11 @@
+Topic 0:   4402.276*pizza, 1233.548*sushi, 1043.853*sauce, 873.060*like, 772.943*wings, 742.797*thai, 729.265*ordered, 624.348*rice, 598.913*chinese
+Topic 1:   1431.867*bar, 1094.046*burger, 661.156*fries, 577.436*bartender, 486.880*burgers, 421.232*toast, 366.064*bacon, 269.054*bartenders, 257.418*burgatory
+Topic 2:   4987.593*time, 4557.060*table, 4451.138*service, 4210.426*came, 4006.575*minutes, 3298.007*restaurant, 3208.397*waitress, 2953.392*took, 2916.879*server
+Topic 3:   3825.470*place, 1520.432*good, 1362.850*like, 1280.565*better, 1219.603*service, 1136.134*just, 1009.219*don, 937.079*bar, 922.732*ve
+Topic 4:   2016.130*order, 1516.438*don, 1490.970*just, 1444.764*said, 1143.897*know, 1125.925*place, 1048.747*people, 1012.807*customer, 951.397*called
+Topic 5:   922.578*tacos, 725.047*mexican, 623.217*taco, 585.015*salsa, 532.226*chips, 410.003*cream, 404.973*avoid, 346.789*cake, 257.483*burrito
+Topic 6:   4657.669*good, 4077.412*just, 3791.527*like, 3169.659*cheese, 3119.399*really, 2854.569*ordered, 2328.259*sauce, 2288.469*place, 2228.747*menu
+Topic 7:   1790.938*sandwich, 1378.862*minutes, 1259.555*manager, 1183.417*told, 1027.708*said, 789.325*asked, 735.265*wait, 710.661*just, 697.314*sandwiches
+Topic 8:   941.294*pork, 557.245*served, 540.828*dish, 528.090*meat, 428.211*crab, 407.221*potatoes, 355.591*ordered, 345.927*bbq, 336.453*plate
+Topic 9:   370.359*free, 190.233*giant, 171.811*gluten, 141.755*eagle, 139.200*fee, 138.457*ham, 125.229*omelette, 113.828*casino, 108.377*subway
+Topic 10:  2443.370*chicken, 1224.556*like, 976.741*fried, 976.051*ordered, 937.094*eat, 860.901*good, 835.320*place, 829.255*soup, 789.782*breakfast

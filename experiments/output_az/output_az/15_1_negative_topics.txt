@@ -1,0 +1,15 @@
+Topic 0:   24580.989*pizza, 12267.846*order, 7103.286*called, 4691.156*phone, 3788.281*delivery, 3503.034*time, 3459.610*ordered, 3309.393*drive, 3186.280*crust
+Topic 1:   28197.907*said, 22940.545*didn, 22920.919*asked, 20939.153*just, 15610.079*told, 14642.608*manager, 13351.379*time, 13174.959*like, 13021.051*order
+Topic 2:   5065.069*ice, 2900.093*buffet, 2754.404*cream, 2460.419*middle, 2197.948*groupon, 2148.206*use, 1796.131*card, 1757.061*pita, 1649.935*soda
+Topic 3:   8410.008*steak, 7802.056*ordered, 7537.269*cheese, 5956.448*good, 5593.259*cooked, 5114.221*salad, 4443.708*bacon, 3870.636*potatoes, 3739.767*bbq
+Topic 4:   27757.262*minutes, 20480.147*order, 18823.239*came, 16014.410*took, 15307.042*server, 13692.744*service, 12748.339*ordered, 12399.112*table, 12297.897*waited
+Topic 5:   12308.315*burger, 12204.594*fries, 3981.408*options, 3625.138*burgers, 2981.751*burnt, 2244.354*bun, 2226.403*oil, 1960.558*onion, 1557.724*limited
+Topic 6:   8002.816*fish, 6984.410*restaurant, 5790.135*good, 5237.517*wine, 3945.691*glass, 3907.362*cheap, 3618.014*great, 3207.629*local, 3133.324*nice
+Topic 7:   35556.313*place, 21529.920*service, 17000.453*like, 15473.420*don, 14847.777*just, 14511.060*good, 13557.835*time, 11732.211*bad, 9240.815*ve
+Topic 8:   13956.318*restaurant, 12885.849*table, 7912.940*tables, 7666.817*wait, 7393.836*night, 6507.215*pm, 6484.328*hostess, 6295.663*party, 5787.303*staff
+Topic 9:   7840.569*breakfast, 6283.293*coffee, 5425.739*house, 3034.848*eggs, 2295.935*morning, 1791.362*egg, 1642.412*pancakes, 1621.620*cup, 1504.699*review
+Topic 10:  30776.923*chicken, 28626.018*like, 24116.929*good, 20719.279*just, 20139.521*ordered, 18740.632*sauce, 17559.187*place, 12878.403*tasted, 12814.549*really
+Topic 11:  9113.083*sushi, 7098.948*wings, 5863.038*sandwich, 4714.877*location, 4004.073*ve, 3779.649*time, 3756.609*good, 3692.365*roll, 3637.166*service
+Topic 12:  21638.696*bar, 9618.216*beer, 6892.494*place, 6885.633*drinks, 5753.020*drink, 5587.192*bartender, 4849.922*hour, 4638.448*happy, 3910.117*music
+Topic 13:  7506.972*lunch, 6828.178*menu, 5494.939*prices, 5174.984*price, 3964.612*place, 3735.880*tea, 3249.722*high, 3138.748*think, 3132.065*don
+Topic 14:  5473.768*kids, 3915.100*old, 2967.990*year, 1915.593*son, 1866.726*running, 1854.867*ran, 1554.068*indian, 1452.222*daughter, 1393.569*apart

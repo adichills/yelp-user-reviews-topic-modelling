@@ -1,0 +1,17 @@
+Topic 0:   2.975*good, 2.441*just, 2.230*really, 1.818*like, 1.116*great, 1.081*pretty, 1.040*wasn, 0.859*didn, 0.856*better
+Topic 1:   2.255*minutes, 1.675*table, 1.108*waited, 1.098*came, 1.071*server, 0.956*seated, 0.922*took, 0.856*wait, 0.836*drinks
+Topic 2:   4.652*pizza, 0.526*crust, 0.483*cheese, 0.360*delivery, 0.328*pepperoni, 0.322*slice, 0.318*pizzas, 0.315*sauce, 0.266*ordered
+Topic 3:   2.071*rice, 1.805*soup, 1.385*sauce, 1.255*beef, 1.195*pho, 1.160*shrimp, 1.146*thai, 1.137*noodles, 1.107*fried
+Topic 4:   3.962*burger, 2.112*fries, 1.024*burgers, 0.468*cheese, 0.375*bun, 0.326*ordered, 0.308*patty, 0.289*onion, 0.283*shake
+Topic 5:   4.037*time, 1.704*location, 1.210*ve, 1.201*wait, 1.175*times, 1.097*don, 0.962*long, 0.689*line, 0.656*come
+Topic 6:   4.531*buffet, 0.883*crab, 0.780*buffets, 0.689*legs, 0.633*selection, 0.584*vegas, 0.582*price, 0.576*seafood, 0.562*line
+Topic 7:   5.235*sushi, 1.299*rolls, 1.233*roll, 1.112*fish, 0.867*ayce, 0.556*eat, 0.523*rice, 0.490*nigiri, 0.488*tuna
+Topic 8:   4.310*service, 1.760*horrible, 1.524*customer, 1.335*bad, 1.190*terrible, 0.997*worst, 0.943*slow, 0.698*rude, 0.656*poor
+Topic 9:   2.474*said, 1.777*manager, 1.739*asked, 1.588*told, 0.974*didn, 0.755*rude, 0.652*did, 0.632*called, 0.606*went
+Topic 10:  5.452*chicken, 0.885*salad, 0.621*wings, 0.609*fried, 0.541*dry, 0.478*ordered, 0.362*sauce, 0.294*got, 0.291*waffles
+Topic 11:  3.294*steak, 0.942*medium, 0.751*rare, 0.728*ordered, 0.697*salad, 0.695*cooked, 0.681*waiter, 0.556*lobster, 0.544*steaks
+Topic 12:  2.602*sandwich, 1.716*breakfast, 1.099*cheese, 0.967*eggs, 0.940*coffee, 0.854*bread, 0.680*bacon, 0.668*cold, 0.550*ordered
+Topic 13:  4.115*place, 0.567*don, 0.453*eat, 0.369*recommend, 0.347*dirty, 0.333*like, 0.322*people, 0.318*stars, 0.312*money
+Topic 14:  4.863*order, 0.696*wrong, 0.621*delivery, 0.510*took, 0.495*minutes, 0.484*called, 0.459*phone, 0.444*placed, 0.418*ordered
+Topic 15:  2.386*room, 1.462*hotel, 0.834*stay, 0.602*rooms, 0.560*night, 0.494*vegas, 0.438*desk, 0.388*floor, 0.372*stayed
+Topic 16:  1.864*tacos, 1.212*taco, 0.975*salsa, 0.962*chips, 0.896*mexican, 0.848*burrito, 0.620*beans, 0.587*asada, 0.548*fish

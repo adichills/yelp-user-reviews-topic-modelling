@@ -1,0 +1,13 @@
+Topic 0:   3875.450*chicken, 3662.323*tast, 3393.318*like, 3366.420*order, 3135.116*sauc, 2257.770*flavor, 2167.052*dish, 1894.183*veri, 1707.362*chees
+Topic 1:   6683.582*place, 5806.930*good, 4014.737*just, 3903.072*realli, 3412.490*menu, 3391.404*like, 3380.861*veri, 3133.239*price, 2927.983*servic
+Topic 2:   3174.273*burger, 2902.920*sandwich, 2399.152*fri, 1247.198*just, 1007.746*like, 984.924*place, 974.984*order, 946.213*time, 777.368*good
+Topic 3:   502.264*hotel, 429.858*dirti, 370.688*park, 259.473*giant, 222.190*floor, 152.147*eagl, 139.664*stay, 128.773*diner, 124.446*frozen
+Topic 4:   1542.316*taco, 575.374*salsa, 574.329*mexican, 499.183*chip, 497.758*store, 466.756*burrito, 351.843*like, 317.639*learn, 295.366*just
+Topic 5:   683.052*tea, 554.884*ice, 514.887*pork, 472.366*dog, 423.713*dessert, 411.318*like, 409.667*bathroom, 393.899*door, 375.750*cream
+Topic 6:   1995.448*bar, 1620.552*place, 1377.717*peopl, 1241.020*like, 1108.136*just, 1027.748*coffe, 969.789*know, 936.623*becaus, 893.254*did
+Topic 7:   816.941*card, 364.498*credit, 332.437*charg, 289.184*cash, 141.961*gift, 136.915*id, 136.252*pay, 124.736*screen, 108.220*multipl
+Topic 8:   8550.610*order, 5293.009*ask, 4758.399*time, 4603.695*did, 3939.206*came, 3611.993*minut, 3577.698*said, 3314.666*waitress, 3171.994*server
+Topic 9:   551.451*avoid, 217.026*sick, 161.314*fee, 142.412*poison, 108.891*temperatur, 98.891*ill, 97.795*sam, 77.728*mike, 66.083*hookah
+Topic 10:  3132.006*wait, 3121.936*tabl, 2114.595*minut, 1968.020*seat, 1780.999*drink, 1453.833*bar, 1277.192*time, 1245.015*sit, 1165.646*servic
+Topic 11:  1049.487*wine, 746.018*pasta, 532.529*italian, 277.505*glass, 257.845*bottl, 227.462*calamari, 172.875*pierogi, 168.948*hill, 156.001*veal
+Topic 12:  5183.327*pizza, 2010.192*order, 1148.148*wing, 737.860*deliveri, 694.556*chees, 621.965*crust, 436.009*phone, 431.453*hoagi, 429.989*sauc

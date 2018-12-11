@@ -1,0 +1,16 @@
+Topic 0:   pizza, cheese, tacos, like, good, just, sauce, wings, hot
+Cuisine / 
+Topic 1:   good, place, great, really, like, lunch, just, ve, time
+Location / 
+Topic 2:   chicken, thai, rice, spicy, sauce, dish, curry, noodles, love
+Cuisnine / Taste
+Topic 3:   ordered, came, good, got, time, dinner, table, great, just
+Service /Wait time
+Topic 4:   bar, beer, great, place, coffee, drinks, drink, selection, pittsburgh
+Location
+Topic 5:   menu, restaurant, great, sushi, service, tea, ve, place, like
+Menu
+Topic 6:   salad, sauce, bread, pasta, italian, cheese, roasted, delicious, red
+Cuisine / italian
+Topic 7:   burger, cream, fries, bacon, cheese, sweet, chocolate, ice, breakfast
+

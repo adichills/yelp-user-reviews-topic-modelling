@@ -1,0 +1,12 @@
+Topic 0:   335.905*wrap, 282.282*free, 201.885*monday, 190.698*dogs, 182.508*gluten, 167.783*airport, 152.825*crab, 138.678*dive, 134.571*miles
+Topic 1:   1435.578*sushi, 777.533*cleveland, 726.452*buffet, 615.837*game, 399.034*roll, 372.251*hibachi, 354.801*place, 350.036*indian, 293.858*music
+Topic 2:   5791.678*table, 5610.033*minutes, 4390.752*service, 4358.452*came, 4170.175*server, 3976.967*time, 3413.135*asked, 3229.278*waitress, 3152.819*just
+Topic 3:   894.914*card, 592.545*credit, 428.890*use, 398.862*bathroom, 374.362*gift, 274.024*coupon, 246.209*hands, 214.144*cash, 194.776*cards
+Topic 4:   4502.387*pizza, 1676.457*cheese, 1491.816*wings, 1271.407*ordered, 1106.383*sauce, 1087.310*breakfast, 820.681*eggs, 776.551*good, 748.639*pasta
+Topic 5:   2256.619*place, 1876.940*don, 1681.042*people, 1549.490*like, 1506.652*just, 1457.467*location, 1287.479*staff, 1193.376*business, 1128.440*know
+Topic 6:   4037.473*bar, 2375.826*beer, 1278.479*bartender, 922.768*drink, 718.173*drinks, 690.440*beers, 582.507*happy, 514.180*selection, 427.676*bartenders
+Topic 7:   2188.184*like, 1969.889*place, 1460.438*just, 1026.387*eat, 798.975*don, 750.104*got, 682.855*dirty, 662.655*hot, 635.897*know
+Topic 8:   3581.986*service, 2951.343*place, 2921.046*good, 1771.138*better, 1719.585*great, 1606.340*restaurant, 1503.410*really, 1475.043*quality, 1405.524*ve
+Topic 9:   2952.491*burger, 2830.077*salad, 2533.283*fries, 2044.613*ordered, 1874.162*steak, 1601.147*sandwich, 1374.574*cheese, 926.311*burgers, 846.173*medium
+Topic 10:  4429.763*order, 2003.414*time, 1974.427*said, 1694.881*told, 1474.672*ordered, 1430.692*asked, 1343.603*called, 1222.172*got, 1218.922*minutes
+Topic 11:  5265.800*like, 4718.154*good, 4271.669*chicken, 3619.383*just, 3124.936*place, 2826.841*sauce, 2782.905*ordered, 2650.564*really, 2079.135*flavor

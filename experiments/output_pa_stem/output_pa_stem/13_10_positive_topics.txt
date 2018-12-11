@@ -1,0 +1,13 @@
+Topic 0:   14781.855*great, 13284.776*veri, 9050.237*servic, 8965.912*place, 8242.707*good, 6437.693*restaur, 6305.017*friendli, 5368.877*nice, 4846.687*staff
+Topic 1:   8543.523*burger, 3866.778*fri, 1584.604*onion, 1451.141*bacon, 1041.940*chees, 872.838*bun, 757.921*mad, 744.557*chip, 702.489*cheddar
+Topic 2:   19844.016*place, 14584.480*good, 11240.432*like, 10906.970*ve, 9186.858*time, 8552.658*just, 7628.979*alway, 7213.361*realli, 6934.050*tri
+Topic 3:   5875.032*did, 5588.627*tabl, 4748.035*order, 4676.827*wait, 4298.420*time, 3438.579*onli, 3403.455*seat, 3296.714*just, 2953.755*make
+Topic 4:   4711.032*coffe, 4676.752*breakfast, 3602.099*thai, 3379.533*egg, 3355.915*brunch, 3335.467*place, 2218.108*delici, 2215.854*good, 2186.204*love
+Topic 5:   8869.991*chicken, 5223.281*sauc, 4198.179*spici, 3121.461*order, 3010.288*flavor, 2953.620*rice, 2834.927*fri, 2812.679*good, 2392.688*wing
+Topic 6:   10419.185*sandwich, 6515.048*taco, 2576.348*fri, 1986.926*chees, 1880.571*dog, 1857.546*bread, 1441.616*meat, 1375.398*hot, 1374.390*fresh
+Topic 7:   4121.445*cream, 3109.302*ice, 3044.246*flavor, 2632.350*sweet, 2587.377*pork, 2544.861*chocol, 2292.534*tea, 2189.771*dish, 2145.385*dessert
+Topic 8:   12704.069*order, 9505.200*good, 7141.279*salad, 7141.145*veri, 7095.583*like, 6895.433*got, 6750.937*did, 6728.727*realli, 6561.060*just
+Topic 9:   4268.544*roll, 4106.829*fish, 3893.980*sushi, 1299.835*tuna, 1242.442*life, 892.638*fresh, 875.066*shrimp, 606.617*japanes, 597.051*spici
+Topic 10:  2046.416*night, 1692.305*bar, 1392.588*play, 1276.263*music, 1260.513*pierogi, 1213.981*room, 912.485*event, 887.437*parti, 816.250*upstair
+Topic 11:  11437.556*pizza, 2284.024*crust, 1626.023*pittsburgh, 1601.367*pie, 1542.048*chees, 1339.532*slice, 1311.920*italian, 980.500*mussel, 893.998*sauc
+Topic 12:  8889.245*beer, 8667.288*bar, 7180.924*drink, 3627.782*great, 3116.820*cocktail, 2976.104*select, 2350.009*happi, 2282.989*hour, 2163.452*bartend

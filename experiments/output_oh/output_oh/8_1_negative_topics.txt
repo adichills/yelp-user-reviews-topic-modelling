@@ -1,0 +1,12 @@
+Topic 0:   manager, told, said, called, asked, rude, customer, phone, today
+Staff / Rude
+Topic 1:   place, pizza, sushi, ve, good, don, like, just, restaurant
+Food / bad
+Topic 2:   table, service, bar, place, just, came, server, good, restaurant
+Service/ bad
+Topic 3:   card, money, credit, burrito, use, place, music, gift, cash
+
+Topic 4:   ordered, cheese, pizza, chicken, like, got, salad, just, sauce
+Topic 5:   like, place, good, just, chicken, really, rice, better, restaurant
+Topic 6:   good, flavor, sauce, menu, like, burger, price, pork, soup
+Topic 7:   order, time, minutes, service, just, place, location, wait, got

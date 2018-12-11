@@ -1,0 +1,10 @@
+Topic 0:   453.110*free, 448.637*dog, 292.100*parking, 277.994*groupon, 271.871*coupon, 242.522*chairs, 190.715*dogs, 182.260*gluten, 160.589*casino
+Topic 1:   4502.410*pizza, 1289.940*wings, 905.758*place, 851.059*sauce, 749.080*good, 726.468*buffet, 714.678*like, 660.888*chinese, 543.030*just
+Topic 2:   5344.576*bar, 4295.949*place, 3375.398*table, 3027.534*just, 2906.675*service, 2905.071*good, 2407.947*like, 2258.491*drinks, 2166.983*beer
+Topic 3:   855.989*card, 496.788*credit, 459.002*music, 388.938*bathroom, 374.379*gift, 372.862*room, 351.679*money, 330.258*don, 315.713*kids
+Topic 4:   5715.077*minutes, 5554.355*order, 4263.330*asked, 4037.274*said, 3830.494*came, 3830.205*told, 3738.754*time, 3236.325*ordered, 3175.103*manager
+Topic 5:   3714.790*place, 3265.993*service, 2696.982*time, 2342.618*just, 2120.904*ve, 1963.413*good, 1908.031*don, 1902.494*location, 1828.339*like
+Topic 6:   1273.663*fish, 853.103*potatoes, 622.277*crab, 616.020*lobster, 360.813*seafood, 357.876*tuna, 333.889*cake, 310.871*mashed, 262.056*salmon
+Topic 7:   2148.287*place, 2126.284*like, 1730.901*just, 1435.594*sushi, 1097.865*don, 974.111*know, 903.584*people, 880.663*eat, 753.982*order
+Topic 8:   2816.379*good, 2297.823*restaurant, 2041.452*menu, 1718.216*dish, 1570.890*just, 1560.637*really, 1553.741*like, 1464.290*place, 1348.344*meal
+Topic 9:   4186.785*chicken, 4184.376*ordered, 3651.554*like, 3377.529*cheese, 3310.802*good, 2832.576*burger, 2606.929*fries, 2540.502*salad, 2467.424*sauce

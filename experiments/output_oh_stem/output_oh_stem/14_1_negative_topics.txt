@@ -1,0 +1,14 @@
+Topic 0:   2765.731*price, 2188.436*place, 1611.445*menu, 1555.223*plate, 1543.515*just, 1515.791*restaur, 1299.315*like, 1289.254*time, 1286.043*good
+Topic 1:   2668.042*sandwich, 756.848*beef, 596.269*rib, 575.901*bbq, 560.249*corn, 447.678*burger, 431.912*fri, 366.354*lakewood, 353.521*melt
+Topic 2:   3886.518*salad, 1888.881*chees, 1793.815*taco, 1701.580*like, 1270.315*veri, 1210.555*tast, 1167.230*just, 960.594*good, 846.734*bread
+Topic 3:   585.247*kid, 354.681*waffl, 351.483*hotel, 232.294*casino, 208.599*undercook, 195.242*adult, 183.908*id, 167.531*old, 148.383*mile
+Topic 4:   1432.320*place, 1380.687*egg, 1351.541*coffe, 1275.233*breakfast, 1099.463*like, 761.999*time, 690.831*just, 671.853*dirti, 653.601*bacon
+Topic 5:   780.577*mexican, 290.515*margarita, 221.726*salsa, 191.137*eh, 149.504*queso, 137.067*chip, 131.145*guacamol, 120.123*tequila, 119.058*enchilada
+Topic 6:   7161.781*tabl, 6855.914*wait, 6776.706*order, 6720.333*minut, 5427.297*ask, 4983.995*drink, 4982.076*time, 4554.912*did, 4412.442*servic
+Topic 7:   3214.593*chicken, 1606.679*dish, 1478.718*rice, 931.597*just, 799.932*shrimp, 752.882*veri, 710.766*chines, 670.023*noodl, 637.895*like
+Topic 8:   4357.385*place, 3286.610*servic, 2907.026*veri, 2692.574*time, 2682.099*becaus, 2588.583*restaur, 2506.837*custom, 2348.143*manag, 2304.055*like
+Topic 9:   4249.513*pizza, 3864.093*order, 1758.346*time, 1377.571*place, 1014.120*ha, 1013.914*just, 807.121*use, 777.131*ve, 748.666*chang
+Topic 10:  3762.272*good, 3418.436*tast, 3334.924*like, 3228.415*order, 3002.787*burger, 2936.557*fri, 2648.145*sauc, 2635.513*veri, 2252.847*cook
+Topic 11:  1302.809*sushi, 801.063*buffet, 778.390*bar, 776.416*beer, 725.879*fish, 633.218*place, 584.848*good, 516.428*lot, 494.182*select
+Topic 12:  881.024*soup, 842.525*card, 750.031*thai, 462.699*pho, 445.136*noodl, 395.896*pad, 335.342*credit, 312.835*gift, 186.679*airport
+Topic 13:  2544.323*order, 2232.620*place, 2230.304*like, 2171.989*just, 1675.264*wing, 1522.112*say, 1299.135*want, 1243.094*know, 1201.280*did

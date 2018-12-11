@@ -1,0 +1,16 @@
+Topic 0:   2.157*just, 2.115*like, 2.011*time, 1.283*got, 1.240*came, 1.210*ordered, 1.209*little, 1.167*restaurant, 1.126*night
+Topic 1:   5.791*pizza, 1.099*crust, 0.661*wings, 0.413*pizzas, 0.405*sauce, 0.388*cheese, 0.387*toppings, 0.366*pepperoni, 0.287*slice
+Topic 2:   5.822*great, 1.887*service, 0.853*atmosphere, 0.544*awesome, 0.512*place, 0.460*excellent, 0.397*prices, 0.324*beer, 0.319*customer
+Topic 3:   5.197*best, 4.214*ve, 0.968*phoenix, 0.922*times, 0.833*valley, 0.822*far, 0.767*town, 0.748*years, 0.584*hands
+Topic 4:   5.508*sushi, 1.628*roll, 1.301*rolls, 0.689*fresh, 0.563*fish, 0.503*tuna, 0.474*sashimi, 0.335*spicy, 0.329*tempura
+Topic 5:   4.271*chicken, 1.503*fried, 1.455*rice, 1.052*sauce, 0.774*chinese, 0.768*beef, 0.677*pork, 0.604*spicy, 0.595*soup
+Topic 6:   5.556*good, 1.898*really, 0.890*pretty, 0.826*service, 0.785*place, 0.690*nice, 0.414*prices, 0.338*price, 0.258*little
+Topic 7:   3.541*tacos, 2.013*salsa, 1.817*taco, 1.734*mexican, 1.230*chips, 1.173*asada, 1.137*carne, 1.059*fish, 1.045*burrito
+Topic 8:   4.810*burger, 2.687*fries, 1.566*burgers, 0.825*cheese, 0.523*bacon, 0.461*potato, 0.435*bun, 0.429*sweet, 0.422*onion
+Topic 9:   5.854*breakfast, 2.980*coffee, 1.492*eggs, 1.234*pancakes, 0.988*toast, 0.937*bacon, 0.871*morning, 0.803*burrito, 0.716*hash
+Topic 10:  3.409*lunch, 3.390*salad, 2.782*sandwich, 1.782*fresh, 1.217*bread, 1.039*delicious, 1.010*sandwiches, 0.753*cheese, 0.646*soup
+Topic 11:  3.357*friendly, 3.092*staff, 1.021*super, 0.954*clean, 0.658*nice, 0.620*fast, 0.577*helpful, 0.484*delicious, 0.428*fresh
+Topic 12:  4.098*happy, 3.814*hour, 0.899*bar, 0.753*drinks, 0.739*beer, 0.516*wine, 0.474*menu, 0.472*specials, 0.403*pm
+Topic 13:  4.041*amazing, 1.655*recommend, 1.233*highly, 1.116*service, 1.032*definitely, 0.792*delicious, 0.739*place, 0.484*absolutely, 0.401*excellent
+Topic 14:  4.675*thai, 1.471*pad, 1.282*curry, 0.636*spicy, 0.561*tea, 0.439*noodles, 0.407*soup, 0.390*hot, 0.380*restaurant
+Topic 15:  5.188*love, 2.965*place, 0.520*favorite, 0.404*awesome, 0.346*eat, 0.317*like, 0.273*family, 0.238*just, 0.225*people

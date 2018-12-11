@@ -1,0 +1,14 @@
+Topic 0:   1.571*table, 1.289*server, 1.188*came, 1.087*asked, 1.029*waitress, 0.835*said, 0.776*manager, 0.682*restaurant, 0.674*told
+Topic 1:   1.976*good, 0.645*menu, 0.638*better, 0.622*restaurant, 0.534*great, 0.514*price, 0.473*pretty, 0.463*really, 0.416*prices
+Topic 2:   3.380*pizza, 0.449*crust, 0.272*sauce, 0.237*toppings, 0.234*pizzas, 0.221*cheese, 0.215*pepperoni, 0.195*delivery, 0.194*hut
+Topic 3:   1.574*like, 1.542*just, 0.945*don, 0.743*really, 0.552*know, 0.546*bad, 0.476*didn, 0.453*want, 0.446*people
+Topic 4:   2.907*order, 0.900*called, 0.638*told, 0.543*said, 0.538*phone, 0.515*delivery, 0.497*customer, 0.383*wrong, 0.373*manager
+Topic 5:   2.695*burger, 1.112*fries, 0.686*burgers, 0.324*medium, 0.280*bun, 0.233*ordered, 0.218*onion, 0.203*cooked, 0.183*rings
+Topic 6:   2.495*service, 0.952*slow, 0.898*terrible, 0.702*horrible, 0.548*poor, 0.524*customer, 0.413*bad, 0.375*rude, 0.305*worst
+Topic 7:   2.613*bar, 0.952*beer, 0.890*bartender, 0.639*drink, 0.522*drinks, 0.384*bartenders, 0.367*sat, 0.361*night, 0.343*beers
+Topic 8:   2.634*minutes, 1.248*waited, 1.029*wait, 0.715*waiting, 0.654*hour, 0.550*took, 0.479*seated, 0.389*finally, 0.359*got
+Topic 9:   2.825*sushi, 0.638*roll, 0.469*rolls, 0.435*fish, 0.366*rice, 0.342*tuna, 0.276*hibachi, 0.240*fresh, 0.212*buffet
+Topic 10:  3.232*place, 0.329*dirty, 0.214*used, 0.211*people, 0.200*business, 0.190*staff, 0.182*new, 0.177*open, 0.177*try
+Topic 11:  2.889*chicken, 0.921*rice, 0.825*sauce, 0.702*fried, 0.453*ordered, 0.438*tasted, 0.432*chinese, 0.375*wings, 0.373*thai
+Topic 12:  1.762*time, 1.088*ve, 0.904*times, 0.854*location, 0.434*chipotle, 0.386*worst, 0.376*staff, 0.349*wait, 0.338*line
+Topic 13:  1.652*salad, 1.273*cheese, 1.172*sandwich, 0.914*ordered, 0.826*steak, 0.744*bread, 0.483*soup, 0.441*lettuce, 0.417*meat

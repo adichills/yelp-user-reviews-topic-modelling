@@ -1,0 +1,14 @@
+Topic 0:   1.788*breakfast, 1.716*like, 1.260*just, 1.105*coffee, 1.055*don, 1.009*sandwich, 0.958*lunch, 0.772*little, 0.766*time
+Topic 1:   4.037*pizza, 0.753*crust, 0.387*pizzas, 0.358*sauce, 0.328*pepperoni, 0.309*toppings, 0.289*cheese, 0.208*delivery, 0.192*fresh
+Topic 2:   3.706*great, 1.274*service, 0.480*atmosphere, 0.342*excellent, 0.268*prices, 0.245*awesome, 0.159*price, 0.156*spot, 0.154*recommend
+Topic 3:   3.414*chicken, 0.971*fried, 0.746*rice, 0.742*sauce, 0.651*soup, 0.583*chinese, 0.525*salad, 0.464*hot, 0.457*spicy
+Topic 4:   0.971*ordered, 0.776*got, 0.774*delicious, 0.744*came, 0.739*dinner, 0.665*restaurant, 0.625*definitely, 0.614*meal, 0.610*salad
+Topic 5:   3.748*good, 1.032*really, 0.605*service, 0.540*nice, 0.531*pretty, 0.310*prices, 0.272*place, 0.242*price, 0.189*little
+Topic 6:   2.136*bar, 1.740*beer, 1.007*happy, 0.925*hour, 0.905*selection, 0.619*beers, 0.571*drinks, 0.554*menu, 0.524*patio
+Topic 7:   3.416*burger, 1.967*fries, 1.381*burgers, 0.547*cheese, 0.407*onion, 0.367*rings, 0.346*bacon, 0.264*bun, 0.260*got
+Topic 8:   3.854*sushi, 0.986*roll, 0.765*rolls, 0.471*hibachi, 0.420*fresh, 0.316*tuna, 0.304*fish, 0.266*japanese, 0.262*sashimi
+Topic 9:   2.584*best, 2.130*ve, 1.161*cleveland, 0.551*restaurant, 0.448*times, 0.411*area, 0.383*chinese, 0.371*years, 0.364*favorite
+Topic 10:  2.444*friendly, 2.272*staff, 0.568*clean, 0.493*delicious, 0.483*super, 0.478*fresh, 0.447*nice, 0.413*fast, 0.363*helpful
+Topic 11:  3.103*place, 2.611*love, 0.863*amazing, 0.407*awesome, 0.322*favorite, 0.312*recommend, 0.310*try, 0.260*eat, 0.256*absolutely
+Topic 12:  2.021*tacos, 1.396*mexican, 1.195*taco, 1.064*salsa, 0.863*chips, 0.662*margaritas, 0.531*guacamole, 0.425*margarita, 0.409*barrio
+Topic 13:  2.501*thai, 1.289*pho, 1.140*pad, 0.549*curry, 0.425*spicy, 0.417*noodles, 0.374*tea, 0.353*rolls, 0.344*rice

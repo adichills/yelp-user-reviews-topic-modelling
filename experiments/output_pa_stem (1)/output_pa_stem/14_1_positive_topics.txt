@@ -1,0 +1,14 @@
+Topic 0:   10623.287*great, 9240.775*bar, 7303.222*drink, 5519.216*place, 5090.188*veri, 3969.312*night, 3659.312*nice, 3581.344*good, 3238.959*friendli
+Topic 1:   6915.054*taco, 2094.767*chip, 1922.962*mexican, 1821.585*salsa, 1390.463*burrito, 1200.899*margarita, 1113.669*mad, 1074.114*tortilla, 818.931*corn
+Topic 2:   13328.153*pizza, 11106.467*place, 9196.292*good, 7360.288*beer, 7181.638*like, 6596.353*ve, 5619.638*just, 4953.634*time, 4952.054*alway
+Topic 3:   7755.499*order, 7324.677*tabl, 6778.789*did, 5306.265*wait, 5031.845*just, 4484.266*time, 4451.613*make, 4377.401*restaur, 4216.018*menu
+Topic 4:   3491.039*thai, 3476.068*dish, 2442.293*curri, 2320.883*vegan, 1813.353*restaur, 1779.083*noodl, 1639.984*spici, 1561.386*spice, 1487.631*indian
+Topic 5:   8113.112*chicken, 3602.364*sauc, 3471.041*hot, 3443.781*wing, 2521.798*fri, 2496.811*spici, 2342.522*rice, 1851.631*game, 1542.259*order
+Topic 6:   9867.736*sandwich, 9425.439*burger, 7789.735*fri, 7056.441*chees, 2320.950*good, 2310.779*meat, 2304.973*onion, 2092.090*bbq, 2041.263*bread
+Topic 7:   4626.095*cream, 3614.842*ice, 3513.982*flavor, 3237.773*pork, 3099.604*tea, 3080.323*sweet, 2816.544*chocol, 2163.718*soup, 1620.664*tast
+Topic 8:   14974.939*good, 13554.960*order, 12891.821*like, 11747.492*place, 11710.194*realli, 11358.307*veri, 10819.534*tri, 10403.490*delici, 9883.525*got
+Topic 9:   4257.213*roll, 3731.616*sushi, 3188.085*fish, 1347.207*tuna, 1343.359*shrimp, 922.693*fresh, 717.826*salmon, 582.778*japanes, 568.392*spici
+Topic 10:  816.647*market, 802.228*squar, 608.660*rock, 572.906*sister, 549.068*store, 517.621*yesterday, 446.281*magic, 384.894*pub, 383.762*ampl
+Topic 11:  3857.239*salad, 1789.858*steak, 1564.074*seafood, 1434.151*chees, 1297.723*chef, 1235.155*dessert, 1171.250*chop, 1152.968*lamb, 1091.733*grill
+Topic 12:  5066.589*coffe, 4734.305*breakfast, 3922.262*brunch, 3168.541*egg, 2150.651*toast, 2102.727*pancak, 1789.746*diner, 1707.693*french, 1469.772*day
+Topic 13:  6240.427*great, 5914.620*veri, 5416.417*good, 5258.817*servic, 4842.886*place, 3458.752*recommend, 3163.583*friendli, 2841.144*price, 2466.323*best

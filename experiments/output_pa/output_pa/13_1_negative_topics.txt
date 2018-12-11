@@ -1,0 +1,13 @@
+Topic 0:   2642.347*sauce, 2575.801*chicken, 2028.293*ordered, 1803.871*like, 1597.443*good, 1429.384*dish, 1404.356*rice, 1392.337*flavor, 1234.028*place
+Topic 1:   1143.191*burger, 637.485*tea, 533.318*bacon, 497.980*breakfast, 451.676*coffee, 431.553*fries, 429.163*toast, 371.492*eggs, 350.076*burgers
+Topic 2:   5849.529*time, 5487.053*service, 5161.470*came, 5151.956*minutes, 4802.267*table, 4619.380*just, 4236.845*ordered, 4069.912*place, 3832.728*order
+Topic 3:   2867.604*place, 1553.813*bar, 1216.279*service, 1176.581*better, 821.367*good, 700.306*pittsburgh, 680.489*great, 676.555*don, 655.501*prices
+Topic 4:   1141.204*beer, 670.026*just, 639.423*don, 583.214*know, 547.153*place, 506.484*free, 492.744*like, 465.255*ve, 439.990*beers
+Topic 5:   910.503*tacos, 665.805*mexican, 621.731*taco, 555.312*salsa, 507.695*chips, 351.713*avoid, 223.880*guacamole, 172.829*queso, 162.467*bell
+Topic 6:   3730.245*good, 3265.178*like, 2952.073*just, 2850.062*really, 1938.977*menu, 1747.844*place, 1612.929*cheese, 1413.874*taste, 1401.673*great
+Topic 7:   4366.330*pizza, 2345.613*sandwich, 2025.651*cheese, 1419.453*fries, 1002.788*ordered, 833.911*bread, 676.598*sandwiches, 616.856*meat, 571.723*crust
+Topic 8:   933.022*pork, 255.914*pho, 228.847*duck, 225.803*crab, 210.711*pulled, 205.984*ramen, 195.888*served, 161.745*main, 160.767*crisp
+Topic 9:   145.472*dont, 112.230*dress, 95.864*lo, 79.437*code, 78.910*feed, 75.670*mein, 67.946*nakama, 61.898*hookah, 61.045*younger
+Topic 10:  742.180*buffet, 552.969*breakfast, 422.399*burrito, 378.899*eggs, 369.988*eat, 347.780*indian, 290.288*ve, 268.062*place, 265.843*soup
+Topic 11:  1413.001*said, 1346.878*told, 1298.797*manager, 1247.753*order, 1125.039*people, 1028.391*rude, 1024.113*called, 963.678*customer, 942.741*business
+Topic 12:  464.975*money, 387.116*location, 317.847*street, 286.766*family, 279.257*restaurant, 269.267*staff, 262.380*ve, 253.245*save, 238.777*mins

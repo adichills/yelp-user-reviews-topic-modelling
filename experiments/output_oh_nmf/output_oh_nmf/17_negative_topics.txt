@@ -1,0 +1,17 @@
+Topic 0:   1.721*table, 1.400*server, 1.230*came, 1.179*asked, 1.105*waitress, 0.902*said, 0.826*manager, 0.766*restaurant, 0.736*told
+Topic 1:   1.191*sauce, 0.943*rice, 0.656*flavor, 0.653*tasted, 0.648*bland, 0.634*thai, 0.602*like, 0.579*shrimp, 0.578*dish
+Topic 2:   3.367*pizza, 0.445*crust, 0.237*toppings, 0.233*pizzas, 0.219*cheese, 0.214*pepperoni, 0.212*sauce, 0.195*delivery, 0.191*hut
+Topic 3:   1.560*just, 1.299*like, 1.094*don, 0.723*really, 0.641*know, 0.604*people, 0.525*bad, 0.496*want, 0.436*didn
+Topic 4:   2.954*order, 0.903*called, 0.635*told, 0.538*phone, 0.526*said, 0.520*delivery, 0.486*customer, 0.387*wrong, 0.376*placed
+Topic 5:   2.723*burger, 1.104*fries, 0.681*burgers, 0.285*bun, 0.274*medium, 0.226*onion, 0.219*ordered, 0.189*bacon, 0.186*rings
+Topic 6:   2.533*service, 0.977*slow, 0.926*terrible, 0.728*horrible, 0.570*poor, 0.551*customer, 0.414*rude, 0.404*bad, 0.330*worst
+Topic 7:   2.713*bar, 0.922*bartender, 0.918*beer, 0.666*drink, 0.537*drinks, 0.398*bartenders, 0.386*sat, 0.345*night, 0.332*beers
+Topic 8:   2.764*minutes, 1.307*waited, 1.084*wait, 0.751*waiting, 0.686*hour, 0.574*took, 0.493*seated, 0.405*finally, 0.376*later
+Topic 9:   2.924*sushi, 0.631*roll, 0.460*rolls, 0.415*fish, 0.344*tuna, 0.281*hibachi, 0.237*fresh, 0.225*rice, 0.224*buffet
+Topic 10:  3.274*place, 0.331*dirty, 0.217*used, 0.192*try, 0.181*new, 0.171*recommend, 0.171*stars, 0.170*star, 0.165*avoid
+Topic 11:  3.271*chicken, 0.325*fried, 0.184*ordered, 0.176*dry, 0.171*rice, 0.163*general, 0.162*tso, 0.158*breast, 0.151*breading
+Topic 12:  1.899*salad, 1.388*sandwich, 1.195*cheese, 0.732*bread, 0.501*lunch, 0.491*lettuce, 0.459*dressing, 0.451*ordered, 0.429*soup
+Topic 13:  2.116*time, 1.311*ve, 1.089*times, 0.979*location, 0.491*chipotle, 0.419*worst, 0.376*wait, 0.368*second, 0.361*long
+Topic 14:  2.195*steak, 0.648*medium, 0.572*ordered, 0.446*rare, 0.434*cooked, 0.262*steaks, 0.255*potatoes, 0.239*came, 0.229*cold
+Topic 15:  2.361*good, 0.551*great, 0.526*price, 0.522*menu, 0.505*pretty, 0.504*really, 0.481*better, 0.441*prices, 0.423*nice
+Topic 16:  2.481*wings, 0.508*sauce, 0.413*wing, 0.258*fries, 0.230*boneless, 0.216*ordered, 0.216*hot, 0.201*buffalo, 0.175*garlic

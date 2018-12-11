@@ -1,0 +1,16 @@
+Topic 0:   633.069*salad, 300.154*dressing, 293.358*cafe, 216.062*drove, 154.626*slaw, 153.691*office, 120.717*cleanliness, 120.320*gloves, 114.581*entrance
+Topic 1:   810.433*ve, 305.598*best, 295.314*indian, 278.629*restaurants, 269.083*gyro, 248.331*chain, 244.509*review, 237.390*eaten, 217.671*times
+Topic 2:   2172.754*place, 962.634*restaurant, 872.227*just, 740.020*good, 722.864*dirty, 718.744*service, 675.273*think, 629.934*new, 546.394*great
+Topic 3:   921.406*card, 581.023*credit, 489.284*beef, 380.056*gift, 353.505*corned, 275.740*cash, 272.130*use, 208.460*cards, 187.184*casino
+Topic 4:   4356.498*pizza, 2321.704*ordered, 2175.904*cheese, 2103.738*order, 1477.324*wings, 1402.725*just, 1305.172*like, 1160.770*got, 1115.738*didn
+Topic 5:   1607.361*location, 1345.988*order, 1030.235*time, 992.741*line, 896.469*don, 876.986*service, 875.211*coffee, 853.843*people, 838.259*staff
+Topic 6:   253.066*margaritas, 104.759*tequila, 98.534*bags, 98.461*al, 91.382*security, 64.983*basement, 64.606*trout, 60.463*dear, 54.110*cans
+Topic 7:   1232.170*just, 1079.302*ve, 1053.252*place, 868.082*like, 662.318*bad, 655.676*walked, 648.687*worst, 582.610*time, 537.094*away
+Topic 8:   550.528*bbq, 536.502*ribs, 439.366*free, 425.210*stale, 252.177*rib, 251.413*dry, 215.817*really, 214.589*dessert, 211.789*like
+Topic 9:   4071.439*good, 2750.751*service, 2671.757*just, 2660.033*place, 2452.179*burger, 2054.513*fries, 2034.239*better, 1812.062*steak, 1768.840*ordered
+Topic 10:  5615.485*minutes, 5404.428*table, 4528.670*service, 4366.229*came, 4068.512*time, 4032.613*server, 3412.565*asked, 3239.918*took, 3174.012*waitress
+Topic 11:  3289.178*chicken, 3088.416*like, 1890.326*sauce, 1790.432*rice, 1659.806*tasted, 1556.601*flavor, 1535.900*good, 1334.157*soup, 1334.016*ordered
+Topic 12:  1398.465*sushi, 416.038*roll, 401.858*hibachi, 302.527*cashier, 247.559*man, 223.050*chef, 137.728*japanese, 131.748*rock, 129.403*um
+Topic 13:  2209.984*place, 2000.950*bar, 1694.329*beer, 1400.151*like, 735.631*really, 656.426*people, 605.604*music, 571.670*don, 565.040*cleveland
+Topic 14:  1573.753*told, 1366.692*restaurant, 1343.531*order, 1317.476*manager, 1315.238*place, 1289.069*called, 1250.885*customer, 1249.673*just, 1168.272*hour
+Topic 15:  2258.160*good, 1785.208*menu, 1443.368*ordered, 1301.982*like, 1245.903*just, 1148.790*really, 935.407*bread, 902.315*restaurant, 899.034*pasta

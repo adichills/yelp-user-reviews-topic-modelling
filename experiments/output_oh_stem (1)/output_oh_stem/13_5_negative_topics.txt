@@ -1,0 +1,13 @@
+Topic 0:   7481.803*place, 4332.698*good, 4053.916*like, 3972.277*just, 3213.637*realli, 3053.676*price, 2824.137*bar, 2773.956*restaur, 2516.902*great
+Topic 1:   2904.513*chicken, 2786.519*sandwich, 1240.565*fri, 1104.095*order, 912.140*beef, 780.535*rice, 689.989*soup, 656.979*got, 651.752*chines
+Topic 2:   3272.333*salad, 2775.389*chees, 1948.179*like, 1329.008*tast, 1319.485*just, 1294.687*bread, 964.622*did, 927.677*tomato, 865.701*meat
+Topic 3:   836.221*park, 467.753*free, 353.734*store, 347.134*waffl, 286.547*event, 271.102*band, 257.723*buy, 223.449*groceri, 216.201*market
+Topic 4:   1297.891*egg, 1276.598*coffe, 1229.767*breakfast, 838.957*dirti, 819.753*place, 700.365*like, 612.112*brunch, 571.521*clean, 531.645*look
+Topic 5:   1829.322*taco, 1011.370*chip, 796.967*mexican, 695.688*salsa, 641.717*burrito, 540.250*margarita, 309.632*chipotl, 284.051*bean, 278.805*guacamol
+Topic 6:   7683.807*order, 7296.077*tabl, 6711.716*wait, 6491.457*minut, 5533.903*ask, 5327.798*did, 4924.326*drink, 4690.990*server, 4632.649*came
+Topic 7:   3470.395*veri, 3162.400*good, 2893.932*tast, 2785.686*dish, 2697.974*sauc, 2501.742*order, 2414.769*like, 2063.613*flavor, 2052.995*chicken
+Topic 8:   3755.369*time, 3302.757*servic, 3074.119*custom, 2870.126*manag, 2417.440*order, 2345.298*place, 1922.604*locat, 1917.429*staff, 1879.296*becaus
+Topic 9:   4828.807*pizza, 4253.732*order, 1927.699*place, 1668.770*time, 1646.037*wing, 1192.864*just, 893.499*tri, 891.335*said, 863.138*like
+Topic 10:  3893.695*burger, 2267.965*steak, 2181.246*fri, 1246.183*cook, 1098.433*order, 924.781*medium, 722.240*chees, 615.722*good, 578.044*rare
+Topic 11:  1435.805*sushi, 1039.384*roll, 891.744*averag, 787.152*buffet, 731.350*fish, 438.079*tuna, 405.103*indian, 383.294*hibachi, 322.418*asian
+Topic 12:  1100.311*card, 614.765*credit, 423.887*pho, 416.072*tea, 383.488*gift, 371.966*tip, 349.245*mcdonald, 313.458*cash, 309.676*hi

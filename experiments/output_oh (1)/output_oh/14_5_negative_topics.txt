@@ -1,0 +1,14 @@
+Topic 0:   277.253*groupon, 203.669*monday, 136.350*legs, 131.538*meeting, 115.617*beware, 115.404*crepe, 114.690*panini, 94.302*noon, 78.172*holy
+Topic 1:   810.167*chinese, 733.058*buffet, 431.200*beef, 341.582*indian, 236.454*general, 236.284*gyro, 234.533*corned, 208.841*dishes, 195.526*greek
+Topic 2:   4978.605*bar, 3054.054*place, 3008.394*table, 2266.351*night, 2266.268*service, 2149.852*good, 2117.408*restaurant, 1989.014*just, 1929.094*tables
+Topic 3:   624.525*dirty, 565.972*card, 496.003*floor, 401.485*bathroom, 375.440*gift, 332.021*credit, 299.815*old, 297.111*use, 269.935*hands
+Topic 4:   4503.186*pizza, 1475.578*cheese, 1465.340*wings, 1200.906*ordered, 1105.877*breakfast, 886.229*sauce, 843.454*eggs, 652.189*bacon, 623.598*good
+Topic 5:   4211.107*place, 2906.052*don, 2582.439*service, 2507.359*like, 2361.835*just, 2350.230*time, 1773.667*people, 1743.347*ve, 1733.643*location
+Topic 6:   769.999*mexican, 308.026*margarita, 229.733*margaritas, 178.640*guacamole, 165.786*casino, 155.553*spoon, 133.023*non, 102.239*tequila, 101.825*pros
+Topic 7:   2004.291*like, 1901.386*just, 1282.627*got, 1115.064*place, 961.691*order, 931.233*didn, 826.150*eat, 824.872*away, 744.462*said
+Topic 8:   1663.391*place, 1439.382*service, 1372.992*quality, 1280.432*better, 1140.666*ve, 1029.974*good, 1003.040*used, 887.455*years, 777.821*prices
+Topic 9:   2951.409*burger, 2627.163*fries, 1990.279*sandwich, 1793.898*steak, 1625.378*cheese, 1564.780*ordered, 1270.707*good, 957.454*burgers, 830.941*meat
+Topic 10:  5727.486*minutes, 5201.049*order, 4317.619*asked, 4084.476*came, 3851.515*time, 3791.829*said, 3683.405*told, 3382.402*service, 3364.302*server
+Topic 11:  5199.512*like, 4808.976*good, 4309.608*chicken, 3607.069*just, 3286.422*ordered, 3136.202*place, 2991.613*sauce, 2711.514*really, 2123.835*tasted
+Topic 12:  1435.800*sushi, 715.980*roll, 490.853*chef, 425.930*tuna, 413.910*fish, 379.866*hibachi, 350.829*rolls, 187.865*japanese, 128.614*giant
+Topic 13:  2307.689*beer, 765.612*menu, 684.467*beers, 589.906*selection, 426.562*bar, 250.155*chairs, 248.989*tap, 245.768*dollar, 225.037*limited

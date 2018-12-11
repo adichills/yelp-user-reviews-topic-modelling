@@ -1,0 +1,9 @@
+Topic 0:   3174.192*cream, 2915.739*coffee, 2259.913*ve, 2139.476*vegan, 2093.127*ice, 1903.280*best, 1556.395*flavors, 1484.503*shop, 1451.114*chocolate
+Topic 1:   16952.548*place, 15707.903*great, 12096.607*good, 10433.448*service, 7903.522*friendly, 6636.293*love, 6159.551*staff, 6078.414*ve, 5545.996*restaurant
+Topic 2:   4711.756*bar, 4398.708*cleveland, 2202.045*old, 2108.690*fun, 1788.465*place, 1764.931*dog, 1753.349*great, 1627.262*just, 1596.579*night
+Topic 3:   19083.469*good, 17612.108*great, 16294.395*place, 11163.706*really, 10399.936*time, 8835.482*menu, 8363.701*service, 8261.427*like, 8058.162*just
+Topic 4:   12126.873*pizza, 3249.724*sauce, 2970.210*italian, 2813.156*cheese, 2429.993*crust, 2348.737*pasta, 2160.914*best, 1951.670*good, 1553.726*delicious
+Topic 5:   4762.686*sushi, 2952.143*chicken, 2708.212*rice, 2571.821*roll, 2562.901*chinese, 2554.671*rolls, 2253.203*spicy, 2106.430*fried, 2090.677*soup
+Topic 6:   6690.801*chicken, 5074.451*salad, 4544.151*sauce, 4526.419*ordered, 4001.948*fresh, 3834.967*really, 3801.393*like, 3747.978*good, 3715.588*delicious
+Topic 7:   4655.062*cheese, 4329.692*good, 4031.674*beef, 3657.795*pork, 3051.767*bacon, 3019.585*sauce, 2853.728*meat, 2756.250*like, 2348.256*fried
+Topic 8:   3212.256*just, 2742.594*wasn, 2519.979*bit, 2319.564*like, 2269.421*end, 1776.368*table, 1683.966*didn, 1680.939*came, 1557.991*review

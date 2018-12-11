@@ -1,0 +1,14 @@
+Topic 0:   3579.991*place, 3506.010*price, 2846.811*good, 2635.151*menu, 2415.564*restaur, 2322.139*just, 2057.763*realli, 1856.961*veri, 1832.407*better
+Topic 1:   3215.626*burger, 2787.578*sandwich, 1582.688*fri, 792.961*chees, 670.469*beef, 637.398*bbq, 557.595*bun, 523.616*rib, 521.626*meat
+Topic 2:   4018.409*salad, 1869.394*chees, 1851.183*taco, 1166.479*like, 1137.935*chicken, 939.623*tast, 885.028*tomato, 874.960*bread, 826.805*just
+Topic 3:   954.976*kid, 364.324*hotel, 347.129*waffl, 271.358*old, 237.871*park, 225.367*son, 218.346*mile, 201.190*children, 195.971*casino
+Topic 4:   1276.594*coffe, 1254.583*egg, 1229.761*breakfast, 1184.457*place, 854.114*like, 815.343*dirti, 678.240*clean, 597.992*brunch, 593.460*bacon
+Topic 5:   884.147*chip, 796.960*mexican, 689.967*salsa, 634.784*burrito, 537.804*margarita, 277.019*guacamol, 211.594*bland, 185.135*queso, 155.369*eh
+Topic 6:   7757.802*order, 7192.995*wait, 7170.640*tabl, 6807.715*minut, 5388.331*ask, 4867.667*did, 4824.034*drink, 4699.837*time, 4475.422*came
+Topic 7:   3308.437*chicken, 1709.439*rice, 1453.933*dish, 1118.110*tast, 1100.793*roll, 946.312*like, 919.384*noodl, 816.563*sauc, 793.442*chines
+Topic 8:   2927.423*servic, 2831.451*place, 2757.767*custom, 2695.165*manag, 2478.634*time, 2308.282*restaur, 2031.301*becaus, 1958.365*staff, 1855.247*like
+Topic 9:   4891.099*order, 4825.596*pizza, 2926.609*time, 1646.255*place, 1149.504*ha, 1077.726*ve, 887.998*use, 870.327*year, 797.541*servic
+Topic 10:  3285.628*good, 3019.285*like, 2963.655*order, 2950.092*veri, 2910.749*tast, 2144.398*cook, 2105.592*steak, 2063.043*sauc, 1941.932*did
+Topic 11:  2605.320*bar, 2260.580*beer, 1184.478*sushi, 937.436*place, 786.380*buffet, 751.654*good, 578.328*select, 558.400*music, 534.995*lot
+Topic 12:  1098.642*card, 808.128*soup, 707.776*thai, 567.322*credit, 423.882*pho, 383.861*bowl, 382.195*gift, 370.670*pad, 197.835*cash
+Topic 13:  3087.002*like, 2932.319*just, 2783.984*place, 1854.561*order, 1770.508*want, 1682.510*wing, 1560.940*say, 1458.628*look, 1407.912*know

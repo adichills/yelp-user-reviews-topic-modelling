@@ -1,0 +1,17 @@
+Topic 0:   2.770*place, 2.047*good, 1.868*like, 1.577*realli, 1.570*just, 1.440*veri, 1.323*tast, 1.315*price, 1.064*tri
+Topic 1:   3.464*chicken, 1.161*fri, 1.073*rice, 0.938*sauc, 0.691*tast, 0.672*salad, 0.657*soup, 0.649*noodl, 0.566*dri
+Topic 2:   4.908*pizza, 0.525*crust, 0.498*chees, 0.439*slice, 0.346*deliveri, 0.336*pepperoni, 0.278*sauc, 0.242*wing, 0.193*dough
+Topic 3:   6.354*order, 0.806*took, 0.749*wrong, 0.645*deliveri, 0.572*got, 0.561*came, 0.424*min, 0.423*did, 0.398*receiv
+Topic 4:   4.791*burger, 1.664*fri, 0.465*chees, 0.434*bun, 0.389*patti, 0.384*onion, 0.383*shake, 0.298*bacon, 0.263*cook
+Topic 5:   4.622*wait, 2.960*minut, 1.162*hour, 1.030*min, 0.888*line, 0.809*long, 0.772*seat, 0.576*anoth, 0.495*peopl
+Topic 6:   4.814*buffet, 0.837*crab, 0.677*select, 0.647*leg, 0.599*line, 0.583*dessert, 0.541*vega, 0.529*station, 0.518*seafood
+Topic 7:   4.092*servic, 1.677*horribl, 1.622*custom, 1.320*bad, 1.155*terribl, 1.040*worst, 0.920*slow, 0.691*rude, 0.616*poor
+Topic 8:   3.877*sushi, 2.124*roll, 0.889*fish, 0.677*rice, 0.658*ayc, 0.476*eat, 0.427*chef, 0.408*tuna, 0.403*nigiri
+Topic 9:   2.042*said, 1.780*ask, 1.772*manag, 1.312*did, 1.278*told, 1.106*want, 0.933*say, 0.926*custom, 0.885*just
+Topic 10:  3.795*steak, 0.968*cook, 0.890*medium, 0.677*rare, 0.556*meat, 0.530*rib, 0.523*potato, 0.497*salad, 0.469*lobster
+Topic 11:  3.534*tabl, 2.484*server, 1.414*came, 1.292*restaur, 1.279*seat, 1.159*ask, 1.137*waiter, 0.889*water, 0.865*check
+Topic 12:  3.214*room, 1.785*hotel, 1.568*stay, 0.628*night, 0.550*bed, 0.505*desk, 0.460*check, 0.456*floor, 0.456*vega
+Topic 13:  3.513*taco, 0.905*burrito, 0.868*salsa, 0.780*mexican, 0.722*chip, 0.617*bean, 0.574*asada, 0.506*carn, 0.465*meat
+Topic 14:  2.875*drink, 2.328*bar, 1.442*bartend, 0.815*beer, 0.423*happi, 0.363*friend, 0.341*sat, 0.339*night, 0.325*play
+Topic 15:  3.776*sandwich, 0.775*bread, 0.773*chees, 0.569*breakfast, 0.370*egg, 0.336*turkey, 0.326*salad, 0.288*bacon, 0.282*coffe
+Topic 16:  4.988*time, 1.782*locat, 1.427*ve, 1.004*alway, 0.878*ha, 0.854*everi, 0.784*come, 0.710*close, 0.646*wast

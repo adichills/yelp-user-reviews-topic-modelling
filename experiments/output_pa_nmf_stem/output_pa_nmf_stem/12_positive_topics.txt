@@ -1,0 +1,12 @@
+Topic 0:   1.417*order, 1.010*did, 0.873*meal, 0.820*tabl, 0.774*came, 0.772*sauc, 0.768*menu, 0.765*got, 0.751*like
+Topic 1:   4.135*pizza, 0.689*crust, 0.402*chees, 0.396*slice, 0.357*order, 0.349*sauc, 0.325*pepperoni, 0.319*deliveri, 0.300*hoagi
+Topic 2:   2.203*beer, 1.727*bar, 1.025*drink, 0.908*select, 0.760*wing, 0.486*night, 0.473*bartend, 0.440*hour, 0.403*happi
+Topic 3:   3.192*sandwich, 0.888*fri, 0.683*chicken, 0.672*lunch, 0.561*chees, 0.546*salad, 0.488*bread, 0.444*fish, 0.365*primanti
+Topic 4:   3.461*taco, 0.617*salsa, 0.547*mexican, 0.416*chip, 0.371*margarita, 0.331*tortilla, 0.301*fish, 0.296*guacamol, 0.241*queso
+Topic 5:   1.654*place, 1.611*alway, 1.577*ve, 1.227*best, 1.153*time, 1.134*pittsburgh, 1.088*love, 0.743*favorit, 0.726*ha
+Topic 6:   2.656*thai, 1.313*noodl, 1.265*chicken, 1.210*curri, 1.065*spici, 1.046*pad, 0.848*dish, 0.736*rice, 0.646*soup
+Topic 7:   2.938*veri, 2.739*good, 1.051*nice, 0.788*price, 0.697*servic, 0.667*friendli, 0.613*realli, 0.495*reason, 0.455*place
+Topic 8:   3.695*great, 1.203*servic, 0.689*atmospher, 0.533*recommend, 0.489*friendli, 0.480*excel, 0.474*staff, 0.457*place, 0.397*highli
+Topic 9:   3.883*burger, 0.900*fri, 0.365*shake, 0.330*burgatori, 0.322*bacon, 0.302*chees, 0.293*milkshak, 0.285*bun, 0.264*onion
+Topic 10:  2.597*sushi, 1.425*roll, 0.440*fish, 0.398*fresh, 0.325*tuna, 0.256*chines, 0.234*sashimi, 0.216*lunch, 0.216*hibachi
+Topic 11:  2.401*breakfast, 1.711*coffe, 1.053*egg, 1.000*brunch, 0.934*pancak, 0.704*toast, 0.671*diner, 0.525*wait, 0.515*waffl

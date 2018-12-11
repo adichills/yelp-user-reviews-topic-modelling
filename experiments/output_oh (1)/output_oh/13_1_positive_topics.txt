@@ -1,0 +1,13 @@
+Topic 0:   3153.453*coffee, 2491.158*street, 2177.698*vegan, 1992.154*free, 1984.848*cleveland, 1737.975*ve, 1670.861*best, 1484.354*shop, 1478.105*menu
+Topic 1:   12758.163*good, 11644.368*great, 10417.805*place, 7853.142*service, 6301.343*ve, 6189.240*friendly, 4382.681*staff, 4348.628*lunch, 4035.217*nice
+Topic 2:   538.941*christmas, 470.346*rock, 455.730*park, 442.251*ohio, 435.767*head, 434.223*lakes, 413.800*drink, 383.250*review, 382.161*just
+Topic 3:   17249.516*great, 12835.131*good, 11134.304*place, 9363.953*service, 8793.673*time, 8165.462*menu, 7993.841*really, 7501.890*night, 7322.365*nice
+Topic 4:   3050.422*cream, 2943.295*dessert, 2917.082*delicious, 2182.189*italian, 2130.245*pasta, 2110.534*chocolate, 2105.818*ve, 2093.935*ice, 1989.318*great
+Topic 5:   4763.492*sushi, 4472.462*chicken, 3873.020*rice, 3102.707*spicy, 2910.671*thai, 2564.058*roll, 2563.226*rolls, 2554.758*chinese, 2253.583*dishes
+Topic 6:   8443.146*like, 7660.944*place, 6990.465*just, 6308.301*don, 5111.601*time, 4526.498*sandwich, 3956.537*know, 3951.842*little, 3687.489*people
+Topic 7:   5565.484*sauce, 5471.124*good, 4626.125*pork, 4005.324*meat, 3943.596*cheese, 3597.564*fried, 3587.600*chicken, 3478.746*ordered, 3359.399*fries
+Topic 8:   6452.653*salad, 5485.573*cheese, 4628.458*got, 4278.060*chicken, 3987.781*sauce, 3611.119*just, 3234.903*ordered, 2844.932*bit, 2696.001*wasn
+Topic 9:   2025.901*cheap, 1369.042*cafe, 564.639*chili, 542.016*lake, 479.519*north, 477.136*falls, 391.383*crepes, 381.908*chefs, 362.235*local
+Topic 10:  7471.811*bar, 6151.689*beer, 2316.641*selection, 2114.332*beers, 1914.291*music, 1891.492*cool, 1829.768*fun, 1578.889*like, 1563.243*place
+Topic 11:  12006.903*pizza, 5043.095*place, 4855.408*burger, 4639.454*good, 4347.523*great, 4012.576*best, 3667.223*breakfast, 3617.343*love, 2674.090*tacos
+Topic 12:  1203.305*average, 703.267*hang, 635.268*garden, 525.824*satisfying, 453.126*german, 406.393*sliders, 354.317*schnitzel, 332.701*class, 310.251*winner

@@ -1,0 +1,14 @@
+Topic 0:   1.944*tabl, 1.303*ask, 0.966*waitress, 0.882*server, 0.839*did, 0.825*seat, 0.788*said, 0.704*reserv, 0.674*came
+Topic 1:   1.757*place, 1.052*just, 1.038*like, 0.796*realli, 0.560*becaus, 0.549*want, 0.533*tri, 0.515*look, 0.495*ve
+Topic 2:   3.493*pizza, 0.456*crust, 0.421*chees, 0.263*sauc, 0.249*pepperoni, 0.244*slice, 0.201*deliveri, 0.165*tast, 0.164*pie
+Topic 3:   2.844*order, 0.539*deliveri, 0.480*time, 0.420*said, 0.407*did, 0.370*phone, 0.359*wrong, 0.336*told, 0.314*took
+Topic 4:   2.882*burger, 0.615*fri, 0.316*medium, 0.284*cook, 0.219*patti, 0.214*bun, 0.187*burgatori, 0.174*bacon, 0.172*brgr
+Topic 5:   1.572*servic, 0.841*time, 0.631*custom, 0.556*rude, 0.554*terribl, 0.537*horribl, 0.512*manag, 0.458*bad, 0.415*slow
+Topic 6:   2.434*wait, 1.667*minut, 0.807*hour, 0.477*long, 0.336*seat, 0.328*min, 0.306*took, 0.289*time, 0.287*final
+Topic 7:   2.269*sandwich, 1.167*fri, 0.531*chees, 0.491*bread, 0.404*primanti, 0.369*slaw, 0.362*meat, 0.314*coleslaw, 0.278*pittsburgh
+Topic 8:   2.388*bar, 1.600*drink, 1.384*beer, 1.256*bartend, 0.348*select, 0.318*game, 0.280*night, 0.279*friend, 0.265*sit
+Topic 9:   1.569*salad, 0.960*steak, 0.753*meal, 0.654*pasta, 0.653*dish, 0.581*chees, 0.575*cook, 0.568*bread, 0.544*sauc
+Topic 10:  1.898*taco, 0.696*mexican, 0.556*salsa, 0.526*chip, 0.313*burrito, 0.298*bean, 0.260*margarita, 0.251*tortilla, 0.219*flavor
+Topic 11:  2.026*chicken, 0.750*sushi, 0.729*rice, 0.688*thai, 0.603*tast, 0.602*roll, 0.576*sauc, 0.542*noodl, 0.457*soup
+Topic 12:  2.523*wing, 0.382*sauc, 0.178*hot, 0.147*night, 0.143*flavor, 0.140*buffalo, 0.138*dri, 0.121*fri, 0.114*boneless
+Topic 13:  2.213*veri, 1.575*good, 1.112*price, 0.489*disappoint, 0.429*small, 0.404*portion, 0.398*nice, 0.394*qualiti, 0.360*averag

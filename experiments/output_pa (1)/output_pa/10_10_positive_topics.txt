@@ -1,0 +1,10 @@
+Topic 0:   12341.418*pizza, 4485.701*good, 4099.878*tacos, 3575.689*wings, 3184.396*sauce, 2893.666*cheese, 2661.945*hot, 2539.446*just, 2513.792*like
+Topic 1:   29118.379*place, 23351.098*great, 22600.742*good, 12970.222*like, 11841.375*ve, 11337.030*service, 11325.274*really, 10712.479*just, 10247.196*time
+Topic 2:   1726.912*buffet, 1512.595*indian, 884.068*literally, 881.862*pho, 870.738*pittsburgh, 836.582*family, 785.801*restaurant, 671.126*best, 647.411*somewhat
+Topic 3:   9338.635*ordered, 7626.446*came, 6833.999*got, 6149.106*good, 5834.746*dinner, 5542.348*time, 5334.103*table, 5249.476*restaurant, 4912.809*didn
+Topic 4:   3510.914*bar, 2389.001*coffee, 1885.389*pittsburgh, 1509.367*game, 1378.307*beer, 1231.113*night, 1169.777*shop, 1087.937*local, 1087.599*old
+Topic 5:   4381.174*chicken, 4046.837*spicy, 3887.098*sushi, 3650.271*rice, 3600.850*thai, 2650.462*soup, 2459.127*good, 2308.299*roll, 2265.388*noodles
+Topic 6:   6764.498*fries, 6746.633*sandwich, 6238.864*burger, 5860.874*cheese, 3592.623*chicken, 2990.004*salad, 2650.467*meat, 2375.477*burgers, 2319.121*good
+Topic 7:   4028.338*cream, 3301.464*bread, 2881.104*sauce, 2511.282*dessert, 2481.659*chocolate, 2397.569*ice, 2393.567*dish, 2373.790*pasta, 2297.121*like
+Topic 8:   2036.359*free, 1881.901*vegan, 1832.296*tea, 1351.877*like, 1336.175*cafe, 1066.725*fresh, 1017.819*store, 993.153*options, 980.250*gluten
+Topic 9:   4565.690*breakfast, 3611.273*brunch, 2219.521*eggs, 2173.748*coffee, 1791.047*toast, 1599.145*french, 1514.539*pancakes, 1309.738*bacon, 1104.989*sunday

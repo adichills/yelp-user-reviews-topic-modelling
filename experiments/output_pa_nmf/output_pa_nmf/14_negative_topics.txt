@@ -1,0 +1,14 @@
+Topic 0:   1.136*salad, 0.878*menu, 0.850*ordered, 0.749*meal, 0.742*restaurant, 0.682*steak, 0.624*pasta, 0.612*dinner, 0.609*good
+Topic 1:   3.231*pizza, 0.436*crust, 0.406*cheese, 0.292*sauce, 0.241*pepperoni, 0.226*delivery, 0.192*toppings, 0.184*ordered, 0.169*wings
+Topic 2:   1.647*minutes, 1.146*table, 0.840*waited, 0.803*waitress, 0.766*came, 0.668*wait, 0.642*took, 0.634*seated, 0.534*server
+Topic 3:   2.003*bar, 0.846*beer, 0.727*bartender, 0.529*drinks, 0.528*drink, 0.284*bartenders, 0.261*night, 0.258*selection, 0.250*beers
+Topic 4:   2.162*sandwich, 1.457*fries, 0.815*cheese, 0.632*bread, 0.542*sandwiches, 0.469*meat, 0.445*slaw, 0.435*primanti, 0.382*coleslaw
+Topic 5:   1.917*order, 0.938*said, 0.811*called, 0.684*told, 0.585*manager, 0.548*asked, 0.509*phone, 0.484*delivery, 0.393*customer
+Topic 6:   2.271*service, 0.727*slow, 0.721*terrible, 0.617*horrible, 0.558*bad, 0.492*rude, 0.449*poor, 0.442*good, 0.324*customer
+Topic 7:   2.677*chicken, 0.471*sauce, 0.454*fried, 0.444*wings, 0.338*rice, 0.316*dry, 0.309*ordered, 0.285*buffalo, 0.224*tasted
+Topic 8:   2.545*burger, 0.671*burgers, 0.608*fries, 0.364*medium, 0.240*cooked, 0.238*ordered, 0.213*bacon, 0.200*rare, 0.197*bun
+Topic 9:   2.165*thai, 0.910*pad, 0.789*noodles, 0.466*curry, 0.438*soup, 0.362*rice, 0.341*chinese, 0.291*bland, 0.269*flavor
+Topic 10:  2.403*sushi, 0.559*roll, 0.502*fish, 0.399*rolls, 0.356*rice, 0.291*buffet, 0.250*quality, 0.235*tuna, 0.210*hibachi
+Topic 11:  2.180*place, 1.392*like, 1.377*just, 1.135*really, 1.044*don, 0.722*good, 0.569*people, 0.555*want, 0.523*know
+Topic 12:  2.001*time, 1.034*ve, 0.819*times, 0.495*location, 0.465*wait, 0.453*restaurant, 0.404*staff, 0.390*long, 0.339*lunch
+Topic 13:  1.043*tacos, 0.887*mexican, 0.677*taco, 0.637*salsa, 0.633*chips, 0.375*burrito, 0.352*beans, 0.337*rice, 0.293*good

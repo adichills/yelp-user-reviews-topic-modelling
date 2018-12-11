@@ -1,0 +1,10 @@
+Topic 0:   1.181*time, 1.177*order, 1.157*like, 1.135*just, 1.028*did, 0.830*wait, 0.803*tabl, 0.775*becaus, 0.755*onli
+Topic 1:   4.275*pizza, 0.747*crust, 0.328*pepperoni, 0.320*sauc, 0.276*chees, 0.248*best, 0.243*order, 0.232*slice, 0.217*pie
+Topic 2:   3.777*great, 1.292*servic, 0.545*atmospher, 0.427*price, 0.356*excel, 0.350*place, 0.324*awesom, 0.277*recommend, 0.263*amaz
+Topic 3:   2.308*beer, 1.984*bar, 1.037*select, 0.954*drink, 0.789*happi, 0.781*hour, 0.604*taco, 0.533*night, 0.526*game
+Topic 4:   3.387*veri, 1.163*friendli, 1.000*staff, 0.895*nice, 0.552*restaur, 0.551*excel, 0.495*clean, 0.409*attent, 0.409*definit
+Topic 5:   4.280*burger, 1.473*fri, 0.398*onion, 0.315*ring, 0.284*bacon, 0.265*bun, 0.245*chees, 0.226*shake, 0.213*cook
+Topic 6:   4.089*good, 1.181*realli, 0.689*place, 0.665*price, 0.649*pretti, 0.585*servic, 0.396*like, 0.358*nice, 0.282*littl
+Topic 7:   3.129*sushi, 1.576*roll, 0.381*hibachi, 0.280*fresh, 0.273*tuna, 0.246*thai, 0.241*fish, 0.240*spici, 0.224*chines
+Topic 8:   1.926*chicken, 1.249*sandwich, 1.230*sauc, 1.056*salad, 0.971*fri, 0.868*chees, 0.855*soup, 0.805*flavor, 0.776*delici
+Topic 9:   1.920*alway, 1.736*love, 1.573*place, 1.302*best, 1.154*ve, 0.785*favorit, 0.659*cleveland, 0.634*amaz, 0.630*time

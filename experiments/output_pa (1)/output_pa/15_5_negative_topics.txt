@@ -1,0 +1,15 @@
+Topic 0:   2108.771*chicken, 1612.740*sauce, 1503.282*like, 1380.897*rice, 1359.969*ordered, 1199.712*sushi, 1125.778*soup, 1031.920*good, 978.371*shrimp
+Topic 1:   2344.788*bar, 1241.077*bartender, 466.635*game, 400.385*bartenders, 353.562*drink, 300.252*beer, 296.891*friends, 285.933*owner, 277.404*card
+Topic 2:   4557.728*came, 4527.741*table, 4344.335*service, 4175.673*minutes, 4011.458*time, 3773.761*waitress, 3331.637*server, 3293.333*restaurant, 3179.438*asked
+Topic 3:   6551.734*place, 4372.228*good, 3923.509*just, 3742.583*like, 3022.591*really, 2642.752*service, 2607.262*don, 2382.302*better, 2017.860*great
+Topic 4:   3146.164*order, 1981.703*said, 1796.208*time, 1381.734*told, 1296.348*just, 1290.180*service, 1286.886*don, 1266.956*called, 1148.368*customer
+Topic 5:   926.800*tacos, 608.615*taco, 479.930*cream, 234.279*chips, 174.725*queso, 166.115*bell, 120.207*tortillas, 115.159*chorizo, 102.396*creme
+Topic 6:   3777.733*pizza, 2273.517*burger, 1711.214*sauce, 1585.364*salad, 1572.649*ordered, 1485.482*chicken, 1396.870*cheese, 1306.981*wings, 1004.556*good
+Topic 7:   2387.733*sandwich, 2299.365*cheese, 2181.077*fries, 990.144*meat, 936.067*like, 898.280*ordered, 897.277*bread, 867.171*just, 701.867*fish
+Topic 8:   986.242*pork, 432.865*bbq, 329.431*dog, 309.027*brisket, 307.893*ribs, 253.361*pho, 249.615*pulled, 240.178*duck, 146.615*fat
+Topic 9:   254.726*square, 111.326*sold, 32.275*brownie, 31.313*yo, 28.420*jambalaya, 28.372*muffins, 27.460*stickers, 26.483*szechuan, 25.499*chilled
+Topic 10:  735.737*buffet, 709.819*mexican, 593.201*salsa, 443.943*burrito, 341.150*chips, 335.593*indian, 250.147*vegan, 237.648*guacamole, 234.815*chipotle
+Topic 11:  887.177*wait, 844.357*people, 735.252*breakfast, 699.650*tables, 691.927*minutes, 690.659*coffee, 604.277*line, 594.443*table, 549.461*waiting
+Topic 12:  591.336*restaurant, 581.490*staff, 520.109*dirty, 454.648*place, 372.177*location, 368.113*years, 361.721*free, 348.548*treated, 342.828*people
+Topic 13:  1327.617*menu, 995.074*good, 881.562*dish, 776.865*potatoes, 689.908*bread, 662.867*salad, 648.144*ordered, 643.523*cooked, 603.108*meal
+Topic 14:  746.376*tea, 526.849*ice, 231.419*parking, 179.188*iced, 128.385*sugar, 128.226*bubble, 125.828*mt, 123.824*grill, 109.001*juice

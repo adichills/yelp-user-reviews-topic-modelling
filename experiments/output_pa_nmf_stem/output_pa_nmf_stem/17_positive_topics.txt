@@ -1,0 +1,17 @@
+Topic 0:   1.522*order, 1.093*did, 0.930*meal, 0.891*tabl, 0.847*came, 0.829*just, 0.821*got, 0.819*menu, 0.814*sauc
+Topic 1:   4.136*pizza, 0.688*crust, 0.398*slice, 0.385*chees, 0.321*pepperoni, 0.305*order, 0.295*deliveri, 0.285*hoagi, 0.279*pie
+Topic 2:   2.446*beer, 1.911*bar, 1.146*drink, 1.019*select, 0.522*bartend, 0.481*hour, 0.478*night, 0.445*happi, 0.430*tap
+Topic 3:   3.287*sandwich, 0.757*fri, 0.714*lunch, 0.543*salad, 0.540*chicken, 0.489*bread, 0.476*chees, 0.452*fish, 0.371*primanti
+Topic 4:   3.501*taco, 0.623*salsa, 0.545*mexican, 0.418*chip, 0.372*margarita, 0.334*tortilla, 0.303*fish, 0.297*guacamol, 0.243*queso
+Topic 5:   2.600*best, 1.934*pittsburgh, 1.707*ve, 1.226*restaur, 0.590*indian, 0.488*amaz, 0.423*chines, 0.420*far, 0.387*favorit
+Topic 6:   2.976*thai, 1.427*noodl, 1.331*curri, 1.191*chicken, 1.177*pad, 1.097*spici, 0.855*dish, 0.767*rice, 0.707*soup
+Topic 7:   3.538*veri, 1.083*friendli, 1.025*nice, 0.871*staff, 0.552*excel, 0.493*price, 0.478*recommend, 0.421*reason, 0.409*clean
+Topic 8:   3.829*great, 1.134*servic, 0.614*atmospher, 0.352*recommend, 0.350*excel, 0.345*price, 0.246*highli, 0.242*staff, 0.240*fantast
+Topic 9:   3.873*burger, 0.862*fri, 0.363*shake, 0.330*burgatori, 0.304*bacon, 0.293*milkshak, 0.285*chees, 0.285*bun, 0.259*onion
+Topic 10:  2.734*sushi, 1.504*roll, 0.455*fish, 0.410*fresh, 0.342*tuna, 0.260*chines, 0.246*sashimi, 0.227*hibachi, 0.214*lunch
+Topic 11:  3.112*coffe, 1.406*tea, 1.061*shop, 0.619*ice, 0.377*cup, 0.355*latt, 0.354*cream, 0.320*work, 0.299*pastri
+Topic 12:  2.663*alway, 1.164*time, 0.615*ve, 0.431*favorit, 0.408*friendli, 0.388*staff, 0.383*ha, 0.372*everi, 0.367*come
+Topic 13:  4.013*good, 1.534*realli, 0.770*pretti, 0.501*price, 0.472*servic, 0.346*like, 0.276*nice, 0.232*littl, 0.228*got
+Topic 14:  2.961*place, 1.697*love, 0.589*like, 0.501*tri, 0.421*awesom, 0.420*eat, 0.372*just, 0.347*amaz, 0.326*peopl
+Topic 15:  3.896*wing, 0.824*sauc, 0.632*chicken, 0.563*hot, 0.528*fri, 0.469*bbq, 0.439*buffalo, 0.370*flavor, 0.312*order
+Topic 16:  2.624*breakfast, 1.193*egg, 1.117*brunch, 1.087*pancak, 0.772*toast, 0.740*diner, 0.601*wait, 0.537*bacon, 0.481*french

@@ -1,0 +1,17 @@
+Topic 0:   2.829*table, 2.438*came, 2.389*server, 1.674*waitress, 1.193*drinks, 1.148*asked, 1.063*took, 1.022*waiter, 0.993*ordered
+Topic 1:   2.511*good, 1.869*just, 1.810*like, 1.677*really, 0.796*pretty, 0.780*better, 0.777*great, 0.731*wasn, 0.722*bad
+Topic 2:   4.864*pizza, 0.696*crust, 0.533*wings, 0.455*cheese, 0.343*pizzas, 0.319*ordered, 0.317*delivery, 0.304*toppings, 0.298*sauce
+Topic 3:   4.501*chicken, 1.100*rice, 0.919*fried, 0.819*sauce, 0.714*ordered, 0.489*dry, 0.406*chinese, 0.399*soup, 0.389*orange
+Topic 4:   4.253*order, 0.719*wrong, 0.534*delivery, 0.474*got, 0.410*took, 0.399*orders, 0.390*placed, 0.381*pick, 0.378*called
+Topic 5:   4.425*service, 1.570*horrible, 1.220*customer, 1.157*slow, 1.152*terrible, 1.000*bad, 0.804*poor, 0.650*worst, 0.593*good
+Topic 6:   3.750*burger, 2.273*fries, 0.984*burgers, 0.475*cheese, 0.444*bun, 0.383*cold, 0.381*ordered, 0.353*medium, 0.324*onion
+Topic 7:   4.152*minutes, 1.964*waited, 1.773*wait, 1.238*waiting, 0.774*hour, 0.726*seated, 0.541*told, 0.533*finally, 0.533*took
+Topic 8:   4.360*sushi, 1.264*roll, 1.097*rolls, 0.809*fish, 0.443*tuna, 0.385*rice, 0.356*hour, 0.353*fresh, 0.343*happy
+Topic 9:   2.143*tacos, 1.876*salsa, 1.819*taco, 1.676*mexican, 1.622*chips, 1.393*burrito, 1.255*beans, 0.893*fish, 0.869*rice
+Topic 10:  4.014*bar, 1.396*beer, 1.337*bartender, 0.891*drink, 0.868*drinks, 0.840*happy, 0.790*hour, 0.543*night, 0.511*sat
+Topic 11:  4.149*salad, 0.812*dressing, 0.652*lettuce, 0.529*lunch, 0.498*ordered, 0.447*soup, 0.348*salads, 0.343*small, 0.310*steak
+Topic 12:  2.261*said, 1.985*manager, 1.550*told, 1.313*asked, 0.918*rude, 0.809*customer, 0.804*called, 0.732*didn, 0.728*owner
+Topic 13:  3.163*breakfast, 2.312*coffee, 1.789*eggs, 1.198*cold, 1.042*bacon, 0.846*toast, 0.765*egg, 0.673*potatoes, 0.646*pancakes
+Topic 14:  3.033*time, 1.541*location, 1.302*ve, 1.180*times, 0.553*long, 0.541*don, 0.451*second, 0.372*waste, 0.364*wait
+Topic 15:  4.341*place, 0.525*dirty, 0.484*people, 0.454*don, 0.418*like, 0.351*recommend, 0.327*try, 0.295*eat, 0.268*want
+Topic 16:  3.801*sandwich, 1.088*bread, 0.995*cheese, 0.698*meat, 0.685*sandwiches, 0.440*turkey, 0.403*ordered, 0.353*bbq, 0.316*lunch

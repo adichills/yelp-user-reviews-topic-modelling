@@ -1,0 +1,10 @@
+Topic 0:   1.776*order, 1.487*did, 1.382*like, 1.360*just, 1.245*tabl, 1.225*steak, 1.142*time, 1.102*menu, 1.091*got
+Topic 1:   6.000*pizza, 0.874*crust, 0.714*slice, 0.500*chees, 0.468*pepperoni, 0.390*order, 0.326*garlic, 0.315*pie, 0.315*sauc
+Topic 2:   5.958*great, 2.449*servic, 0.810*atmospher, 0.740*excel, 0.739*amaz, 0.735*awesom, 0.655*price, 0.620*recommend, 0.531*custom
+Topic 3:   5.998*burger, 2.037*fri, 0.787*shake, 0.624*chees, 0.491*onion, 0.456*bun, 0.421*bacon, 0.367*patti, 0.364*order
+Topic 4:   3.081*chicken, 1.718*fri, 1.644*rice, 1.585*thai, 1.320*noodl, 1.237*sauc, 1.203*spici, 1.170*soup, 1.163*order
+Topic 5:   5.586*sushi, 3.180*roll, 1.190*ayc, 0.986*fish, 0.803*fresh, 0.672*tuna, 0.623*chef, 0.602*nigiri, 0.591*sashimi
+Topic 6:   3.564*place, 2.711*love, 2.309*alway, 1.686*vega, 1.640*best, 1.528*time, 1.295*ve, 1.258*come, 1.247*amaz
+Topic 7:   5.249*buffet, 1.044*crab, 0.843*leg, 0.819*dessert, 0.794*vega, 0.746*line, 0.733*station, 0.726*select, 0.694*seafood
+Topic 8:   3.552*good, 3.551*veri, 1.259*nice, 1.136*realli, 0.935*friendli, 0.895*price, 0.737*place, 0.674*servic, 0.660*staff
+Topic 9:   4.863*taco, 1.038*salsa, 0.994*asada, 0.972*mexican, 0.853*carn, 0.830*burrito, 0.584*chip, 0.564*pastor, 0.477*fish

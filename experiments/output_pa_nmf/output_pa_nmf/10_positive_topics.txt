@@ -1,0 +1,10 @@
+Topic 0:   0.977*ordered, 0.878*restaurant, 0.839*menu, 0.839*came, 0.834*dinner, 0.805*got, 0.770*table, 0.741*meal, 0.726*time
+Topic 1:   3.958*pizza, 0.695*crust, 0.376*cheese, 0.341*sauce, 0.324*pepperoni, 0.319*delivery, 0.315*toppings, 0.302*pizzas, 0.274*best
+Topic 2:   3.060*great, 1.088*service, 0.660*atmosphere, 0.656*friendly, 0.596*staff, 0.504*place, 0.496*excellent, 0.394*recommend, 0.378*bar
+Topic 3:   2.648*thai, 1.053*pad, 1.006*curry, 0.757*spicy, 0.680*noodles, 0.525*rice, 0.474*spice, 0.430*chicken, 0.393*soup
+Topic 4:   1.335*place, 1.101*ve, 1.010*love, 0.937*best, 0.887*pittsburgh, 0.854*breakfast, 0.735*coffee, 0.578*like, 0.523*don
+Topic 5:   3.491*good, 1.420*really, 0.839*nice, 0.774*pretty, 0.590*beer, 0.552*place, 0.519*bar, 0.415*service, 0.375*selection
+Topic 6:   2.098*chicken, 1.792*sandwich, 0.980*lunch, 0.934*salad, 0.933*cheese, 0.792*fries, 0.639*sauce, 0.600*sandwiches, 0.518*fried
+Topic 7:   3.206*burger, 1.066*fries, 1.000*burgers, 0.383*beer, 0.366*bacon, 0.335*burgatory, 0.323*cheese, 0.259*bun, 0.258*bar
+Topic 8:   2.975*sushi, 0.861*roll, 0.667*rolls, 0.510*fish, 0.420*chinese, 0.416*fresh, 0.348*tuna, 0.269*sashimi, 0.247*hibachi
+Topic 9:   2.359*tacos, 1.385*taco, 0.722*mexican, 0.638*salsa, 0.527*chips, 0.362*fish, 0.338*guacamole, 0.268*queso, 0.256*chorizo

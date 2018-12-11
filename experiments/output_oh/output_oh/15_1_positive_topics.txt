@@ -1,0 +1,15 @@
+Topic 0:   3279.671*coffee, 1890.984*cleveland, 1482.914*shop, 1409.949*hummus, 1358.690*best, 1191.758*pita, 1082.512*wrap, 958.750*ve, 950.939*fresh
+Topic 1:   20472.470*place, 16418.480*good, 14668.137*great, 10102.071*ve, 9794.135*service, 8954.196*time, 8239.444*love, 6965.960*friendly, 6060.252*really
+Topic 2:   2963.547*brunch, 1896.670*sunday, 1745.181*cleveland, 1723.200*eggs, 1657.805*breakfast, 1445.608*toast, 1075.420*bacon, 925.339*sausage, 921.810*morning
+Topic 3:   15510.685*great, 8333.824*place, 8226.359*bar, 7535.744*menu, 7304.254*good, 6248.829*service, 5920.864*beer, 5636.700*happy, 5269.250*night
+Topic 4:   2810.857*cream, 2741.806*dessert, 2326.373*amazing, 2278.797*delicious, 2111.177*chocolate, 2091.706*ve, 2060.916*italian, 2027.754*ice, 2008.631*best
+Topic 5:   2561.588*chinese, 2061.881*dishes, 1924.580*indian, 1909.432*rice, 1743.234*buffet, 1703.701*spicy, 1395.868*asian, 1206.376*authentic, 1048.410*korean
+Topic 6:   3467.791*inside, 2995.816*outside, 2507.998*bread, 2250.951*little, 1913.651*like, 1865.002*bit, 1761.704*old, 1686.418*room, 1624.856*restaurant
+Topic 7:   3167.089*tacos, 2402.002*chips, 1927.019*taco, 1859.769*salsa, 1718.969*mexican, 1209.330*beans, 1156.709*corn, 1013.075*guacamole, 997.401*blue
+Topic 8:   7083.192*just, 5802.919*got, 4708.992*like, 4471.649*didn, 3789.182*came, 3352.790*did, 3326.725*wasn, 3179.170*bit, 3147.421*table
+Topic 9:   4763.399*sushi, 2579.222*roll, 1383.940*rolls, 1113.669*burrito, 1104.968*chipotle, 833.281*hibachi, 818.705*tuna, 816.441*fish, 570.213*japanese
+Topic 10:  2944.786*thai, 2606.318*like, 1942.093*ve, 1609.355*pretty, 1577.115*music, 1477.633*don, 1371.564*bar, 1365.826*good, 1354.581*live
+Topic 11:  6863.849*burger, 6680.674*fries, 3749.501*sandwich, 3425.911*place, 3187.971*burgers, 3175.870*good, 2966.312*breakfast, 2671.387*great, 2267.728*beef
+Topic 12:  677.137*event, 565.833*scene, 565.669*games, 525.812*satisfying, 461.626*lady, 453.017*german, 409.663*band, 399.027*smell, 387.308*life
+Topic 13:  12127.010*pizza, 4292.675*cheese, 4020.548*sauce, 2877.681*good, 2657.014*bbq, 2649.345*wings, 2622.788*like, 2426.571*crust, 2003.332*just
+Topic 14:  10627.389*chicken, 9577.470*good, 8187.960*ordered, 6756.282*sauce, 6464.009*salad, 5612.189*delicious, 4537.703*fried, 4137.613*got, 4034.961*meal

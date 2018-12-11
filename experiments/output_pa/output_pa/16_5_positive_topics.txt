@@ -1,0 +1,16 @@
+Topic 0:   6351.711*chicken, 4442.034*good, 4375.613*cheese, 4188.443*sauce, 4157.186*tacos, 2947.307*pork, 2556.019*meat, 2511.974*taco, 2451.148*chips
+Topic 1:   23447.049*place, 22759.666*good, 16612.071*great, 13973.882*really, 12112.357*like, 10667.591*service, 9675.813*ve, 8924.157*menu, 8624.492*time
+Topic 2:   7674.827*bar, 6639.071*beer, 6027.037*great, 3828.101*selection, 2443.408*drinks, 2388.552*beers, 2089.770*drink, 1735.448*place, 1480.893*good
+Topic 3:   6074.249*ordered, 5974.318*got, 5686.720*came, 5386.405*time, 5051.196*night, 4671.853*table, 4351.177*didn, 4091.802*did, 3878.463*went
+Topic 4:   4780.298*sandwich, 4728.178*coffee, 2078.934*sandwiches, 2030.735*shop, 1693.018*tea, 1149.189*cafe, 1123.954*grill, 1068.626*market, 1014.529*bread
+Topic 5:   3865.093*sushi, 3090.243*fish, 2178.585*roll, 1315.724*tuna, 1288.868*highly, 1194.701*rolls, 841.927*recommend, 810.108*fresh, 771.352*pot
+Topic 6:   2336.813*space, 682.909*original, 637.344*imagine, 634.644*com, 494.938*http, 441.146*gaucho, 439.956*owned, 385.034*learned, 333.988*bloomfield
+Topic 7:   6403.763*burger, 4199.317*cream, 3145.183*chocolate, 2691.943*bacon, 2599.638*sweet, 2487.091*ice, 2115.377*fries, 1723.255*cheese, 1716.114*burgers
+Topic 8:   2526.618*free, 1732.798*vegan, 1070.807*standard, 987.907*gluten, 868.702*case, 865.168*kay, 792.297*east, 783.680*hill, 698.913*forward
+Topic 9:   2619.028*brunch, 800.202*airport, 617.773*bloody, 617.663*ground, 588.195*art, 550.379*mary, 445.653*benedict, 412.227*hash, 411.273*sunday
+Topic 10:  12373.484*pizza, 2349.607*cheese, 2195.407*crust, 2128.224*good, 2010.609*sauce, 1852.785*best, 1741.353*wings, 1589.779*italian, 1415.199*pie
+Topic 11:  2725.325*steak, 1740.727*seafood, 1459.677*lamb, 1352.550*lobster, 1272.751*pork, 1236.998*dessert, 1163.539*shrimp, 887.932*pho, 879.370*pittsburgh
+Topic 12:  3774.063*chicken, 3590.241*thai, 2960.175*rice, 2903.111*spicy, 2429.431*soup, 2282.602*noodles, 2217.991*chinese, 2123.342*curry, 1882.138*dishes
+Topic 13:  4594.524*just, 4536.347*place, 4458.478*like, 4385.263*don, 4120.457*pittsburgh, 3415.375*ve, 3254.374*best, 3242.056*know, 2962.560*breakfast
+Topic 14:  6854.138*salad, 5133.699*delicious, 4597.544*restaurant, 4038.325*ordered, 4018.161*meal, 3896.130*dish, 3783.406*dinner, 3741.982*bread, 3583.757*sauce
+Topic 15:  1189.659*music, 882.086*party, 847.202*cool, 603.765*old, 594.173*walls, 564.871*playing, 522.463*thursday, 514.132*dark, 506.760*walked

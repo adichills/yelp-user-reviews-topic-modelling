@@ -1,0 +1,5 @@
+Topic 0:   3.165*good, 1.232*bar, 1.203*really, 1.072*burger, 1.071*beer, 0.874*nice, 0.751*pretty, 0.694*place, 0.688*fries
+Topic 1:   4.082*pizza, 0.759*crust, 0.392*pizzas, 0.349*sauce, 0.331*pepperoni, 0.305*toppings, 0.297*best, 0.278*cheese, 0.216*delivery
+Topic 2:   3.360*great, 1.419*service, 0.693*atmosphere, 0.666*friendly, 0.560*staff, 0.526*excellent, 0.504*place, 0.403*awesome, 0.385*recommend
+Topic 3:   1.348*place, 1.243*best, 1.209*ve, 1.088*love, 0.844*cleveland, 0.750*sushi, 0.574*favorite, 0.536*restaurant, 0.474*friendly
+Topic 4:   1.255*chicken, 1.027*ordered, 0.859*got, 0.853*delicious, 0.816*sauce, 0.760*salad, 0.733*cheese, 0.670*came, 0.636*just

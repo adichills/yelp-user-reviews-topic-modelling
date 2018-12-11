@@ -1,0 +1,8 @@
+Topic 0:   30575.758*ordered, 28395.228*good, 23055.979*came, 21658.692*breakfast, 20055.838*burger, 19343.829*got, 18507.816*fries, 16323.887*menu, 15837.055*delicious
+Topic 1:   56675.052*great, 50471.657*place, 42156.373*good, 34253.393*service, 22064.266*love, 21643.434*friendly, 21593.282*tacos, 20555.053*best, 16767.254*amazing
+Topic 2:   51116.187*like, 42191.778*just, 37592.933*place, 33460.262*don, 33144.104*time, 30935.416*good, 27043.084*ve, 26075.280*know, 25650.972*people
+Topic 3:   11693.522*chocolate, 11574.307*cream, 10916.258*ice, 8608.046*cake, 7469.490*believe, 7440.226*dessert, 7009.266*light, 6218.405*course, 6107.427*tempe
+Topic 4:   40648.155*chicken, 38799.851*sauce, 27076.519*like, 25267.224*meat, 23371.318*cheese, 22178.235*sandwich, 19514.561*good, 16423.517*just, 15843.899*salad
+Topic 5:   55898.418*pizza, 49574.456*place, 48222.881*great, 44248.285*good, 32466.944*service, 28761.656*time, 23267.536*really, 22644.046*got, 22012.573*salad
+Topic 6:   39722.412*great, 35079.343*place, 23928.722*beer, 23431.571*bar, 22474.881*coffee, 20015.594*happy, 18418.016*love, 17955.325*hour, 15055.384*nice
+Topic 7:   25636.626*good, 23116.282*sushi, 22426.805*place, 15675.265*chicken, 14674.448*rice, 14010.663*thai, 13639.532*roll, 13415.875*soup, 13263.990*great

@@ -1,0 +1,5 @@
+Topic 0:   1.203*order, 0.914*like, 0.852*chicken, 0.802*tri, 0.789*good, 0.784*just, 0.774*veri, 0.754*dish, 0.751*restaur
+Topic 1:   4.100*pizza, 0.685*crust, 0.422*chees, 0.395*slice, 0.356*order, 0.343*sauc, 0.334*best, 0.329*deliveri, 0.323*pepperoni
+Topic 2:   2.042*great, 1.217*place, 1.006*servic, 0.869*good, 0.813*veri, 0.809*friendli, 0.735*bar, 0.733*alway, 0.704*staff
+Topic 3:   2.743*burger, 0.883*fri, 0.540*beer, 0.463*sandwich, 0.407*chees, 0.365*wing, 0.302*good, 0.291*bacon, 0.286*bar
+Topic 4:   3.280*taco, 0.587*salsa, 0.540*mexican, 0.398*chip, 0.360*margarita, 0.313*tortilla, 0.294*fish, 0.282*guacamol, 0.231*queso

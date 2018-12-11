@@ -1,0 +1,9 @@
+Topic 0:   1.579*tabl, 1.244*ask, 1.167*server, 1.003*did, 0.871*came, 0.863*waitress, 0.771*said, 0.694*manag, 0.578*restaur
+Topic 1:   1.249*chicken, 0.849*tast, 0.830*veri, 0.773*sauc, 0.726*good, 0.599*salad, 0.577*flavor, 0.559*like, 0.552*fri
+Topic 2:   3.448*pizza, 0.427*crust, 0.267*chees, 0.236*sauc, 0.206*pepperoni, 0.203*deliveri, 0.189*hut, 0.171*dough, 0.164*slice
+Topic 3:   2.913*order, 0.683*time, 0.395*wrong, 0.339*got, 0.337*said, 0.327*deliveri, 0.320*pick, 0.313*told, 0.301*phone
+Topic 4:   2.923*burger, 0.947*fri, 0.293*medium, 0.282*bun, 0.255*onion, 0.254*chees, 0.242*cook, 0.214*patti, 0.171*bacon
+Topic 5:   1.506*place, 0.829*just, 0.777*like, 0.694*time, 0.602*ha, 0.599*realli, 0.596*ve, 0.474*becaus, 0.468*tri
+Topic 6:   2.240*servic, 0.900*veri, 0.837*slow, 0.770*terribl, 0.620*horribl, 0.616*custom, 0.522*rude, 0.517*poor, 0.502*good
+Topic 7:   2.289*wait, 1.871*minut, 0.636*hour, 0.499*seat, 0.330*long, 0.311*anoth, 0.295*time, 0.278*tabl, 0.277*min
+Topic 8:   2.153*bar, 1.255*drink, 1.247*beer, 1.081*bartend, 0.366*night, 0.301*sat, 0.297*friend, 0.270*great, 0.257*sit

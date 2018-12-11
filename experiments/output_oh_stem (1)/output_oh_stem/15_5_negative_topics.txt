@@ -1,0 +1,15 @@
+Topic 0:   3489.470*bar, 2753.887*beer, 1347.727*drink, 1013.001*bartend, 919.705*place, 833.566*wine, 709.855*look, 699.527*select, 691.378*game
+Topic 1:   2416.025*sandwich, 1062.755*chicken, 1059.404*soup, 824.498*beef, 792.648*chines, 725.104*bowl, 511.520*lunch, 436.892*corn, 431.254*noodl
+Topic 2:   1851.352*taco, 1009.848*chip, 925.065*like, 763.176*chees, 761.120*mexican, 736.612*tast, 695.722*salsa, 642.548*burrito, 605.198*bean
+Topic 3:   2263.979*steak, 924.568*medium, 625.469*cook, 578.034*rare, 374.548*room, 355.829*hotel, 354.166*cut, 314.102*hair, 207.147*wash
+Topic 4:   1346.227*egg, 1276.589*coffe, 1229.757*breakfast, 677.922*bacon, 621.793*toast, 614.111*brunch, 545.598*dirti, 472.254*place, 437.046*pancak
+Topic 5:   761.009*music, 569.898*loud, 278.496*club, 225.248*play, 160.655*danc, 147.003*fun, 136.325*live, 135.107*panini, 127.963*view
+Topic 6:   7678.550*order, 7531.458*tabl, 7112.664*wait, 6805.203*minut, 5467.326*ask, 5070.722*did, 4607.908*drink, 4587.550*came, 4525.396*server
+Topic 7:   4506.525*veri, 3819.879*good, 3189.669*chicken, 3031.021*tast, 2691.622*dish, 2620.196*order, 2485.849*like, 2190.112*meal, 2106.430*sauc
+Topic 8:   6268.343*time, 5661.574*place, 5085.291*order, 4569.488*servic, 3482.114*just, 3318.095*custom, 3137.933*becaus, 3072.443*manag, 2882.323*like
+Topic 9:   4828.785*pizza, 3256.828*burger, 2861.736*order, 1852.933*chees, 1174.827*good, 1094.868*place, 1086.036*sauc, 989.494*fri, 916.783*just
+Topic 10:  2942.624*place, 2680.848*restaur, 1891.333*price, 1871.109*good, 1687.223*better, 1656.379*menu, 1507.531*like, 1427.670*just, 1403.879*realli
+Topic 11:  1435.791*sushi, 931.638*roll, 784.786*buffet, 556.371*park, 438.030*tuna, 268.625*book, 222.968*fish, 209.359*chef, 202.657*giant
+Topic 12:  1097.626*card, 707.771*thai, 615.378*credit, 423.877*pho, 374.753*gift, 370.665*pad, 332.696*noodl, 323.894*asian, 199.931*cash
+Topic 13:  3248.590*like, 2417.012*just, 2236.621*place, 1666.390*wing, 1637.558*fri, 1379.887*good, 1215.469*order, 1179.567*did, 1164.360*want
+Topic 14:  3950.956*salad, 573.639*lettuc, 255.431*lunch, 196.638*pita, 177.174*caesar, 146.668*bowl, 144.418*jack, 139.309*lasagna, 138.982*falafel

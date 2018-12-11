@@ -1,0 +1,16 @@
+Topic 0:   9728.252*burger, 3962.373*fri, 2876.567*thai, 2639.277*game, 1285.417*cafe, 1160.312*bun, 1012.103*pad, 891.370*ring, 889.314*tofu
+Topic 1:   2394.220*tea, 1906.408*ice, 1854.553*coffe, 1497.703*cream, 1375.657*wrap, 1262.298*fish, 1235.687*hummu, 1034.511*pita, 953.938*flavor
+Topic 2:   21844.040*great, 15009.229*veri, 13398.102*place, 12000.034*servic, 11809.055*good, 8401.340*friendli, 8192.891*love, 7136.677*alway, 6666.189*delici
+Topic 3:   4225.198*park, 2551.928*dog, 2536.267*street, 2263.625*free, 1428.202*treat, 1151.457*lot, 992.582*belli, 952.591*gluten, 821.209*car
+Topic 4:   4706.522*chicken, 4563.059*roll, 4438.146*sushi, 4414.538*dish, 4177.592*rice, 3776.069*good, 3177.811*spici, 3091.622*restaur, 3013.517*soup
+Topic 5:   4452.095*pork, 3283.118*sauc, 3244.561*flavor, 3083.223*meat, 2561.604*bbq, 2393.206*rib, 2359.781*fri, 2256.920*tender, 1988.243*bean
+Topic 6:   6455.134*bar, 4716.168*drink, 4700.717*menu, 3959.945*hour, 3933.971*happi, 3822.380*night, 3079.132*wine, 2858.691*patio, 2248.213*cocktail
+Topic 7:   857.480*pierogi, 621.509*polish, 553.992*oyster, 466.126*win, 337.333*station, 328.533*soul, 290.832*student, 285.142*com, 284.016*univers
+Topic 8:   13355.385*pizza, 10610.695*beer, 5964.996*great, 5704.324*place, 5089.084*bar, 4486.092*good, 2745.678*select, 2579.903*ve, 2570.299*best
+Topic 9:   8768.237*chees, 8154.981*sauc, 5270.529*chicken, 4892.178*order, 4763.901*fri, 4392.598*like, 4365.546*just, 3949.299*bread, 3448.745*hot
+Topic 10:  3331.844*dessert, 2247.548*steak, 2217.687*cake, 2144.868*chocol, 1703.373*cream, 1688.391*sweet, 1624.070*perfect, 1502.242*potato, 1453.944*flavor
+Topic 11:  7038.337*sandwich, 4773.636*breakfast, 3110.985*egg, 2871.368*lunch, 2739.327*brunch, 2684.274*good, 2436.386*beef, 2365.497*coffe, 2180.749*soup
+Topic 12:  3005.085*italian, 2550.352*pasta, 1625.377*wine, 1231.959*dish, 1056.299*salad, 1005.742*meatbal, 757.808*itali, 605.615*restaur, 574.377*veal
+Topic 13:  11135.205*place, 6931.564*like, 4291.037*ha, 4157.038*good, 4013.588*make, 4013.364*price, 3760.008*cleveland, 3749.665*just, 3675.366*restaur
+Topic 14:  5143.432*taco, 2237.397*chip, 2233.799*mexican, 2076.295*salsa, 1915.242*margarita, 1413.450*burrito, 1131.505*chipotl, 1077.063*guacamol, 806.346*tortilla
+Topic 15:  15585.755*order, 13613.697*time, 12592.016*veri, 12406.914*good, 10973.676*did, 8997.581*realli, 8379.618*got, 8315.320*just, 8099.195*place

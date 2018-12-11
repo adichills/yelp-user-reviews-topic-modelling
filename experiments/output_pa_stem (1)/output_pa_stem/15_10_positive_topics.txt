@@ -1,0 +1,15 @@
+Topic 0:   10210.183*great, 8518.869*bar, 7609.519*place, 6945.164*drink, 5095.670*veri, 4822.359*nice, 4768.087*good, 3295.019*friendli, 3186.777*atmospher
+Topic 1:   6515.038*taco, 3241.744*chip, 1902.611*mexican, 1783.455*salsa, 1401.184*burrito, 1200.219*margarita, 984.386*tortilla, 711.348*guacamol, 704.774*chorizo
+Topic 2:   13407.441*pizza, 9899.225*place, 7371.853*ve, 6238.223*like, 6144.570*best, 6004.423*pittsburgh, 4915.258*just, 4814.423*ha, 4781.601*alway
+Topic 3:   2908.187*park, 2510.805*tabl, 1990.182*diner, 1972.488*locat, 1832.911*restaur, 1757.614*order, 1698.711*open, 1607.317*onli, 1543.045*street
+Topic 4:   4711.022*coffe, 4676.689*breakfast, 3682.069*brunch, 3105.870*egg, 2005.510*pancak, 1995.039*vegan, 1811.029*delici, 1751.099*love, 1732.395*toast
+Topic 5:   8891.512*beer, 4157.243*wing, 2951.028*bar, 2638.529*select, 1944.997*game, 1356.013*great, 1261.676*good, 1232.073*tap, 1004.873*night
+Topic 6:   10398.047*sandwich, 4565.089*fri, 4411.698*chees, 3698.221*chicken, 3048.914*meat, 2046.756*sauc, 1972.173*bbq, 1967.568*mac, 1799.358*grill
+Topic 7:   4583.432*roll, 3893.970*sushi, 2954.484*noodl, 2513.801*dish, 2181.246*chines, 2177.388*soup, 2168.969*rice, 2018.682*pork, 1968.012*tea
+Topic 8:   19110.654*order, 13980.145*good, 13487.177*like, 12783.799*time, 12314.119*did, 12000.614*just, 11083.045*realli, 11052.684*tri, 10943.848*place
+Topic 9:   1351.591*man, 1259.537*pierogi, 952.740*fish, 885.117*airport, 626.196*strip, 594.822*com, 588.010*watch, 587.714*dollar, 534.922*hi
+Topic 10:  8543.513*burger, 2855.278*fri, 1055.616*bacon, 994.833*squar, 923.474*onion, 913.014*bun, 808.210*box, 780.565*notch, 655.545*shake
+Topic 11:  4967.339*restaur, 3957.212*dessert, 3621.917*wine, 3372.451*dish, 3160.614*dinner, 2794.656*meal, 2539.211*menu, 2473.151*delici, 2432.696*servic
+Topic 12:  5219.086*chees, 4791.098*sauc, 4249.330*salad, 4200.125*bread, 3789.085*flavor, 3597.900*potato, 3233.953*sweet, 2333.207*tomato, 2087.289*perfect
+Topic 13:  11107.670*veri, 10558.113*good, 10338.726*great, 7198.912*servic, 7100.146*place, 5752.196*order, 5179.097*chicken, 4845.624*delici, 4730.135*friendli
+Topic 14:  2729.055*chicken, 2725.168*hot, 2011.282*spici, 1898.119*buffet, 1880.561*dog, 1740.225*dish, 1659.683*spice, 1520.044*indian, 1264.930*curri

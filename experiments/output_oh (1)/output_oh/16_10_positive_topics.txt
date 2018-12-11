@@ -1,0 +1,16 @@
+Topic 0:   9899.456*place, 9410.761*ve, 7278.366*best, 6800.946*like, 6075.231*cleveland, 5356.875*love, 4950.104*don, 4426.028*just, 3408.540*fresh
+Topic 1:   11805.516*good, 10285.776*just, 10156.843*time, 9529.269*like, 8873.511*place, 8471.345*really, 7483.582*got, 5438.598*didn, 5359.467*order
+Topic 2:   1805.667*indian, 1669.093*buffet, 1023.996*chicken, 671.931*naan, 530.063*dishes, 529.369*scene, 506.741*offers, 464.575*south, 452.896*masala
+Topic 3:   26742.224*great, 17749.382*place, 15590.263*good, 13558.326*service, 8936.820*friendly, 7374.401*menu, 6824.021*staff, 6757.181*nice, 5692.741*love
+Topic 4:   3586.895*wine, 3359.104*dessert, 2741.325*dinner, 2653.057*delicious, 2278.441*great, 2230.097*restaurant, 2129.685*chocolate, 2033.718*amazing, 1843.154*perfect
+Topic 5:   3663.034*chicken, 2602.133*chinese, 2414.087*rice, 2369.458*fried, 2181.399*tea, 2140.449*soup, 1957.305*spicy, 1662.509*dishes, 1544.653*noodles
+Topic 6:   5106.505*bar, 2665.453*parking, 2557.539*inside, 2383.562*outside, 2115.006*room, 2107.875*old, 2077.020*tables, 2039.527*patio, 1998.549*area
+Topic 7:   4583.573*cheese, 4166.619*good, 4075.047*pork, 3595.343*sandwich, 3179.178*breakfast, 2996.301*beef, 2893.669*chicken, 2762.709*got, 2497.793*sauce
+Topic 8:   1292.475*melt, 1255.557*slow, 1108.704*bit, 1096.015*expected, 730.334*daughter, 651.356*duck, 643.810*tavern, 606.227*stuffed, 594.353*app
+Topic 9:   4429.064*sushi, 2441.496*roll, 1310.318*fish, 1275.768*rolls, 1125.194*tuna, 730.470*hibachi, 491.501*japanese, 411.613*chef, 410.127*tempura
+Topic 10:  3172.605*coffee, 2873.714*thai, 1189.561*average, 1166.898*gem, 1121.113*wrap, 996.726*pad, 930.778*cafe, 869.467*hidden, 724.724*club
+Topic 11:  5099.554*beer, 3215.958*tacos, 2274.837*beers, 2220.926*mexican, 2083.179*chips, 1966.904*bar, 1947.729*taco, 1847.276*salsa, 1718.179*dog
+Topic 12:  659.385*lola, 648.832*hang, 602.678*returning, 580.933*michael, 557.642*symon, 544.216*superb, 368.043*par, 354.810*cleveland, 318.569*chef
+Topic 13:  11949.787*pizza, 3352.812*sauce, 2960.269*good, 2328.843*cheese, 2289.190*wings, 2288.574*crust, 1667.314*italian, 1526.081*great, 1443.432*best
+Topic 14:  6630.365*salad, 5238.127*sauce, 4316.868*chicken, 4300.898*ordered, 3863.957*fresh, 3824.187*good, 3249.424*shrimp, 2876.930*soup, 2798.965*cooked
+Topic 15:  7241.837*fries, 6644.870*burger, 2666.654*burgers, 2649.731*cheese, 1552.170*lamb, 1547.165*fried, 1509.182*crab, 1426.661*cream, 1371.035*onion

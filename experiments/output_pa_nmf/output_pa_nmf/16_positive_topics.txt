@@ -1,0 +1,16 @@
+Topic 0:   1.076*ordered, 0.977*menu, 0.937*got, 0.934*came, 0.933*just, 0.928*time, 0.858*table, 0.805*dinner, 0.794*night
+Topic 1:   3.969*pizza, 0.698*crust, 0.398*cheese, 0.337*sauce, 0.326*pepperoni, 0.319*toppings, 0.313*delivery, 0.301*pizzas, 0.273*slice
+Topic 2:   3.391*great, 0.832*beer, 0.766*bar, 0.561*selection, 0.456*atmosphere, 0.386*drinks, 0.330*beers, 0.323*service, 0.246*happy
+Topic 3:   3.618*thai, 1.446*pad, 1.211*curry, 0.720*noodles, 0.712*spicy, 0.568*spice, 0.459*level, 0.398*noodle, 0.385*soup
+Topic 4:   2.865*coffee, 0.896*tea, 0.751*shop, 0.269*cup, 0.267*latte, 0.251*ice, 0.234*little, 0.228*cream, 0.224*cafe
+Topic 5:   4.310*good, 1.528*really, 0.837*pretty, 0.654*nice, 0.407*service, 0.329*prices, 0.290*beer, 0.241*selection, 0.237*little
+Topic 6:   3.196*sandwich, 1.207*sandwiches, 1.177*lunch, 1.083*fries, 0.804*cheese, 0.699*bread, 0.640*fish, 0.560*salad, 0.510*fresh
+Topic 7:   2.941*best, 2.870*ve, 1.980*pittsburgh, 0.652*times, 0.519*favorite, 0.515*far, 0.511*indian, 0.472*time, 0.466*years
+Topic 8:   3.216*sushi, 0.931*roll, 0.721*rolls, 0.521*fish, 0.446*fresh, 0.376*tuna, 0.326*chinese, 0.289*sashimi, 0.261*hibachi
+Topic 9:   2.537*tacos, 1.491*taco, 0.751*mexican, 0.679*salsa, 0.567*chips, 0.391*fish, 0.360*guacamole, 0.285*queso, 0.276*chorizo
+Topic 10:  1.940*service, 1.690*excellent, 1.347*recommend, 1.104*highly, 0.846*amazing, 0.844*restaurant, 0.756*delicious, 0.473*definitely, 0.469*atmosphere
+Topic 11:  4.039*burger, 1.294*fries, 1.239*burgers, 0.464*bacon, 0.443*cheese, 0.421*burgatory, 0.351*beer, 0.322*bun, 0.283*shake
+Topic 12:  3.024*breakfast, 1.216*brunch, 1.100*eggs, 1.032*pancakes, 0.894*toast, 0.784*diner, 0.590*bacon, 0.549*french, 0.512*wait
+Topic 13:  2.298*friendly, 2.152*staff, 0.837*nice, 0.551*super, 0.424*clean, 0.367*wait, 0.334*helpful, 0.315*quick, 0.305*fresh
+Topic 14:  2.849*chicken, 0.794*fried, 0.773*sauce, 0.655*rice, 0.543*spicy, 0.466*chinese, 0.446*wings, 0.409*hot, 0.390*pork
+Topic 15:  3.238*place, 1.855*love, 0.722*like, 0.493*don, 0.447*just, 0.446*eat, 0.440*awesome, 0.398*people, 0.398*try

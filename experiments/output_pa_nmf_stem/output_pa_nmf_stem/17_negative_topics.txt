@@ -1,0 +1,17 @@
+Topic 0:   1.973*tabl, 1.350*ask, 1.001*server, 0.992*waitress, 0.917*did, 0.831*seat, 0.787*came, 0.782*said, 0.723*reserv
+Topic 1:   2.024*place, 1.141*just, 0.975*like, 0.836*realli, 0.626*want, 0.609*becaus, 0.560*look, 0.553*peopl, 0.501*say
+Topic 2:   3.514*pizza, 0.455*crust, 0.427*chees, 0.249*pepperoni, 0.244*slice, 0.223*sauc, 0.203*deliveri, 0.164*pie, 0.150*dough
+Topic 3:   3.014*order, 0.570*deliveri, 0.464*said, 0.441*did, 0.404*phone, 0.371*told, 0.369*wrong, 0.334*took, 0.322*ask
+Topic 4:   3.022*burger, 0.637*fri, 0.337*medium, 0.307*cook, 0.230*patti, 0.225*bun, 0.196*burgatori, 0.183*bacon, 0.180*brgr
+Topic 5:   2.279*time, 0.713*ve, 0.360*everi, 0.331*ha, 0.331*locat, 0.286*alway, 0.278*visit, 0.255*second, 0.250*year
+Topic 6:   2.512*wait, 1.714*minut, 0.819*hour, 0.464*long, 0.374*seat, 0.343*min, 0.297*took, 0.294*final, 0.276*anoth
+Topic 7:   2.292*sandwich, 1.175*fri, 0.588*chees, 0.535*bread, 0.408*primanti, 0.374*slaw, 0.373*meat, 0.318*coleslaw, 0.284*pittsburgh
+Topic 8:   2.729*bar, 1.818*drink, 1.584*beer, 1.438*bartend, 0.400*select, 0.362*game, 0.317*friend, 0.306*night, 0.305*sit
+Topic 9:   2.757*salad, 1.424*steak, 0.527*lettuc, 0.511*dress, 0.462*lunch, 0.360*chees, 0.298*cook, 0.286*meal, 0.272*soup
+Topic 10:  2.005*taco, 0.716*mexican, 0.573*salsa, 0.545*chip, 0.322*burrito, 0.297*bean, 0.269*margarita, 0.259*tortilla, 0.215*bell
+Topic 11:  2.447*servic, 0.855*terribl, 0.836*custom, 0.831*rude, 0.820*horribl, 0.685*bad, 0.667*slow, 0.586*manag, 0.505*worst
+Topic 12:  3.311*chicken, 0.442*fri, 0.411*rice, 0.347*dri, 0.310*buffalo, 0.227*got, 0.226*chines, 0.206*tso, 0.185*breast
+Topic 13:  2.258*veri, 1.588*good, 1.111*price, 0.493*disappoint, 0.462*small, 0.436*nice, 0.416*portion, 0.393*qualiti, 0.393*menu
+Topic 14:  1.535*tast, 1.249*sauc, 1.119*dish, 0.916*flavor, 0.915*like, 0.778*thai, 0.697*noodl, 0.628*soup, 0.586*restaur
+Topic 15:  2.639*wing, 0.340*sauc, 0.179*hot, 0.158*night, 0.133*flavor, 0.127*buffalo, 0.123*dri, 0.119*fri, 0.118*boneless
+Topic 16:  2.419*sushi, 1.030*roll, 0.495*fish, 0.379*rice, 0.317*buffet, 0.250*tuna, 0.207*qualiti, 0.206*hibachi, 0.193*sashimi

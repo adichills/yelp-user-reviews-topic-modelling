@@ -1,0 +1,10 @@
+Topic 0:   33335.443*restaur, 29803.290*menu, 21225.800*dish, 18461.675*experi, 18182.920*chef, 17641.439*dine, 16733.060*tabl, 15290.016*room, 13146.355*veri
+Topic 1:   29004.576*great, 27786.541*taco, 27153.427*bar, 24330.560*drink, 22438.118*beer, 21146.910*good, 21024.676*place, 15619.613*hour, 15299.699*happi
+Topic 2:   81024.041*place, 43797.850*vega, 38121.638*locat, 33705.735*alway, 33017.712*great, 26351.478*good, 23507.591*friendli, 22245.171*ha, 21168.386*time
+Topic 3:   50773.875*pizza, 12799.630*italian, 10832.423*pasta, 10175.178*crust, 9850.931*slice, 6981.331*chees, 6262.261*meatbal, 5180.959*pie, 4357.966*gra
+Topic 4:   49526.412*place, 42867.982*good, 38813.410*sushi, 36764.379*rice, 33946.785*roll, 33702.393*veri, 31189.432*order, 28789.889*tri, 27627.729*great
+Topic 5:   26915.924*cream, 24600.316*flavor, 24499.772*ice, 23745.307*sweet, 22386.707*chocol, 22281.424*dessert, 18512.897*rib, 17894.444*cake, 14949.005*tast
+Topic 6:   92674.374*order, 72788.965*time, 72602.208*like, 70601.911*good, 70246.234*did, 69619.876*just, 59785.436*got, 55036.476*place, 54418.039*becaus
+Topic 7:   65677.871*fri, 53587.263*burger, 45854.427*sauc, 45520.004*good, 43975.612*chicken, 42867.427*chees, 42336.554*order, 31563.326*salad, 28852.912*bread
+Topic 8:   54452.590*great, 46455.583*servic, 38360.626*steak, 35914.423*veri, 31630.497*vega, 29640.289*amaz, 27302.892*dinner, 26894.232*restaur, 24691.968*best
+Topic 9:   37749.644*buffet, 30205.293*breakfast, 20094.597*egg, 17909.583*good, 14183.042*coffe, 12608.309*brunch, 12223.422*vega, 11587.109*crab, 11102.474*pancak

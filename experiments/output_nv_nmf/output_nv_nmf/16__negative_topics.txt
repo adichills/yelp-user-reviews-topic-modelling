@@ -1,0 +1,16 @@
+Topic 0:   2.464*good, 2.119*like, 1.587*just, 1.540*really, 1.220*taste, 1.118*sauce, 1.070*flavor, 1.062*tasted, 0.963*wasn
+Topic 1:   2.664*minutes, 1.430*table, 1.284*waited, 1.243*wait, 1.000*seated, 0.960*took, 0.954*came, 0.878*waiting, 0.869*server
+Topic 2:   4.637*pizza, 0.523*crust, 0.469*cheese, 0.359*delivery, 0.325*pepperoni, 0.322*slice, 0.317*pizzas, 0.267*sauce, 0.260*wings
+Topic 3:   3.505*steak, 1.083*salad, 1.047*waiter, 1.042*restaurant, 1.024*medium, 1.024*ordered, 0.917*dinner, 0.843*meal, 0.820*rare
+Topic 4:   3.880*burger, 2.075*fries, 1.003*burgers, 0.460*cheese, 0.361*bun, 0.300*patty, 0.292*ordered, 0.281*shake, 0.276*onion
+Topic 5:   5.492*order, 0.796*wrong, 0.699*delivery, 0.587*called, 0.557*ordered, 0.544*phone, 0.517*took, 0.497*placed, 0.444*got
+Topic 6:   4.355*buffet, 0.834*crab, 0.760*buffets, 0.661*legs, 0.630*selection, 0.624*price, 0.602*vegas, 0.560*line, 0.550*quality
+Topic 7:   5.090*sushi, 1.319*rolls, 1.229*roll, 1.070*fish, 0.850*ayce, 0.816*rice, 0.545*eat, 0.486*nigiri, 0.480*tuna
+Topic 8:   4.305*service, 1.704*horrible, 1.485*customer, 1.392*bad, 1.162*terrible, 0.942*slow, 0.931*worst, 0.773*good, 0.688*rude
+Topic 9:   2.479*said, 1.883*asked, 1.786*manager, 1.586*told, 1.124*didn, 0.730*rude, 0.724*did, 0.665*came, 0.655*just
+Topic 10:  5.040*chicken, 0.922*fried, 0.897*rice, 0.769*salad, 0.704*ordered, 0.534*wings, 0.507*dry, 0.480*sauce, 0.296*thai
+Topic 11:  3.014*time, 1.408*location, 1.380*don, 1.173*ve, 0.983*times, 0.719*just, 0.597*long, 0.559*waste, 0.555*come
+Topic 12:  2.408*sandwich, 1.620*breakfast, 0.914*cheese, 0.906*eggs, 0.865*coffee, 0.721*bread, 0.634*cold, 0.615*bacon, 0.490*sandwiches
+Topic 13:  2.694*bar, 1.253*drinks, 1.155*bartender, 1.041*drink, 0.662*beer, 0.555*happy, 0.412*sat, 0.395*bartenders, 0.387*hour
+Topic 14:  2.695*room, 1.657*hotel, 0.940*stay, 0.681*rooms, 0.604*night, 0.550*vegas, 0.497*desk, 0.427*floor, 0.419*stayed
+Topic 15:  4.110*place, 0.466*don, 0.397*eat, 0.370*recommend, 0.358*people, 0.347*try, 0.338*better, 0.334*dirty, 0.333*stars

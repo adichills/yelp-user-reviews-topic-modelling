@@ -1,0 +1,17 @@
+Topic 0:   2.443*steak, 1.550*dish, 1.465*dessert, 1.365*salad, 1.352*meal, 1.271*bread, 1.229*flavor, 1.217*perfect, 1.208*chees
+Topic 1:   6.035*pizza, 0.877*crust, 0.718*slice, 0.483*chees, 0.470*pepperoni, 0.320*garlic, 0.318*order, 0.316*pie, 0.294*sauc
+Topic 2:   6.709*great, 2.564*servic, 0.794*atmospher, 0.737*price, 0.693*awesom, 0.594*excel, 0.559*custom, 0.448*drink, 0.360*recommend
+Topic 3:   6.227*burger, 1.884*fri, 0.806*shake, 0.579*chees, 0.507*onion, 0.479*bun, 0.393*bacon, 0.378*patti, 0.368*truffl
+Topic 4:   3.238*thai, 2.286*noodl, 1.790*ramen, 1.469*soup, 1.376*curri, 1.288*spici, 1.194*pad, 1.135*rice, 1.122*dish
+Topic 5:   5.647*sushi, 3.213*roll, 1.195*ayc, 0.994*fish, 0.820*fresh, 0.677*tuna, 0.607*nigiri, 0.604*chef, 0.590*sashimi
+Topic 6:   2.012*time, 1.715*order, 1.621*drink, 1.617*wait, 1.566*did, 1.562*like, 1.520*just, 1.291*becaus, 1.262*bar
+Topic 7:   5.388*buffet, 1.020*crab, 0.842*leg, 0.808*dessert, 0.736*station, 0.725*select, 0.704*line, 0.691*seafood, 0.580*lunch
+Topic 8:   4.800*good, 1.937*realli, 0.863*pretti, 0.770*price, 0.524*servic, 0.399*place, 0.384*like, 0.384*nice, 0.286*littl
+Topic 9:   4.873*taco, 1.041*salsa, 0.994*asada, 0.966*mexican, 0.853*carn, 0.839*burrito, 0.577*chip, 0.565*pastor, 0.485*fish
+Topic 10:  3.838*breakfast, 1.970*egg, 1.321*pancak, 1.241*coffe, 0.870*toast, 0.716*bacon, 0.707*hash, 0.639*waffl, 0.638*brunch
+Topic 11:  5.332*veri, 1.975*friendli, 1.700*staff, 1.357*nice, 0.941*clean, 0.670*attent, 0.664*restaur, 0.591*help, 0.534*delici
+Topic 12:  3.543*vega, 3.463*best, 1.927*la, 1.632*ve, 1.280*restaur, 0.707*strip, 0.698*visit, 0.657*time, 0.638*everi
+Topic 13:  4.570*place, 3.025*love, 1.449*amaz, 0.982*tri, 0.770*recommend, 0.648*awesom, 0.611*definit, 0.555*delici, 0.552*everyth
+Topic 14:  5.144*alway, 1.074*time, 0.817*come, 0.688*favorit, 0.567*ve, 0.541*friendli, 0.516*love, 0.512*everi, 0.491*locat
+Topic 15:  4.826*sandwich, 0.698*bread, 0.541*earl, 0.521*turkey, 0.494*chees, 0.481*lunch, 0.449*salad, 0.375*soup, 0.290*fresh
+Topic 16:  4.392*chicken, 2.143*fri, 1.077*rice, 0.994*sauc, 0.821*order, 0.755*wing, 0.725*waffl, 0.469*bbq, 0.441*salad

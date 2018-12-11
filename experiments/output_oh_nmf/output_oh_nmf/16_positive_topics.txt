@@ -1,0 +1,16 @@
+Topic 0:   2.243*like, 1.834*just, 1.444*time, 1.318*don, 1.187*really, 0.888*order, 0.868*know, 0.856*little, 0.834*people
+Topic 1:   4.062*pizza, 0.757*crust, 0.388*pizzas, 0.352*sauce, 0.329*pepperoni, 0.303*toppings, 0.293*cheese, 0.206*delivery, 0.193*fresh
+Topic 2:   3.803*great, 1.278*service, 0.476*atmosphere, 0.317*excellent, 0.264*prices, 0.244*awesome, 0.153*price, 0.152*time, 0.147*recommend
+Topic 3:   3.977*chicken, 1.161*fried, 0.931*rice, 0.887*sauce, 0.770*chinese, 0.577*spicy, 0.562*hot, 0.501*soup, 0.469*indian
+Topic 4:   1.005*ordered, 0.852*delicious, 0.819*dinner, 0.729*came, 0.707*restaurant, 0.677*got, 0.663*definitely, 0.660*salad, 0.642*meal
+Topic 5:   3.800*good, 0.889*really, 0.628*service, 0.515*nice, 0.501*pretty, 0.319*prices, 0.249*price, 0.237*place, 0.180*overall
+Topic 6:   2.405*bar, 2.223*beer, 1.219*selection, 0.749*beers, 0.631*nice, 0.582*wings, 0.544*patio, 0.538*wine, 0.507*night
+Topic 7:   3.682*burger, 2.040*fries, 1.467*burgers, 0.443*cheese, 0.421*onion, 0.388*bacon, 0.385*rings, 0.272*bun, 0.269*cooked
+Topic 8:   3.922*sushi, 1.003*roll, 0.779*rolls, 0.479*hibachi, 0.441*fresh, 0.318*tuna, 0.303*fish, 0.270*japanese, 0.267*sashimi
+Topic 9:   2.748*best, 2.032*ve, 1.215*cleveland, 0.548*restaurant, 0.433*area, 0.382*favorite, 0.377*times, 0.376*chinese, 0.369*far
+Topic 10:  2.620*friendly, 2.444*staff, 0.611*clean, 0.527*super, 0.489*fresh, 0.462*fast, 0.431*delicious, 0.430*nice, 0.386*helpful
+Topic 11:  3.197*place, 2.915*love, 0.946*amazing, 0.424*awesome, 0.362*favorite, 0.348*recommend, 0.301*try, 0.284*absolutely, 0.246*eat
+Topic 12:  2.582*thai, 1.242*pho, 1.179*pad, 0.559*curry, 0.407*noodles, 0.398*spicy, 0.379*tea, 0.352*rolls, 0.326*dishes
+Topic 13:  2.366*happy, 2.117*hour, 1.323*tacos, 0.728*taco, 0.573*mexican, 0.552*salsa, 0.462*chips, 0.456*margaritas, 0.432*drinks
+Topic 14:  3.000*breakfast, 1.328*coffee, 0.840*eggs, 0.768*brunch, 0.658*pancakes, 0.605*diner, 0.600*toast, 0.484*hash, 0.437*bacon
+Topic 15:  2.315*sandwich, 1.392*beef, 1.234*lunch, 1.093*corned, 1.020*sandwiches, 0.618*cheese, 0.530*bread, 0.475*soup, 0.415*salad

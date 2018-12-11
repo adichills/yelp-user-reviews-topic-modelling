@@ -1,0 +1,17 @@
+Topic 0:   2.533*tabl, 1.558*server, 1.019*came, 1.004*ask, 0.915*waitress, 0.915*seat, 0.742*drink, 0.719*did, 0.631*reserv
+Topic 1:   1.694*like, 1.226*just, 1.099*tast, 0.994*realli, 0.844*good, 0.648*did, 0.621*look, 0.542*sauc, 0.472*bad
+Topic 2:   3.454*pizza, 0.421*crust, 0.244*chees, 0.215*deliveri, 0.205*pepperoni, 0.192*sauc, 0.189*hut, 0.170*dough, 0.157*slice
+Topic 3:   3.536*order, 0.424*came, 0.414*wrong, 0.400*got, 0.396*did, 0.383*took, 0.348*deliveri, 0.285*pick, 0.267*onlin
+Topic 4:   3.186*burger, 1.010*fri, 0.303*medium, 0.296*bun, 0.257*onion, 0.249*cook, 0.227*patti, 0.168*ring, 0.153*chees
+Topic 5:   1.341*manag, 1.053*custom, 0.787*said, 0.768*rude, 0.660*told, 0.648*ask, 0.604*owner, 0.554*employe, 0.534*hi
+Topic 6:   2.868*wait, 2.254*minut, 0.795*hour, 0.437*seat, 0.368*long, 0.364*anoth, 0.308*min, 0.294*final, 0.261*line
+Topic 7:   2.573*servic, 0.952*slow, 0.929*terribl, 0.735*horribl, 0.462*poor, 0.421*bad, 0.363*worst, 0.323*good, 0.315*aw
+Topic 8:   2.625*bar, 1.472*beer, 1.354*drink, 1.303*bartend, 0.403*night, 0.359*friend, 0.351*sat, 0.314*sit, 0.283*great
+Topic 9:   3.181*chicken, 0.997*rice, 0.677*fri, 0.525*sauc, 0.438*chines, 0.425*dish, 0.380*thai, 0.378*roll, 0.370*noodl
+Topic 10:  3.034*place, 0.833*sushi, 0.698*ha, 0.350*better, 0.345*star, 0.309*use, 0.302*price, 0.294*peopl, 0.285*year
+Topic 11:  2.509*taco, 0.524*mexican, 0.498*salsa, 0.461*chip, 0.388*bell, 0.310*burrito, 0.304*margarita, 0.261*tortilla, 0.253*barrio
+Topic 12:  3.336*veri, 0.932*price, 0.932*good, 0.915*disappoint, 0.595*restaur, 0.443*small, 0.426*nice, 0.344*staff, 0.330*portion
+Topic 13:  2.816*time, 0.981*ve, 0.630*locat, 0.520*everi, 0.507*alway, 0.390*ha, 0.360*second, 0.313*wast, 0.304*visit
+Topic 14:  2.270*salad, 1.403*steak, 0.494*dress, 0.408*dinner, 0.403*lettuc, 0.388*cook, 0.349*meal, 0.346*potato, 0.316*medium
+Topic 15:  2.728*sandwich, 0.978*chees, 0.592*bread, 0.369*fri, 0.326*beef, 0.298*melt, 0.297*grill, 0.294*corn, 0.284*turkey
+Topic 16:  2.552*wing, 0.583*sauc, 0.250*fri, 0.208*boneless, 0.172*hot, 0.164*buffalo, 0.154*garlic, 0.146*bbq, 0.118*night

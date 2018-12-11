@@ -1,0 +1,17 @@
+Topic 0:   2.317*just, 2.181*time, 2.083*like, 1.528*got, 1.504*ordered, 1.405*came, 1.329*order, 1.239*restaurant, 1.187*didn
+Topic 1:   5.782*pizza, 1.095*crust, 0.657*wings, 0.412*pizzas, 0.388*sauce, 0.386*toppings, 0.382*cheese, 0.365*pepperoni, 0.285*slice
+Topic 2:   5.869*great, 2.049*service, 0.652*atmosphere, 0.496*excellent, 0.413*prices, 0.407*awesome, 0.365*customer, 0.299*place, 0.284*experience
+Topic 3:   5.547*best, 4.481*ve, 1.045*phoenix, 0.968*times, 0.896*valley, 0.881*far, 0.842*town, 0.801*years, 0.625*hands
+Topic 4:   5.503*sushi, 1.622*roll, 1.299*rolls, 0.686*fresh, 0.561*fish, 0.500*tuna, 0.473*sashimi, 0.330*spicy, 0.328*japanese
+Topic 5:   4.464*chicken, 1.527*fried, 1.454*rice, 0.925*sauce, 0.784*chinese, 0.713*beef, 0.588*pork, 0.583*soup, 0.541*spicy
+Topic 6:   5.640*good, 1.945*really, 0.884*pretty, 0.861*place, 0.828*service, 0.505*nice, 0.422*prices, 0.346*price, 0.262*little
+Topic 7:   3.575*tacos, 2.022*salsa, 1.833*taco, 1.745*mexican, 1.238*chips, 1.183*asada, 1.148*carne, 1.066*fish, 1.054*burrito
+Topic 8:   4.834*burger, 2.694*fries, 1.561*burgers, 0.816*cheese, 0.518*bacon, 0.461*potato, 0.434*bun, 0.423*sweet, 0.421*onion
+Topic 9:   5.888*breakfast, 2.944*coffee, 1.481*eggs, 1.230*pancakes, 0.983*toast, 0.923*bacon, 0.871*morning, 0.809*burrito, 0.711*hash
+Topic 10:  3.583*lunch, 3.457*salad, 2.812*sandwich, 1.790*fresh, 1.141*bread, 1.024*sandwiches, 0.949*delicious, 0.677*soup, 0.658*cheese
+Topic 11:  3.390*friendly, 3.117*staff, 1.007*super, 0.947*clean, 0.630*fast, 0.581*helpful, 0.489*delicious, 0.433*fresh, 0.398*nice
+Topic 12:  4.321*happy, 3.994*hour, 0.530*drinks, 0.449*menu, 0.446*specials, 0.396*pm, 0.340*appetizers, 0.290*prices, 0.225*half
+Topic 13:  4.068*amazing, 1.770*recommend, 1.302*highly, 1.255*place, 1.081*definitely, 0.954*service, 0.808*delicious, 0.491*absolutely, 0.461*awesome
+Topic 14:  4.823*thai, 1.517*pad, 1.326*curry, 0.665*spicy, 0.578*tea, 0.469*noodles, 0.437*soup, 0.403*hot, 0.380*dishes
+Topic 15:  5.531*love, 2.414*place, 0.472*favorite, 0.349*eat, 0.344*like, 0.301*just, 0.280*awesome, 0.276*family, 0.251*don
+Topic 16:  2.607*bar, 1.906*beer, 1.470*nice, 1.113*wine, 1.049*place, 1.044*selection, 1.022*patio, 0.992*fun, 0.963*night

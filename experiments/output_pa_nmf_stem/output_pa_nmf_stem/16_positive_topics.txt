@@ -1,0 +1,16 @@
+Topic 0:   1.786*order, 1.318*time, 1.305*did, 1.110*just, 1.107*wait, 1.074*like, 1.007*got, 0.927*tabl, 0.901*becaus
+Topic 1:   4.160*pizza, 0.693*crust, 0.399*slice, 0.398*chees, 0.323*pepperoni, 0.300*deliveri, 0.294*hoagi, 0.289*sauc, 0.280*pie
+Topic 2:   2.644*beer, 1.766*bar, 1.105*select, 0.892*drink, 0.472*wing, 0.469*bartend, 0.459*tap, 0.423*night, 0.362*game
+Topic 3:   3.695*sandwich, 0.740*lunch, 0.532*fri, 0.523*bread, 0.514*fish, 0.464*salad, 0.425*primanti, 0.414*chees, 0.366*soup
+Topic 4:   3.528*taco, 0.620*salsa, 0.557*mexican, 0.413*chip, 0.372*margarita, 0.333*tortilla, 0.321*fish, 0.298*guacamol, 0.242*queso
+Topic 5:   3.774*place, 2.408*love, 0.711*amaz, 0.576*awesom, 0.558*tri, 0.412*like, 0.379*eat, 0.336*super, 0.329*favorit
+Topic 6:   3.444*chicken, 1.557*fri, 1.464*wing, 1.404*sauc, 0.839*order, 0.755*hot, 0.666*rice, 0.657*spici, 0.613*bbq
+Topic 7:   3.750*veri, 1.213*friendli, 1.101*nice, 0.992*staff, 0.509*price, 0.451*clean, 0.439*reason, 0.429*excel, 0.392*recommend
+Topic 8:   0.956*salad, 0.956*dish, 0.946*restaur, 0.911*meal, 0.846*delici, 0.827*dessert, 0.761*dinner, 0.682*menu, 0.663*wine
+Topic 9:   3.929*burger, 0.781*fri, 0.367*shake, 0.334*burgatori, 0.322*bacon, 0.309*chees, 0.296*milkshak, 0.284*bun, 0.270*onion
+Topic 10:  2.804*sushi, 1.549*roll, 0.463*fish, 0.421*fresh, 0.350*tuna, 0.297*chines, 0.253*sashimi, 0.234*lunch, 0.233*hibachi
+Topic 11:  2.579*breakfast, 1.758*coffe, 1.136*egg, 1.076*brunch, 1.000*pancak, 0.759*toast, 0.708*diner, 0.526*crepe, 0.520*waffl
+Topic 12:  1.924*alway, 1.799*ve, 1.565*best, 1.039*pittsburgh, 0.877*time, 0.625*restaur, 0.595*ha, 0.588*favorit, 0.505*everi
+Topic 13:  3.991*good, 1.406*realli, 0.701*pretti, 0.502*price, 0.484*servic, 0.318*like, 0.273*nice, 0.207*littl, 0.185*place
+Topic 14:  2.957*thai, 1.202*noodl, 1.180*curri, 1.163*pad, 0.769*spici, 0.701*dish, 0.537*spice, 0.534*soup, 0.462*tea
+Topic 15:  4.848*great, 1.431*servic, 0.736*atmospher, 0.447*price, 0.399*excel, 0.393*recommend, 0.322*staff, 0.313*friendli, 0.280*highli

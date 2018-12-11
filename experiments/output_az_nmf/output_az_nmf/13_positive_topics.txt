@@ -1,0 +1,13 @@
+Topic 0:   1.937*just, 1.836*like, 1.828*time, 1.279*got, 1.213*came, 1.211*ordered, 1.124*little, 1.094*menu, 1.032*restaurant
+Topic 1:   5.743*pizza, 1.092*crust, 0.647*wings, 0.413*pizzas, 0.411*cheese, 0.399*sauce, 0.390*toppings, 0.365*pepperoni, 0.289*slice
+Topic 2:   5.541*great, 2.153*service, 0.874*atmosphere, 0.589*awesome, 0.575*excellent, 0.501*place, 0.401*customer, 0.371*prices, 0.368*amazing
+Topic 3:   4.480*best, 3.615*ve, 1.137*amazing, 0.866*phoenix, 0.800*times, 0.733*valley, 0.720*far, 0.664*town, 0.655*years
+Topic 4:   5.394*sushi, 1.587*roll, 1.248*rolls, 0.717*fresh, 0.554*fish, 0.498*tuna, 0.465*sashimi, 0.320*japanese, 0.320*tempura
+Topic 5:   3.477*chicken, 1.642*thai, 1.387*rice, 1.227*fried, 0.988*soup, 0.970*salad, 0.939*lunch, 0.870*sauce, 0.842*spicy
+Topic 6:   5.527*good, 1.930*really, 0.916*pretty, 0.782*service, 0.736*nice, 0.727*place, 0.413*prices, 0.345*price, 0.292*like
+Topic 7:   3.440*tacos, 1.955*salsa, 1.766*taco, 1.676*mexican, 1.196*chips, 1.139*asada, 1.105*carne, 1.024*fish, 1.017*burrito
+Topic 8:   4.375*burger, 2.538*fries, 1.436*burgers, 0.854*cheese, 0.490*bacon, 0.463*potato, 0.410*sweet, 0.406*bun, 0.403*onion
+Topic 9:   5.208*breakfast, 2.661*coffee, 1.310*eggs, 1.083*pancakes, 0.877*toast, 0.844*bacon, 0.807*lunch, 0.773*morning, 0.734*sandwich
+Topic 10:  5.179*love, 3.778*place, 0.649*amazing, 0.595*favorite, 0.547*awesome, 0.409*eat, 0.375*like, 0.325*family, 0.320*try
+Topic 11:  3.214*friendly, 2.921*staff, 1.032*super, 0.939*clean, 0.892*delicious, 0.692*fresh, 0.634*nice, 0.633*fast, 0.575*helpful
+Topic 12:  3.950*happy, 3.678*hour, 0.966*bar, 0.777*beer, 0.755*drinks, 0.504*wine, 0.464*specials, 0.459*menu, 0.394*pm

@@ -1,0 +1,5 @@
+Topic 0:   11604.946*place, 10756.972*good, 10439.595*like, 7558.800*just, 7030.091*ve, 6787.814*beer, 5739.757*don, 4917.350*really, 4817.871*love
+Topic 1:   16328.306*good, 12369.691*chicken, 8669.447*place, 7971.970*really, 7144.848*ordered, 7127.344*like, 7059.483*delicious, 6497.236*got, 6373.096*just
+Topic 2:   12145.473*pizza, 5340.112*sauce, 4799.693*cheese, 3703.164*bread, 3307.530*salad, 3286.226*fresh, 2784.408*italian, 2462.771*like, 2447.174*best
+Topic 3:   16352.781*great, 11244.449*place, 10961.667*good, 10601.392*service, 8445.452*menu, 8056.374*restaurant, 7839.639*time, 7835.649*nice, 7512.314*delicious
+Topic 4:   6152.663*burger, 4352.361*cream, 3416.758*coffee, 2754.403*bacon, 2683.652*sweet, 2669.098*cheese, 2631.072*ice, 2544.891*chocolate, 2070.768*potato

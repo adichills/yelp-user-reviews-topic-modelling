@@ -1,0 +1,17 @@
+Topic 0:   3.678*good, 0.925*pretty, 0.441*really, 0.412*beer, 0.321*great, 0.301*nice, 0.299*prices, 0.283*wasn, 0.254*atmosphere
+Topic 1:   3.277*pizza, 0.441*crust, 0.404*cheese, 0.284*sauce, 0.243*pepperoni, 0.194*toppings, 0.185*delivery, 0.164*ordered, 0.153*slice
+Topic 2:   2.167*minutes, 1.109*waited, 0.829*took, 0.741*wait, 0.719*came, 0.670*waitress, 0.665*hour, 0.549*finally, 0.539*waiting
+Topic 3:   2.276*bar, 0.821*beer, 0.811*bartender, 0.641*drinks, 0.610*drink, 0.322*bartenders, 0.252*selection, 0.250*beers, 0.243*night
+Topic 4:   2.294*sandwich, 1.526*fries, 0.734*cheese, 0.632*bread, 0.568*sandwiches, 0.471*slaw, 0.466*primanti, 0.457*meat, 0.405*coleslaw
+Topic 5:   2.603*order, 0.746*delivery, 0.663*called, 0.554*time, 0.466*phone, 0.388*wings, 0.342*wrong, 0.294*driver, 0.280*ordered
+Topic 6:   2.232*service, 0.744*slow, 0.705*terrible, 0.586*horrible, 0.512*bad, 0.448*poor, 0.444*rude, 0.375*worst, 0.328*customer
+Topic 7:   2.943*chicken, 0.487*fried, 0.424*sauce, 0.380*rice, 0.326*dry, 0.323*wings, 0.303*buffalo, 0.255*ordered, 0.247*chinese
+Topic 8:   2.529*burger, 0.664*burgers, 0.605*fries, 0.354*medium, 0.230*cooked, 0.210*ordered, 0.208*bacon, 0.196*rare, 0.196*patty
+Topic 9:   1.849*said, 1.541*asked, 1.513*manager, 1.127*told, 0.728*didn, 0.559*rude, 0.557*waitress, 0.539*came, 0.510*did
+Topic 10:  2.411*sushi, 0.559*roll, 0.502*fish, 0.400*rolls, 0.355*rice, 0.298*buffet, 0.248*quality, 0.235*tuna, 0.209*hibachi
+Topic 11:  1.971*just, 1.545*don, 1.498*like, 1.218*really, 1.098*ve, 0.940*time, 0.747*know, 0.644*bad, 0.632*think
+Topic 12:  1.337*table, 1.288*restaurant, 0.581*tables, 0.511*party, 0.501*reservation, 0.479*staff, 0.433*seated, 0.415*wait, 0.408*hostess
+Topic 13:  2.019*thai, 0.849*pad, 0.719*noodles, 0.433*curry, 0.365*soup, 0.331*rice, 0.319*chinese, 0.260*bland, 0.250*dish
+Topic 14:  1.030*salad, 0.770*ordered, 0.624*steak, 0.582*sauce, 0.545*menu, 0.523*meal, 0.505*pasta, 0.458*dish, 0.449*cheese
+Topic 15:  2.794*place, 0.237*stars, 0.219*dirty, 0.200*used, 0.190*quality, 0.179*pittsburgh, 0.172*like, 0.165*star, 0.164*recommend
+Topic 16:  1.296*tacos, 1.118*mexican, 0.851*taco, 0.794*salsa, 0.785*chips, 0.461*burrito, 0.434*beans, 0.431*rice, 0.343*bland

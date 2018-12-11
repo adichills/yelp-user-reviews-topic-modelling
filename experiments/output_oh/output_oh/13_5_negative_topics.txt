@@ -1,0 +1,13 @@
+Topic 0:   448.039*dog, 321.532*closed, 295.914*hot, 276.527*cafe, 200.807*drove, 190.247*dogs, 170.201*airport, 164.810*office, 135.682*miles
+Topic 1:   1050.656*called, 733.025*buffet, 514.110*delivery, 484.795*phone, 391.597*card, 370.924*owner, 341.585*indian, 302.860*business, 299.945*pm
+Topic 2:   5266.468*table, 4298.470*bar, 3413.996*service, 3153.728*minutes, 3131.202*place, 3013.874*just, 2935.283*restaurant, 2935.112*time, 2729.912*server
+Topic 3:   714.224*music, 444.770*room, 401.496*bathroom, 363.077*kids, 317.408*loud, 315.968*game, 290.260*playing, 282.905*play, 211.241*old
+Topic 4:   3857.582*order, 3620.964*ordered, 3459.519*asked, 3243.155*came, 3107.737*said, 2883.784*minutes, 2463.647*got, 2357.947*time, 2343.606*told
+Topic 5:   2085.432*order, 1474.385*service, 1405.585*customer, 1348.911*rude, 1256.872*manager, 1209.150*time, 1188.987*staff, 1184.306*location, 1024.238*customers
+Topic 6:   2363.587*beer, 877.930*bar, 662.140*beers, 554.581*selection, 355.317*bartender, 249.001*tap, 216.010*draft, 209.741*list, 193.391*bartenders
+Topic 7:   2740.419*like, 2642.600*place, 1779.108*just, 1278.491*don, 1031.751*people, 925.245*know, 901.189*eat, 797.569*dirty, 770.234*time
+Topic 8:   4570.548*place, 3491.533*service, 3043.639*good, 2338.938*just, 2205.048*ve, 1978.165*really, 1957.324*don, 1931.517*better, 1724.407*great
+Topic 9:   2951.152*burger, 2563.218*fries, 1936.084*cheese, 1854.735*sandwich, 1851.932*steak, 1350.176*ordered, 997.482*good, 922.096*burgers, 885.133*medium
+Topic 10:  4502.602*pizza, 1016.022*tacos, 833.285*taco, 820.155*chips, 809.387*cheese, 700.063*mexican, 653.043*salsa, 541.759*burrito, 523.114*crust
+Topic 11:  5106.339*like, 4727.792*good, 4458.661*chicken, 3460.731*sauce, 3457.032*just, 3248.341*ordered, 2674.993*place, 2505.510*really, 2262.375*tasted
+Topic 12:  1435.805*sushi, 541.520*roll, 474.073*standing, 379.871*hibachi, 304.830*tuna, 298.417*chef, 293.093*rolls, 172.019*japanese, 169.300*man

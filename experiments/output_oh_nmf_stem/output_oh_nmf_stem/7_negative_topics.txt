@@ -1,0 +1,7 @@
+Topic 0:   2.297*bar, 1.492*drink, 1.327*beer, 1.149*bartend, 0.465*night, 0.430*friend, 0.361*sat, 0.357*great, 0.339*menu
+Topic 1:   1.068*chicken, 0.881*veri, 0.841*tast, 0.766*good, 0.723*like, 0.691*sauc, 0.538*salad, 0.532*flavor, 0.507*dish
+Topic 2:   3.428*pizza, 0.423*crust, 0.270*chees, 0.253*deliveri, 0.248*order, 0.239*sauc, 0.205*pepperoni, 0.191*hut, 0.181*hour
+Topic 3:   2.348*order, 1.029*ask, 0.906*did, 0.871*said, 0.627*told, 0.625*came, 0.595*manag, 0.528*waitress, 0.501*got
+Topic 4:   2.810*burger, 0.942*fri, 0.277*medium, 0.273*bun, 0.255*chees, 0.250*onion, 0.229*cook, 0.207*patti, 0.164*good
+Topic 5:   1.231*place, 0.896*servic, 0.893*time, 0.585*ha, 0.575*just, 0.567*ve, 0.470*locat, 0.464*like, 0.455*restaur
+Topic 6:   1.915*wait, 1.649*minut, 1.371*tabl, 0.834*seat, 0.600*server, 0.593*hour, 0.435*reserv, 0.427*hostess, 0.414*took

@@ -1,0 +1,6 @@
+Topic 0:   3.951*buffet, 0.818*crab, 0.705*buffets, 0.661*vegas, 0.646*price, 0.627*legs, 0.614*line, 0.606*selection, 0.539*quality
+Topic 1:   1.582*order, 1.582*minutes, 1.073*table, 1.000*said, 0.977*came, 0.972*asked, 0.890*told, 0.839*server, 0.838*took
+Topic 2:   4.567*pizza, 0.516*crust, 0.494*cheese, 0.457*delivery, 0.413*order, 0.324*pizzas, 0.322*pepperoni, 0.319*slice, 0.293*wings
+Topic 3:   1.631*chicken, 1.016*ordered, 0.943*good, 0.897*like, 0.817*rice, 0.804*sauce, 0.702*salad, 0.659*steak, 0.650*flavor
+Topic 4:   3.089*burger, 1.749*fries, 0.817*burgers, 0.511*cheese, 0.303*bun, 0.293*bacon, 0.270*ordered, 0.266*good, 0.246*patty
+Topic 5:   1.764*place, 1.542*service, 1.022*don, 0.888*just, 0.869*bad, 0.793*like, 0.787*good, 0.718*time, 0.668*sushi

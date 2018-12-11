@@ -1,0 +1,9 @@
+Topic 0:   3991.464*pizza, 3979.946*order, 3875.537*chicken, 3358.529*like, 3262.865*sauc, 3074.038*tast, 2139.208*chees, 1852.936*flavor, 1654.904*just
+Topic 1:   7044.779*place, 5496.994*good, 4051.135*just, 3803.792*realli, 3478.117*veri, 3328.866*like, 3052.968*price, 2839.381*servic, 2756.534*menu
+Topic 2:   3172.278*burger, 2999.448*sandwich, 2976.758*fri, 1106.152*like, 1015.816*just, 957.452*good, 948.464*order, 867.849*chees, 726.697*eat
+Topic 3:   1267.229*roll, 1248.508*sushi, 728.664*thai, 589.469*chines, 554.772*noodl, 528.703*tea, 372.343*rice, 350.535*dish, 349.061*spici
+Topic 4:   899.468*shrimp, 804.549*taco, 757.577*good, 595.328*steak, 585.747*cook, 583.800*flavor, 530.830*like, 514.437*dessert, 506.207*cake
+Topic 5:   3612.497*bar, 3292.332*tabl, 2773.061*place, 2636.268*drink, 2572.368*restaur, 2439.562*just, 2337.478*did, 2278.683*peopl, 2135.615*ask
+Topic 6:   1055.624*breakfast, 1020.441*egg, 1019.320*coffe, 753.634*brunch, 533.645*music, 490.526*like, 452.980*room, 435.518*peopl, 423.785*diner
+Topic 7:   796.040*pasta, 709.809*fish, 639.823*card, 587.772*italian, 498.555*buffet, 382.816*smell, 251.954*wine, 247.853*salad, 227.558*restaur
+Topic 8:   9146.990*order, 4796.642*time, 4694.284*minut, 4455.966*wait, 3935.491*ask, 3604.606*came, 3345.393*did, 3149.832*waitress, 2852.647*took

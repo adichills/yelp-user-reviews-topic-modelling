@@ -1,0 +1,15 @@
+Topic 0:   6832.873*make, 6629.681*custom, 6594.093*like, 6422.416*just, 6275.566*owner, 6165.788*coffe, 4431.884*want, 4358.189*way, 4349.633*ha
+Topic 1:   11080.902*order, 7927.117*wing, 7876.548*charg, 6538.155*card, 4665.968*extra, 4600.383*time, 3808.867*deliveri, 3588.795*pay, 3473.235*use
+Topic 2:   15873.865*burger, 14752.484*sandwich, 12785.452*fri, 11389.172*chees, 5836.243*bread, 4200.736*dog, 3820.616*onion, 3283.847*cold, 2928.647*order
+Topic 3:   8910.168*sushi, 7006.381*ice, 6130.882*option, 5937.841*menu, 5126.257*tea, 4981.304*cream, 3145.505*qualiti, 3139.972*price, 2977.524*place
+Topic 4:   32151.264*tabl, 21827.614*place, 21492.521*servic, 20727.594*time, 19441.680*bar, 15776.909*wait, 14281.900*seat, 13764.554*walk, 12484.675*server
+Topic 5:   12303.716*veri, 10338.096*good, 9173.204*steak, 8524.964*tast, 7358.893*flavor, 7197.460*salad, 7064.803*like, 6426.491*potato, 6425.127*meal
+Topic 6:   11293.759*roll, 9718.185*tast, 8869.032*egg, 8341.684*like, 5395.089*breakfast, 4053.409*cook, 3842.626*chees, 3610.988*place, 3607.012*fresh
+Topic 7:   6681.560*close, 4778.340*open, 4067.359*locat, 3781.589*normal, 3548.406*door, 3292.180*buffet, 2523.649*pho, 2463.074*lunch, 2184.138*sign
+Topic 8:   66787.705*order, 36891.450*ask, 31974.066*minut, 29617.818*wait, 28852.847*did, 27114.291*time, 25519.248*said, 23448.748*came, 19386.644*got
+Topic 9:   15730.591*place, 15479.754*good, 15448.049*like, 11882.930*just, 11533.137*taco, 10385.599*meat, 9220.595*time, 8724.209*tri, 8457.945*got
+Topic 10:  21585.059*chicken, 12968.021*order, 12319.988*sauc, 10967.407*salad, 10624.491*dish, 8579.120*soup, 7787.793*rice, 6159.241*bowl, 5819.033*veri
+Topic 11:  14340.876*servic, 13271.990*good, 12635.455*beer, 10577.358*menu, 8508.407*great, 8301.380*restaur, 7884.341*drink, 7703.936*happi, 7592.016*veri
+Topic 12:  27346.796*place, 10534.705*like, 9785.111*price, 8044.336*just, 7719.690*realli, 6239.744*think, 4814.073*better, 4620.033*ve, 4510.621*star
+Topic 13:  6331.804*manag, 5924.276*reserv, 4943.706*day, 4732.511*pm, 4605.767*told, 3953.303*busi, 3822.905*review, 3534.291*restaur, 3316.033*sunday
+Topic 14:  26670.808*pizza, 3543.634*crust, 2529.332*slice, 1993.294*step, 1897.520*kid, 1808.121*movi, 1000.285*oven, 979.625*pepperoni, 900.336*larg

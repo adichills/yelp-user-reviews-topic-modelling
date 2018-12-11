@@ -1,0 +1,15 @@
+Topic 0:   31288.464*bar, 27787.122*drink, 17513.757*night, 15489.444*fun, 14928.778*menu, 10010.516*item, 9612.040*cool, 9418.335*cocktail, 9391.369*patio
+Topic 1:   61015.482*pizza, 15595.280*dessert, 15245.525*sauc, 14317.918*order, 14295.546*salad, 13303.508*chees, 13081.624*delici, 12901.438*flavor, 12535.413*bread
+Topic 2:   33626.302*did, 27281.770*tabl, 21026.032*came, 19586.560*restaur, 18431.516*just, 18041.013*server, 17484.353*took, 15646.322*review, 15639.384*hi
+Topic 3:   39601.729*sandwich, 29103.280*burger, 28792.781*fri, 25841.598*chees, 23825.270*salad, 17562.569*good, 16328.854*potato, 16295.340*chicken, 14343.556*bbq
+Topic 4:   19251.491*locat, 14122.925*area, 12381.119*park, 11678.630*like, 11450.935*real, 11368.017*ha, 10674.886*phoenix, 10469.657*place, 9834.374*game
+Topic 5:   30409.296*order, 29210.179*wait, 27959.992*breakfast, 18844.380*egg, 17623.633*got, 16403.631*good, 15177.291*like, 14043.356*came, 13778.265*time
+Topic 6:   33402.809*taco, 17251.434*salsa, 16767.064*mexican, 13579.720*burrito, 13568.136*chip, 12424.035*bean, 10621.200*good, 9342.904*green, 7571.731*tortilla
+Topic 7:   31487.104*chicken, 21645.902*dish, 21581.863*good, 20596.235*rice, 20491.642*veri, 17590.604*soup, 17309.924*flavor, 16237.366*order, 14942.998*tri
+Topic 8:   9545.067*leav, 7063.019*wo, 5920.853*disappoint, 5325.360*yelp, 4429.518*meal, 4140.991*whatev, 3968.723*ate, 3802.691*wall, 3544.724*mood
+Topic 9:   80773.824*place, 64113.139*like, 62703.041*good, 52676.878*time, 51605.204*just, 47017.203*order, 42743.955*ve, 35784.208*realli, 34191.806*tri
+Topic 10:  33876.705*best, 22928.186*restaur, 15493.857*ve, 9733.853*valley, 9587.436*phoenix, 8785.625*dine, 7695.611*amaz, 7294.897*experi, 6277.910*gem
+Topic 11:  32612.907*great, 30309.384*beer, 23962.247*good, 17476.824*steak, 16729.608*wine, 15214.905*place, 14549.143*select, 14368.515*wing, 11910.127*dog
+Topic 12:  34562.552*hour, 25818.997*happi, 23143.193*sushi, 20404.097*roll, 9473.142*fish, 6496.563*tuna, 5769.422*salmon, 5692.955*special, 4998.662*fresh
+Topic 13:  12291.955*shrimp, 10539.117*beauti, 10165.606*glad, 9498.714*crab, 7783.456*counter, 6509.222*old, 5671.866*recommend, 5503.653*menu, 5143.396*present
+Topic 14:  101823.482*great, 85838.980*place, 63008.230*servic, 62463.581*veri, 48391.101*friendli, 44734.991*good, 43268.192*love, 38040.802*staff, 35462.061*alway

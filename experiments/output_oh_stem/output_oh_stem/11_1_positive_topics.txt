@@ -1,0 +1,11 @@
+Topic 0:   10018.018*burger, 6124.839*fri, 4694.974*beer, 3904.085*wing, 3039.536*place, 2883.027*game, 2692.452*great, 2681.248*bbq, 2577.386*dog
+Topic 1:   4749.123*sushi, 4709.413*roll, 4514.930*rice, 4408.713*chicken, 4339.061*dish, 4234.620*tri, 4177.236*place, 3949.544*spici, 3803.597*good
+Topic 2:   23296.697*great, 18634.206*veri, 17176.409*place, 14708.792*good, 14332.289*servic, 9852.341*friendli, 7600.341*love, 7523.020*staff, 7437.444*nice
+Topic 3:   3884.183*restaur, 3145.690*year, 2829.623*place, 2587.537*alway, 2434.800*park, 2398.856*famili, 2049.003*cleveland, 1947.743*ha, 1861.467*pancak
+Topic 4:   15766.871*order, 14646.315*good, 9377.277*like, 8879.911*just, 8382.211*got, 7478.331*chees, 7431.508*chicken, 7150.560*realli, 7030.876*sandwich
+Topic 5:   2362.028*best, 2175.125*place, 2158.081*pho, 1770.716*like, 1621.228*th, 1565.493*store, 1341.307*die, 1263.440*gyro, 1247.434*eat
+Topic 6:   9264.794*bar, 7334.992*drink, 6717.715*great, 6653.234*menu, 5707.289*happi, 5653.016*place, 5498.383*hour, 4819.089*taco, 4749.945*night
+Topic 7:   2196.393*indian, 1929.186*buffet, 1238.106*sub, 1205.177*fall, 999.603*market, 964.375*lunch, 785.554*qualiti, 773.080*offer, 760.490*ha
+Topic 8:   13605.498*pizza, 2779.041*italian, 2591.351*crust, 2483.064*place, 2233.678*great, 2114.612*good, 2073.169*ve, 2008.401*beer, 2005.258*pasta
+Topic 9:   6635.693*tabl, 5054.289*did, 5023.929*wait, 4844.765*like, 4679.815*order, 3704.248*just, 3665.211*seat, 3180.469*server, 3013.616*time
+Topic 10:  2624.422*cream, 2566.596*dessert, 2121.945*cake, 2120.548*chocol, 2041.167*ice, 1774.565*diner, 1733.908*flavor, 1617.382*sweet, 1475.834*waffl

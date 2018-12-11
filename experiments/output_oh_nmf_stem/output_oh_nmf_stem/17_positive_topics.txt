@@ -1,0 +1,17 @@
+Topic 0:   1.390*like, 1.313*order, 1.308*just, 1.269*did, 0.960*tabl, 0.877*got, 0.854*becaus, 0.826*realli, 0.772*want
+Topic 1:   4.264*pizza, 0.743*crust, 0.327*pepperoni, 0.297*sauc, 0.275*chees, 0.232*slice, 0.226*best, 0.220*order, 0.215*pie
+Topic 2:   3.910*great, 1.351*servic, 0.533*atmospher, 0.415*price, 0.378*excel, 0.261*awesom, 0.236*recommend, 0.179*fantast, 0.178*dinner
+Topic 3:   2.625*beer, 2.061*bar, 1.161*select, 0.871*drink, 0.654*hour, 0.651*happi, 0.565*wing, 0.546*game, 0.501*wine
+Topic 4:   3.659*veri, 1.035*nice, 0.516*excel, 0.345*tasti, 0.328*clean, 0.321*definit, 0.309*restaur, 0.276*attent, 0.271*reason
+Topic 5:   4.565*burger, 1.560*fri, 0.425*onion, 0.335*ring, 0.297*bacon, 0.282*bun, 0.261*chees, 0.240*shake, 0.228*patti
+Topic 6:   4.829*good, 1.336*realli, 0.758*price, 0.751*pretti, 0.650*servic, 0.392*like, 0.348*place, 0.268*littl, 0.233*reason
+Topic 7:   3.822*sushi, 1.847*roll, 0.462*hibachi, 0.391*fresh, 0.330*tuna, 0.288*fish, 0.268*sashimi, 0.251*japanes, 0.218*spici
+Topic 8:   2.455*chicken, 1.508*sauc, 1.160*salad, 1.051*fri, 0.952*delici, 0.913*flavor, 0.819*order, 0.760*soup, 0.737*dish
+Topic 9:   3.600*taco, 1.004*salsa, 0.997*mexican, 0.963*margarita, 0.678*chip, 0.485*burrito, 0.466*guacamol, 0.462*barrio, 0.378*queso
+Topic 10:  3.390*breakfast, 1.521*coffe, 1.214*egg, 0.927*brunch, 0.899*pancak, 0.701*diner, 0.668*toast, 0.584*hash, 0.523*bacon
+Topic 11:  3.150*friendli, 2.978*staff, 0.643*delici, 0.635*super, 0.449*help, 0.430*clean, 0.408*fast, 0.318*recommend, 0.316*fresh
+Topic 12:  3.520*alway, 0.507*favorit, 0.339*ha, 0.279*fresh, 0.275*come, 0.270*usual, 0.247*servic, 0.226*consist, 0.217*fast
+Topic 13:  3.377*sandwich, 0.881*beef, 0.822*corn, 0.702*lunch, 0.508*chees, 0.444*bread, 0.408*deli, 0.370*sub, 0.342*meat
+Topic 14:  3.440*place, 2.523*love, 0.784*amaz, 0.429*tri, 0.382*awesom, 0.364*eat, 0.285*recommend, 0.284*absolut, 0.259*like
+Topic 15:  2.898*time, 1.474*ve, 0.732*everi, 0.531*tri, 0.375*wait, 0.323*visit, 0.319*come, 0.316*long, 0.274*sever
+Topic 16:  2.296*best, 1.478*restaur, 1.436*cleveland, 1.139*thai, 0.818*ve, 0.758*chines, 0.749*pho, 0.557*area, 0.483*dish

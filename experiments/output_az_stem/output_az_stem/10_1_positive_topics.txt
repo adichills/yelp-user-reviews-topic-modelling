@@ -1,0 +1,10 @@
+Topic 0:   26296.010*menu, 19614.295*item, 18648.944*select, 16215.053*drink, 11946.757*beer, 9418.223*cocktail, 8595.436*look, 8299.684*bar, 7217.778*offer
+Topic 1:   78060.791*great, 74435.154*place, 57145.095*pizza, 44212.221*servic, 43439.405*love, 38588.939*veri, 35809.435*friendli, 33363.668*good, 32282.774*alway
+Topic 2:   13681.854*hi, 13579.035*tabl, 10405.889*did, 10268.568*took, 9634.706*talk, 8273.387*restaur, 8084.443*manag, 7900.357*server, 7693.836*make
+Topic 3:   41192.502*chees, 34712.154*sandwich, 34562.845*salad, 29332.231*sauc, 27771.833*good, 26458.354*fri, 24662.314*bread, 21977.391*chicken, 18735.001*flavor
+Topic 4:   45456.084*great, 26517.434*night, 25529.884*happi, 25427.571*hour, 24766.957*servic, 21278.690*wine, 21113.351*dinner, 20752.021*restaur, 17511.768*veri
+Topic 5:   29747.783*breakfast, 19407.943*egg, 17456.425*coffe, 14855.465*order, 12923.492*cream, 12748.872*ice, 10589.839*delici, 10425.739*chocol, 10317.747*cake
+Topic 6:   49978.526*good, 40964.977*place, 33402.842*taco, 29230.591*veri, 27552.234*great, 27011.439*nice, 24797.088*realli, 24265.895*bar, 23670.596*drink
+Topic 7:   30214.768*dish, 26724.317*chicken, 25150.847*veri, 24550.505*good, 21133.976*order, 18950.026*roll, 17712.171*rice, 17320.029*flavor, 17201.838*soup
+Topic 8:   16760.993*mexican, 16624.629*bean, 15950.809*salsa, 13580.669*burrito, 12830.339*chicken, 11065.475*green, 9576.888*best, 9248.818*place, 9243.441*restaur
+Topic 9:   71485.503*place, 70255.787*time, 63650.869*order, 60963.836*like, 57346.481*just, 53101.519*good, 50326.738*ve, 38117.527*becaus, 36915.755*eat

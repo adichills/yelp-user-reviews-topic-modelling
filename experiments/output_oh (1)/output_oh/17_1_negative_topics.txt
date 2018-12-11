@@ -1,0 +1,17 @@
+Topic 0:   437.997*dog, 305.398*play, 184.443*dogs, 183.558*games, 157.420*river, 155.503*legs, 130.440*bowling, 124.544*alley, 109.977*crab
+Topic 1:   749.025*game, 454.169*beef, 353.613*corned, 267.609*gyro, 172.924*version, 156.596*watch, 122.623*cleveland, 114.348*bagel, 113.116*cheesecake
+Topic 2:   5088.704*minutes, 4824.374*table, 3945.579*came, 3485.072*service, 3397.911*server, 3198.067*waitress, 3057.047*asked, 2924.562*took, 2641.183*time
+Topic 3:   557.537*music, 459.934*room, 425.273*bar, 359.064*bathroom, 320.933*hotel, 284.295*floor, 262.160*sports, 244.017*park, 225.654*parking
+Topic 4:   4490.003*pizza, 1495.979*wings, 1303.210*order, 1185.799*ordered, 1013.478*cheese, 894.781*sauce, 539.689*just, 525.995*crust, 515.919*delivery
+Topic 5:   1518.261*location, 947.976*line, 697.847*drive, 553.424*chipotle, 548.557*staff, 456.055*today, 427.730*workers, 410.482*order, 399.337*work
+Topic 6:   1288.204*pork, 485.246*pulled, 290.830*bbq, 252.242*margaritas, 147.568*barbecue, 129.528*mcdonalds, 126.157*non, 121.993*belly, 84.085*chop
+Topic 7:   1054.898*got, 922.785*like, 857.131*just, 789.099*ordered, 719.231*looked, 714.742*eat, 710.856*worst, 706.477*didn, 676.937*ve
+Topic 8:   2389.936*place, 2125.487*service, 1831.733*ve, 1195.593*really, 1149.052*good, 1133.865*better, 987.492*just, 985.101*bad, 946.305*time
+Topic 9:   2714.817*burger, 2578.156*cheese, 2453.916*salad, 2334.666*fries, 2078.169*ordered, 1745.214*steak, 1690.629*sandwich, 1489.730*good, 1066.205*bread
+Topic 10:  3048.589*bar, 2031.345*beer, 1421.184*friend, 1289.396*like, 1287.920*bartender, 1207.372*drinks, 931.019*drink, 851.821*place, 801.078*just
+Topic 11:  5130.783*like, 4220.051*place, 3632.151*good, 3194.073*just, 2199.221*really, 1852.473*don, 1635.138*better, 1541.994*rice, 1516.430*flavor
+Topic 12:  1347.605*sushi, 838.486*counter, 492.225*employees, 470.359*employee, 457.914*girl, 424.052*guy, 412.610*man, 401.891*customer, 399.672*hibachi
+Topic 13:  174.016*irish, 152.666*free, 144.222*omelette, 141.288*gluten, 139.533*vibe, 117.950*gloves, 105.625*crepe, 98.571*ambience, 98.346*limited
+Topic 14:  3466.435*place, 3359.722*order, 3272.762*time, 2863.670*just, 2733.455*service, 2552.404*restaurant, 2474.136*people, 2462.391*don, 2374.451*said
+Topic 15:  3078.970*chicken, 2204.642*good, 1884.495*menu, 1691.764*ordered, 1657.061*sauce, 1524.773*dish, 1408.879*restaurant, 1175.427*really, 1092.660*like
+Topic 16:  190.342*casino, 186.246*blue, 152.256*oysters, 150.230*office, 119.735*willoughby, 98.739*al, 98.674*express, 94.778*updated, 89.713*clientele

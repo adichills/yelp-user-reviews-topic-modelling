@@ -1,0 +1,13 @@
+Topic 0:   1.547*just, 1.444*ordered, 1.363*like, 1.330*came, 1.254*time, 1.224*steak, 1.222*got, 1.204*menu, 1.165*table
+Topic 1:   5.831*pizza, 0.882*crust, 0.536*slice, 0.487*cheese, 0.469*pepperoni, 0.422*pizzas, 0.420*toppings, 0.336*garlic, 0.317*sauce
+Topic 2:   5.720*great, 2.307*service, 0.672*excellent, 0.670*atmosphere, 0.530*customer, 0.475*awesome, 0.406*prices, 0.374*happy, 0.367*drinks
+Topic 3:   5.383*sushi, 1.498*rolls, 1.421*roll, 1.121*ayce, 0.917*fish, 0.770*fresh, 0.596*tuna, 0.581*eat, 0.545*sashimi
+Topic 4:   3.015*chicken, 1.812*thai, 1.695*rice, 1.545*fried, 1.106*spicy, 1.008*curry, 1.003*soup, 0.926*pork, 0.871*beef
+Topic 5:   4.987*burger, 2.597*fries, 1.485*burgers, 0.753*cheese, 0.604*shake, 0.448*bacon, 0.407*truffle, 0.383*onion, 0.373*bun
+Topic 6:   4.020*place, 2.513*amazing, 2.391*friendly, 2.286*staff, 1.430*recommend, 1.411*definitely, 1.212*delicious, 1.042*super, 0.919*awesome
+Topic 7:   3.404*best, 3.389*vegas, 1.907*ve, 1.719*las, 0.714*restaurant, 0.675*strip, 0.608*far, 0.587*town, 0.552*time
+Topic 8:   5.228*buffet, 1.324*crab, 1.246*buffets, 1.065*legs, 0.906*seafood, 0.839*line, 0.764*selection, 0.755*lunch, 0.721*station
+Topic 9:   3.710*breakfast, 1.432*eggs, 1.281*coffee, 1.213*sandwich, 1.025*pancakes, 0.873*toast, 0.752*bacon, 0.675*hash, 0.654*french
+Topic 10:  5.787*good, 2.511*really, 1.236*pretty, 0.807*nice, 0.785*place, 0.688*service, 0.555*like, 0.462*prices, 0.447*price
+Topic 11:  3.747*tacos, 1.669*taco, 1.259*mexican, 1.190*asada, 1.131*salsa, 1.039*carne, 0.804*chips, 0.739*burrito, 0.617*pastor
+Topic 12:  5.110*love, 0.910*place, 0.429*like, 0.404*favorite, 0.350*just, 0.293*come, 0.283*don, 0.278*location, 0.268*time

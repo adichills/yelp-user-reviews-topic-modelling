@@ -1,0 +1,6 @@
+Topic 0:   12168.020*pizza, 8802.167*good, 7352.805*place, 7277.430*like, 5975.276*just, 5490.506*beer, 5404.410*cheese, 5108.367*ve, 4150.809*tacos
+Topic 1:   17511.835*good, 12695.906*chicken, 9841.966*place, 8652.737*sauce, 8312.319*really, 7812.795*delicious, 7726.718*great, 7531.098*like, 7337.011*ordered
+Topic 2:   3265.274*pittsburgh, 2275.234*best, 1981.409*don, 1974.735*love, 1964.101*like, 1961.030*burger, 1710.889*burgers, 1515.287*ve, 1482.930*indian
+Topic 3:   14067.658*great, 12897.169*place, 11681.816*good, 9273.319*bar, 8849.821*time, 7892.865*service, 7475.891*nice, 6752.389*really, 6581.209*got
+Topic 4:   3842.597*burger, 3681.544*cream, 3097.854*sweet, 2413.939*thai, 2343.657*ice, 2091.818*tea, 1842.733*bacon, 1561.013*cheese, 1476.635*medium
+Topic 5:   5606.930*restaurant, 4470.947*menu, 3747.619*dish, 3140.046*dessert, 2957.269*delicious, 2751.212*wine, 2739.714*meal, 2622.691*service, 2486.094*experience

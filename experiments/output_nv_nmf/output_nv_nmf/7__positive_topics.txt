@@ -1,0 +1,7 @@
+Topic 0:   1.519*just, 1.491*good, 1.451*like, 1.305*really, 1.287*time, 1.218*got, 1.174*came, 1.162*ordered, 1.059*steak
+Topic 1:   5.784*pizza, 0.874*crust, 0.531*slice, 0.468*cheese, 0.465*pepperoni, 0.420*pizzas, 0.417*toppings, 0.397*good, 0.332*garlic
+Topic 2:   3.923*great, 2.274*place, 2.137*service, 1.278*love, 1.254*amazing, 1.234*friendly, 1.152*staff, 0.857*awesome, 0.774*recommend
+Topic 3:   5.000*sushi, 1.388*rolls, 1.319*roll, 1.048*ayce, 0.870*fish, 0.741*fresh, 0.620*eat, 0.556*tuna, 0.511*sashimi
+Topic 4:   2.520*chicken, 1.419*rice, 1.378*thai, 1.280*fried, 1.142*good, 0.965*spicy, 0.855*pork, 0.850*soup, 0.784*curry
+Topic 5:   4.739*burger, 2.496*fries, 1.424*burgers, 0.719*cheese, 0.577*shake, 0.476*good, 0.439*bacon, 0.390*truffle, 0.364*onion
+Topic 6:   3.299*buffet, 1.102*vegas, 0.823*buffets, 0.818*best, 0.817*crab, 0.660*legs, 0.573*seafood, 0.544*line, 0.502*breakfast

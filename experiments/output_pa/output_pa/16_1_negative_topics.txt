@@ -1,0 +1,16 @@
+Topic 0:   3211.726*chicken, 2311.795*sauce, 1447.015*like, 1326.908*soup, 1252.716*rice, 1177.328*sushi, 1107.932*flavor, 996.548*ordered, 992.771*dish
+Topic 1:   896.502*tacos, 600.196*taco, 259.205*meet, 153.111*bell, 138.629*salsa, 124.663*queso, 110.056*tortillas, 107.833*burgatory, 104.115*bros
+Topic 2:   3892.718*came, 3568.880*time, 3391.146*service, 3181.575*minutes, 3165.877*just, 3077.719*waitress, 2956.973*good, 2938.672*ordered, 2929.993*table
+Topic 3:   4722.672*place, 2456.675*good, 2441.929*service, 2109.629*just, 2010.602*better, 1923.456*like, 1793.857*really, 1632.664*great, 1444.381*don
+Topic 4:   1675.365*beer, 535.921*beers, 508.166*selection, 350.173*just, 346.958*know, 313.832*let, 312.518*place, 295.349*customers, 267.544*don
+Topic 5:   372.934*cream, 168.076*gonna, 93.380*naan, 88.646*sun, 72.156*whipped, 71.191*grub, 52.091*trivia, 49.202*fuss, 45.576*mocha
+Topic 6:   2458.004*burger, 1965.429*good, 1110.496*like, 1044.521*just, 1004.513*really, 897.811*pretty, 883.248*taste, 815.585*menu, 781.124*place
+Topic 7:   609.760*game, 522.221*crab, 209.923*watch, 180.405*lukewarm, 153.438*legs, 142.236*dip, 107.331*subway, 102.790*games, 97.742*king
+Topic 8:   878.575*pork, 343.818*avoid, 317.726*dog, 249.197*pho, 247.181*pulled, 160.524*dogs, 152.565*belly, 107.777*vietnamese, 100.112*chop
+Topic 9:   167.813*dont, 118.357*casino, 53.268*machines, 45.716*haven, 45.628*rivers, 34.885*machine, 34.718*ive, 29.956*yo, 25.824*leadership
+Topic 10:  752.567*thai, 751.555*buffet, 347.572*indian, 306.723*curry, 274.800*pad, 196.600*good, 195.619*bagel, 194.116*groupon, 189.139*dumplings
+Topic 11:  3148.639*order, 2841.472*said, 2527.062*told, 2275.468*time, 2187.598*minutes, 2050.404*asked, 1978.600*manager, 1697.811*service, 1658.642*people
+Topic 12:  1226.776*restaurant, 1041.866*table, 931.190*staff, 604.672*experience, 574.486*dining, 557.096*seated, 553.272*tables, 539.193*dirty, 534.378*wait
+Topic 13:  1047.162*breakfast, 776.942*eggs, 604.694*brunch, 518.876*coffee, 517.108*potatoes, 515.175*plate, 513.693*bacon, 431.384*toast, 402.246*diner
+Topic 14:  622.531*mexican, 305.486*gyro, 227.297*parking, 215.401*beans, 210.994*smoking, 189.189*market, 114.446*chipotle, 106.716*guac, 104.304*businesses
+Topic 15:  4509.941*pizza, 2764.230*cheese, 2763.429*ordered, 2737.602*like, 2388.304*sandwich, 2116.349*good, 2060.054*just, 1906.166*fries, 1678.839*meat

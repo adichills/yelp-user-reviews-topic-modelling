@@ -1,0 +1,15 @@
+Topic 0:   50661.765*pizza, 17047.811*like, 11851.468*vegan, 11364.746*coffe, 11169.722*place, 10967.106*slice, 10616.527*ha, 10229.830*shop, 9883.682*just
+Topic 1:   28621.304*taco, 12174.866*mexican, 9820.137*salsa, 9626.726*burrito, 9318.907*chip, 6617.239*bean, 5965.281*nacho, 5583.981*margarita, 5128.362*good
+Topic 2:   13898.480*strip, 12910.338*room, 12411.572*vega, 11236.912*music, 9892.046*fun, 9352.320*night, 8483.610*view, 8354.452*play, 8169.650*hotel
+Topic 3:   31209.611*steak, 21019.931*wine, 18444.835*restaur, 15624.382*dinner, 15493.538*meal, 15041.471*bread, 13872.021*dish, 13806.103*lobster, 13340.486*cours
+Topic 4:   38442.808*chicken, 23049.356*rice, 20117.933*thai, 19771.965*order, 18574.561*fri, 17508.616*noodl, 14698.871*spici, 14248.459*soup, 13658.804*curri
+Topic 5:   39817.655*sushi, 32379.011*roll, 14886.091*ramen, 12548.137*fish, 11383.628*tuna, 9935.231*japanes, 8823.090*ayc, 8530.561*salmon, 8353.128*place
+Topic 6:   35279.636*like, 30205.885*breakfast, 27067.891*just, 23447.981*good, 23305.334*line, 19829.518*becaus, 18417.327*eat, 18334.701*egg, 15990.076*onli
+Topic 7:   57579.236*fri, 52480.747*burger, 33443.863*chees, 31535.230*sandwich, 30017.032*chicken, 25406.515*good, 24929.022*order, 18076.668*sauc, 16181.180*bacon
+Topic 8:   102745.697*place, 54864.082*great, 54278.126*alway, 53741.265*love, 48365.616*time, 47803.081*vega, 41108.060*ve, 40001.178*best, 33688.533*come
+Topic 9:   63712.048*great, 61812.487*veri, 54305.644*good, 42116.176*servic, 37498.030*buffet, 34551.205*place, 34357.353*price, 18551.864*definit, 17686.299*recommend
+Topic 10:  26472.774*cream, 23141.714*rib, 23076.169*chocol, 22976.089*dessert, 21290.146*cake, 16970.053*ice, 16681.265*bbq, 15593.505*sweet, 14308.507*potato
+Topic 11:  42070.929*sauc, 34869.208*flavor, 31322.171*good, 30006.867*dish, 28719.286*like, 28340.943*shrimp, 25973.406*meat, 24543.910*crab, 22673.989*pork
+Topic 12:  17330.857*tea, 10167.411*salad, 9697.408*fresh, 8138.883*drink, 7455.875*bowl, 7364.863*healthi, 7006.097*friendli, 6540.877*veri, 6439.089*milk
+Topic 13:  96127.017*order, 65019.738*time, 62859.195*did, 59236.816*veri, 52468.128*good, 49474.170*place, 48347.882*tabl, 48080.570*came, 44571.028*just
+Topic 14:  15007.075*hi, 13682.350*experi, 13562.011*thank, 11845.262*servic, 11792.379*manag, 11746.510*review, 10857.281*chef, 10344.768*custom, 9800.770*owner

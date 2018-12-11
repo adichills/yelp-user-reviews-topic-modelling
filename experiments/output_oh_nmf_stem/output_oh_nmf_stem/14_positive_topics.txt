@@ -1,0 +1,14 @@
+Topic 0:   1.531*order, 1.169*did, 1.144*just, 1.055*time, 1.045*like, 0.947*got, 0.871*tabl, 0.806*came, 0.763*meal
+Topic 1:   4.272*pizza, 0.747*crust, 0.341*sauc, 0.328*pepperoni, 0.279*chees, 0.242*order, 0.233*slice, 0.232*best, 0.216*pie
+Topic 2:   3.911*great, 1.345*servic, 0.539*atmospher, 0.429*price, 0.378*excel, 0.289*awesom, 0.242*recommend, 0.188*fantast, 0.175*dinner
+Topic 3:   2.511*beer, 2.107*bar, 1.113*select, 0.933*drink, 0.696*hour, 0.688*happi, 0.567*wing, 0.564*game, 0.512*bartend
+Topic 4:   3.254*veri, 1.193*friendli, 1.042*staff, 0.864*nice, 0.496*clean, 0.476*excel, 0.417*restaur, 0.371*attent, 0.363*definit
+Topic 5:   4.476*burger, 1.648*fri, 0.433*onion, 0.334*ring, 0.307*chees, 0.303*bacon, 0.283*bun, 0.238*shake, 0.236*cook
+Topic 6:   4.674*good, 1.377*realli, 0.746*pretti, 0.686*price, 0.652*servic, 0.461*place, 0.443*like, 0.365*nice, 0.308*littl
+Topic 7:   3.750*sushi, 1.752*roll, 0.451*hibachi, 0.382*fresh, 0.324*tuna, 0.284*fish, 0.263*sashimi, 0.250*japanes, 0.209*price
+Topic 8:   2.723*chicken, 1.250*thai, 1.134*dish, 1.087*sauc, 0.992*rice, 0.960*soup, 0.908*fri, 0.902*spici, 0.788*noodl
+Topic 9:   3.522*taco, 0.996*salsa, 0.994*mexican, 0.946*margarita, 0.674*chip, 0.485*burrito, 0.461*guacamol, 0.452*barrio, 0.373*queso
+Topic 10:  3.252*breakfast, 1.505*coffe, 1.166*egg, 0.884*brunch, 0.858*pancak, 0.692*diner, 0.636*toast, 0.561*hash, 0.496*morn
+Topic 11:  3.672*place, 2.808*love, 1.085*amaz, 0.582*tri, 0.486*awesom, 0.481*recommend, 0.438*eat, 0.350*absolut, 0.347*like
+Topic 12:  2.304*alway, 1.640*ve, 1.462*best, 1.067*time, 0.612*favorit, 0.586*ha, 0.573*restaur, 0.571*cleveland, 0.504*everi
+Topic 13:  3.211*sandwich, 0.855*beef, 0.792*corn, 0.713*chees, 0.700*lunch, 0.536*bread, 0.524*salad, 0.424*meat, 0.421*soup

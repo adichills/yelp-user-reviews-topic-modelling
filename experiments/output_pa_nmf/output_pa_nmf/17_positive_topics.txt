@@ -1,0 +1,17 @@
+Topic 0:   1.197*ordered, 1.000*got, 0.993*came, 0.900*just, 0.878*dinner, 0.869*time, 0.865*meal, 0.846*menu, 0.820*table
+Topic 1:   3.970*pizza, 0.698*crust, 0.374*cheese, 0.322*pepperoni, 0.321*toppings, 0.306*delivery, 0.301*pizzas, 0.299*sauce, 0.274*slice
+Topic 2:   3.729*great, 0.634*service, 0.410*atmosphere, 0.165*awesome, 0.147*place, 0.127*fantastic, 0.127*prices, 0.125*experience, 0.111*drinks
+Topic 3:   3.611*thai, 1.442*pad, 1.205*curry, 0.743*spicy, 0.727*noodles, 0.570*spice, 0.462*level, 0.398*noodle, 0.381*rice
+Topic 4:   2.424*breakfast, 0.996*brunch, 0.883*eggs, 0.827*pancakes, 0.716*toast, 0.630*diner, 0.472*bacon, 0.439*french, 0.434*wait
+Topic 5:   4.557*good, 1.653*really, 0.831*pretty, 0.666*nice, 0.550*service, 0.350*prices, 0.256*little, 0.240*price, 0.210*overall
+Topic 6:   3.709*chicken, 0.937*fried, 0.808*rice, 0.658*chinese, 0.568*sauce, 0.543*spicy, 0.505*soup, 0.460*salad, 0.392*lunch
+Topic 7:   2.951*best, 2.826*ve, 1.990*pittsburgh, 0.630*times, 0.512*favorite, 0.506*far, 0.503*restaurant, 0.473*indian, 0.456*years
+Topic 8:   3.190*sushi, 0.921*roll, 0.713*rolls, 0.516*fish, 0.434*fresh, 0.371*tuna, 0.309*chinese, 0.286*sashimi, 0.257*hibachi
+Topic 9:   2.605*tacos, 1.532*taco, 0.772*mexican, 0.700*salsa, 0.583*chips, 0.398*fish, 0.370*guacamole, 0.294*queso, 0.284*chorizo
+Topic 10:  1.674*friendly, 1.435*staff, 1.159*service, 1.102*excellent, 0.965*recommend, 0.776*highly, 0.739*delicious, 0.558*restaurant, 0.515*nice
+Topic 11:  4.128*burger, 1.242*fries, 1.224*burgers, 0.452*bacon, 0.433*burgatory, 0.408*cheese, 0.328*bun, 0.291*shake, 0.289*cooked
+Topic 12:  3.002*place, 1.734*love, 0.765*like, 0.530*don, 0.495*just, 0.455*eat, 0.417*people, 0.397*try, 0.381*awesome
+Topic 13:  2.529*bar, 2.171*beer, 1.181*selection, 0.841*beers, 0.824*drinks, 0.672*happy, 0.667*drink, 0.660*hour, 0.512*night
+Topic 14:  3.007*wings, 0.559*hot, 0.539*wing, 0.475*sauce, 0.428*bbq, 0.315*buffalo, 0.293*cheese, 0.282*fries, 0.245*garlic
+Topic 15:  2.842*sandwich, 1.065*sandwiches, 1.015*lunch, 0.938*fries, 0.638*cheese, 0.572*bread, 0.567*fish, 0.430*salad, 0.427*fresh
+Topic 16:  2.919*coffee, 0.923*tea, 0.770*shop, 0.276*cup, 0.275*latte, 0.259*ice, 0.247*little, 0.236*cream, 0.234*cafe

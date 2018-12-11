@@ -1,0 +1,9 @@
+Topic 0:   1.383*just, 1.361*ordered, 1.232*came, 1.225*steak, 1.200*like, 1.159*time, 1.159*got, 1.136*menu, 1.105*restaurant
+Topic 1:   5.833*pizza, 0.881*crust, 0.535*slice, 0.481*cheese, 0.469*pepperoni, 0.423*pizzas, 0.419*toppings, 0.338*garlic, 0.318*sauce
+Topic 2:   5.303*great, 2.390*service, 0.783*excellent, 0.758*atmosphere, 0.692*friendly, 0.622*awesome, 0.557*customer, 0.551*staff, 0.471*amazing
+Topic 3:   5.277*sushi, 1.469*rolls, 1.395*roll, 1.100*ayce, 0.918*fish, 0.748*fresh, 0.590*tuna, 0.567*eat, 0.539*sashimi
+Topic 4:   2.922*chicken, 1.632*thai, 1.621*rice, 1.490*fried, 1.063*spicy, 0.938*soup, 0.919*curry, 0.908*pork, 0.841*beef
+Topic 5:   4.906*burger, 2.568*fries, 1.466*burgers, 0.746*cheese, 0.595*shake, 0.460*bacon, 0.399*truffle, 0.376*onion, 0.366*bun
+Topic 6:   5.149*good, 2.287*really, 1.116*pretty, 0.876*nice, 0.729*place, 0.652*service, 0.466*like, 0.440*prices, 0.419*little
+Topic 7:   3.563*place, 2.451*love, 1.766*best, 1.678*vegas, 1.429*amazing, 1.133*ve, 1.079*staff, 0.967*friendly, 0.812*las
+Topic 8:   4.855*buffet, 1.188*crab, 1.188*buffets, 0.998*vegas, 0.968*legs, 0.818*seafood, 0.788*line, 0.774*lunch, 0.760*breakfast

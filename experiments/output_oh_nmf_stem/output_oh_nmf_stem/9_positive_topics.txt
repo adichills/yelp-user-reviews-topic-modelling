@@ -1,0 +1,9 @@
+Topic 0:   1.633*order, 1.350*chicken, 0.992*sauc, 0.890*got, 0.881*salad, 0.871*delici, 0.870*dish, 0.867*like, 0.850*flavor
+Topic 1:   4.270*pizza, 0.745*crust, 0.328*pepperoni, 0.317*sauc, 0.289*best, 0.282*chees, 0.273*order, 0.233*slice, 0.218*pie
+Topic 2:   3.762*great, 1.324*servic, 0.623*atmospher, 0.460*excel, 0.415*price, 0.392*recommend, 0.368*awesom, 0.351*amaz, 0.298*place
+Topic 3:   1.832*beer, 1.830*bar, 1.136*drink, 0.829*hour, 0.812*happi, 0.790*select, 0.732*night, 0.547*place, 0.542*wine
+Topic 4:   2.733*veri, 2.552*good, 0.897*nice, 0.720*price, 0.665*friendli, 0.634*servic, 0.495*staff, 0.439*realli, 0.408*reason
+Topic 5:   4.071*burger, 1.510*fri, 0.390*onion, 0.309*chees, 0.306*ring, 0.279*bacon, 0.278*good, 0.259*bun, 0.224*dog
+Topic 6:   1.828*place, 1.723*alway, 1.529*love, 1.268*ve, 1.204*best, 1.027*time, 0.771*favorit, 0.744*breakfast, 0.740*cleveland
+Topic 7:   3.001*sushi, 1.549*roll, 0.366*hibachi, 0.326*thai, 0.307*fresh, 0.267*chines, 0.263*tuna, 0.262*spici, 0.248*rice
+Topic 8:   3.043*taco, 0.870*mexican, 0.858*salsa, 0.822*margarita, 0.580*chip, 0.409*burrito, 0.400*guacamol, 0.394*barrio, 0.322*queso

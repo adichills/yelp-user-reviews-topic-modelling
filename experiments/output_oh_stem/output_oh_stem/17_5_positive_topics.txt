@@ -1,0 +1,17 @@
+Topic 0:   9802.153*burger, 5697.238*fri, 3687.588*wing, 2697.790*game, 1437.702*bun, 1256.346*onion, 1070.835*beer, 1005.415*bar, 911.250*ring
+Topic 1:   4560.446*roll, 4497.695*sushi, 3229.201*fish, 2529.911*noodl, 2454.639*tea, 2342.873*soup, 1526.152*dish, 1464.295*rice, 1271.874*broth
+Topic 2:   12922.461*good, 11674.418*chicken, 10425.607*sauc, 8332.054*order, 7646.629*chees, 7299.953*fri, 6728.298*veri, 6627.133*like, 6388.067*flavor
+Topic 3:   4242.261*park, 2570.801*street, 1006.934*belli, 910.338*dark, 747.951*buck, 721.873*quiet, 575.370*lot, 545.770*dim, 542.188*sum
+Topic 4:   2263.171*pho, 2242.072*pork, 2017.014*meat, 1939.382*bbq, 1916.786*just, 1863.342*rib, 1781.420*star, 1739.265*like, 1444.766*know
+Topic 5:   2506.096*chines, 2018.662*authent, 1630.893*restaur, 1259.218*hummu, 1197.224*pita, 997.398*best, 930.772*fruit, 902.328*place, 874.903*falafel
+Topic 6:   11019.732*bar, 6098.454*drink, 4840.388*night, 4365.616*menu, 4307.377*hour, 4228.653*happi, 3752.584*beer, 3553.742*great, 3193.659*patio
+Topic 7:   2062.834*indian, 1857.766*buffet, 1490.640*sub, 1302.309*cafe, 887.586*crepe, 772.422*mom, 760.300*lunch, 694.889*naan, 678.605*conveni
+Topic 8:   13429.410*pizza, 2651.165*best, 2565.196*dog, 2524.698*place, 2327.909*crust, 1911.116*ve, 1523.666*sauc, 1512.102*great, 1450.160*hot
+Topic 9:   13624.266*order, 10000.865*did, 9303.218*time, 8988.026*just, 8922.588*like, 7183.667*got, 6530.236*wait, 6209.694*becaus, 6150.862*tabl
+Topic 10:  3200.581*cream, 2660.471*dessert, 2328.294*ice, 2222.424*cake, 2208.339*butter, 2142.818*chocol, 1783.438*flavor, 1721.061*sweet, 1015.265*waffl
+Topic 11:  7852.140*place, 6679.840*great, 6413.654*sandwich, 5236.107*love, 4783.577*breakfast, 4263.512*lunch, 4256.438*coffe, 4127.372*delici, 3707.770*good
+Topic 12:  558.538*variou, 474.224*adventur, 334.180*popcorn, 299.784*punch, 285.159*univers, 283.341*thumb, 268.019*bourbon, 265.158*freak, 251.914*crop
+Topic 13:  18426.992*place, 17721.450*good, 14705.831*great, 9212.962*servic, 8887.108*veri, 6773.917*price, 6235.690*time, 6060.623*ve, 5836.450*beer
+Topic 14:  5184.176*taco, 2208.005*mexican, 2139.108*chip, 2081.048*salsa, 1925.636*margarita, 1546.094*crab, 1405.583*burrito, 1076.242*guacamol, 894.300*chorizo
+Topic 15:  10752.740*veri, 8476.182*great, 6760.474*servic, 6547.756*restaur, 5106.690*dinner, 5041.268*delici, 4943.520*good, 4668.143*meal, 4518.161*salad
+Topic 16:  1568.369*lamb, 1494.597*gyro, 639.268*bag, 606.009*dive, 441.366*german, 417.218*ny, 367.707*coupon, 331.174*soul, 329.550*schnitzel

@@ -1,0 +1,17 @@
+Topic 0:   2.255*like, 2.145*place, 1.684*just, 1.342*don, 1.263*time, 1.117*really, 0.925*people, 0.872*know, 0.825*little
+Topic 1:   4.067*pizza, 0.757*crust, 0.389*pizzas, 0.364*sauce, 0.330*pepperoni, 0.306*toppings, 0.290*cheese, 0.210*delivery, 0.202*fresh
+Topic 2:   3.777*great, 1.149*service, 0.450*atmosphere, 0.403*place, 0.298*excellent, 0.275*awesome, 0.268*prices, 0.154*price, 0.136*spot
+Topic 3:   3.447*chicken, 1.655*thai, 1.092*fried, 1.068*rice, 0.942*chinese, 0.873*spicy, 0.760*pad, 0.710*sauce, 0.690*soup
+Topic 4:   1.046*ordered, 0.784*came, 0.783*got, 0.779*dinner, 0.760*delicious, 0.692*salad, 0.662*meal, 0.642*restaurant, 0.562*server
+Topic 5:   3.818*good, 0.873*really, 0.686*service, 0.509*nice, 0.500*pretty, 0.330*prices, 0.247*price, 0.181*overall, 0.159*reasonable
+Topic 6:   2.396*bar, 1.974*beer, 1.190*happy, 1.099*hour, 1.057*selection, 0.695*beers, 0.662*menu, 0.651*drinks, 0.589*patio
+Topic 7:   3.679*burger, 2.038*fries, 1.480*burgers, 0.428*cheese, 0.419*onion, 0.384*rings, 0.381*bacon, 0.274*bun, 0.258*cooked
+Topic 8:   3.942*sushi, 1.001*roll, 0.778*rolls, 0.479*hibachi, 0.447*fresh, 0.323*tuna, 0.307*fish, 0.270*japanese, 0.268*sashimi
+Topic 9:   2.746*best, 2.169*ve, 1.172*cleveland, 0.514*restaurant, 0.417*times, 0.400*area, 0.368*far, 0.355*years, 0.352*favorite
+Topic 10:  2.640*friendly, 2.483*staff, 0.637*clean, 0.521*super, 0.507*nice, 0.438*fresh, 0.433*fast, 0.398*delicious, 0.395*helpful
+Topic 11:  3.272*amazing, 1.920*recommend, 1.442*highly, 0.845*place, 0.709*service, 0.685*definitely, 0.357*delicious, 0.343*absolutely, 0.302*atmosphere
+Topic 12:  2.349*sandwich, 1.313*beef, 1.234*lunch, 1.076*corned, 1.036*sandwiches, 0.621*cheese, 0.516*bread, 0.423*soup, 0.421*salad
+Topic 13:  2.043*tacos, 1.417*mexican, 1.205*taco, 1.079*salsa, 0.870*chips, 0.668*margaritas, 0.533*guacamole, 0.425*margarita, 0.424*burrito
+Topic 14:  3.911*love, 0.959*place, 0.284*favorite, 0.217*absolutely, 0.214*awesome, 0.176*delicious, 0.149*family, 0.139*coming, 0.103*salad
+Topic 15:  3.027*breakfast, 1.330*coffee, 0.846*eggs, 0.772*brunch, 0.663*pancakes, 0.607*diner, 0.605*toast, 0.491*hash, 0.439*bacon
+Topic 16:  2.731*pho, 0.576*superior, 0.504*broth, 0.432*vietnamese, 0.311*bowl, 0.284*noodles, 0.269*rolls, 0.255*beef, 0.240*mi

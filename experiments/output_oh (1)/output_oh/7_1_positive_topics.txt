@@ -1,0 +1,7 @@
+Topic 0:   4712.786*breakfast, 4318.976*coffee, 2798.036*delicious, 2713.605*cream, 2629.976*brunch, 2534.658*burger, 2160.552*fresh, 2098.355*ice, 1952.294*fries
+Topic 1:   18898.268*good, 18806.343*place, 11356.131*great, 10262.636*like, 9977.664*ve, 9140.039*time, 8318.750*service, 8058.353*just, 7987.756*really
+Topic 2:   2709.743*just, 2650.461*cleveland, 2182.623*like, 2022.841*old, 1891.085*tacos, 1724.596*taco, 1682.943*feel, 1487.782*table, 1387.708*bar
+Topic 3:   21834.375*great, 14948.748*place, 12453.403*good, 11450.501*bar, 9555.778*service, 7843.548*beer, 7253.445*menu, 7141.978*nice, 6303.835*night
+Topic 4:   12119.041*pizza, 4057.557*sauce, 2927.697*italian, 2912.810*best, 2863.076*cheese, 2428.693*crust, 2057.430*pasta, 1971.974*good, 1815.882*toppings
+Topic 5:   4763.118*sushi, 4481.214*chicken, 4001.804*rice, 3399.037*spicy, 2906.166*thai, 2605.721*dishes, 2563.243*chinese, 2549.720*roll, 2503.103*rolls
+Topic 6:   9898.744*ordered, 7513.894*good, 7455.298*chicken, 7302.203*cheese, 7195.257*got, 6474.492*salad, 6079.368*sauce, 5467.929*came, 5337.647*delicious

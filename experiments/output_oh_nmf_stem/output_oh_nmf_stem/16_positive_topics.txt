@@ -1,0 +1,16 @@
+Topic 0:   1.436*salad, 1.209*delici, 1.180*dinner, 1.135*meal, 0.947*steak, 0.887*restaur, 0.857*chees, 0.856*dessert, 0.841*perfect
+Topic 1:   4.266*pizza, 0.745*crust, 0.344*sauc, 0.327*pepperoni, 0.279*chees, 0.232*slice, 0.214*pie, 0.212*order, 0.207*deliveri
+Topic 2:   3.866*great, 1.273*servic, 0.493*atmospher, 0.421*price, 0.308*excel, 0.252*awesom, 0.155*recommend, 0.143*lunch, 0.140*spot
+Topic 3:   2.550*beer, 2.138*bar, 1.128*select, 0.975*drink, 0.733*hour, 0.726*happi, 0.579*wing, 0.561*night, 0.556*game
+Topic 4:   3.714*veri, 1.040*nice, 0.356*restaur, 0.351*clean, 0.337*tasti, 0.314*excel, 0.303*reason, 0.269*definit, 0.255*price
+Topic 5:   4.540*burger, 1.678*fri, 0.446*onion, 0.340*ring, 0.326*chees, 0.313*bacon, 0.286*bun, 0.249*cook, 0.240*shake
+Topic 6:   5.004*good, 1.283*realli, 0.765*price, 0.702*pretti, 0.701*servic, 0.341*place, 0.258*like, 0.228*nice, 0.224*littl
+Topic 7:   3.824*sushi, 1.781*roll, 0.460*hibachi, 0.415*fresh, 0.330*tuna, 0.294*fish, 0.268*sashimi, 0.253*japanes, 0.210*price
+Topic 8:   2.717*chicken, 1.381*thai, 1.010*rice, 1.009*dish, 0.910*spici, 0.899*sauc, 0.870*fri, 0.850*soup, 0.815*noodl
+Topic 9:   3.623*taco, 1.026*salsa, 1.017*mexican, 0.972*margarita, 0.697*chip, 0.497*burrito, 0.475*guacamol, 0.466*barrio, 0.384*queso
+Topic 10:  1.741*like, 1.554*time, 1.529*just, 1.304*order, 1.208*did, 1.056*becaus, 1.034*wait, 1.022*realli, 0.959*onli
+Topic 11:  3.238*friendli, 3.052*staff, 0.661*super, 0.553*delici, 0.469*clean, 0.462*fast, 0.448*help, 0.388*fresh, 0.344*wait
+Topic 12:  2.327*alway, 1.646*best, 1.614*ve, 0.765*time, 0.701*restaur, 0.673*cleveland, 0.656*favorit, 0.580*ha, 0.494*year
+Topic 13:  3.351*sandwich, 0.902*beef, 0.831*corn, 0.712*lunch, 0.638*chees, 0.494*bread, 0.416*soup, 0.416*meat, 0.404*deli
+Topic 14:  3.096*place, 2.709*love, 0.900*amaz, 0.399*tri, 0.388*awesom, 0.381*recommend, 0.305*absolut, 0.287*eat, 0.258*famili
+Topic 15:  2.553*breakfast, 1.138*coffe, 0.927*egg, 0.715*brunch, 0.679*pancak, 0.528*diner, 0.504*toast, 0.442*hash, 0.398*bacon

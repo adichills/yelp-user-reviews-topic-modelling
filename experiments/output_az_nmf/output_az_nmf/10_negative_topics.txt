@@ -1,0 +1,10 @@
+Topic 0:   1.910*table, 1.675*server, 1.656*came, 1.489*asked, 1.285*said, 1.177*waitress, 1.170*bar, 1.042*drinks, 0.969*didn
+Topic 1:   2.572*place, 1.488*like, 1.379*just, 1.268*good, 1.213*really, 1.125*don, 0.699*people, 0.679*great, 0.666*time
+Topic 2:   4.872*pizza, 0.710*crust, 0.532*wings, 0.489*cheese, 0.345*pizzas, 0.341*sauce, 0.311*toppings, 0.303*ordered, 0.293*delivery
+Topic 3:   3.364*chicken, 1.364*salad, 1.103*sauce, 1.013*ordered, 0.813*rice, 0.768*fried, 0.718*sandwich, 0.680*soup, 0.586*dry
+Topic 4:   2.924*order, 0.803*called, 0.750*time, 0.750*said, 0.668*told, 0.667*location, 0.634*manager, 0.617*wrong, 0.589*phone
+Topic 5:   4.116*service, 1.446*horrible, 1.172*customer, 1.097*terrible, 1.036*slow, 0.951*bad, 0.769*worst, 0.758*poor, 0.721*rude
+Topic 6:   3.090*burger, 2.013*fries, 0.830*burgers, 0.678*cheese, 0.479*cold, 0.414*bun, 0.394*ordered, 0.373*bacon, 0.361*sandwich
+Topic 7:   3.541*minutes, 1.709*waited, 1.643*wait, 1.094*waiting, 0.850*took, 0.735*hour, 0.689*seated, 0.628*time, 0.617*long
+Topic 8:   3.449*sushi, 0.997*roll, 0.872*rolls, 0.656*fish, 0.353*tuna, 0.337*hour, 0.324*happy, 0.289*rice, 0.288*quality
+Topic 9:   1.952*tacos, 1.752*salsa, 1.652*taco, 1.597*mexican, 1.531*chips, 1.324*burrito, 1.170*beans, 0.858*fish, 0.807*cheese

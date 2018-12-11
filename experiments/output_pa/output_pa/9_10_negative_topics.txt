@@ -1,0 +1,9 @@
+Topic 0:   3732.785*chicken, 3158.586*sauce, 2987.941*like, 2509.158*ordered, 1916.955*good, 1869.412*just, 1545.806*place, 1537.472*tasted, 1399.037*taste
+Topic 1:   1822.741*bar, 892.359*breakfast, 829.977*coffee, 695.688*eggs, 586.996*brunch, 577.839*bartender, 495.829*dirty, 430.659*toast, 396.185*place
+Topic 2:   4561.320*table, 4378.167*service, 4149.859*time, 3937.762*minutes, 3765.263*asked, 3592.753*came, 3277.013*restaurant, 3201.583*waitress, 3145.128*said
+Topic 3:   4633.768*place, 1720.569*like, 1693.726*service, 1519.322*good, 1456.341*just, 1415.166*better, 1411.158*don, 1283.121*pittsburgh, 1155.288*restaurant
+Topic 4:   4632.748*pizza, 1540.481*just, 1324.612*don, 1291.057*like, 1232.756*ve, 1167.324*place, 1127.076*time, 1104.252*beer, 1102.114*good
+Topic 5:   1208.160*order, 1108.428*called, 822.764*phone, 761.416*customer, 752.914*rude, 741.931*said, 641.623*told, 572.022*card, 552.928*owner
+Topic 6:   4017.627*good, 2555.406*just, 2391.518*menu, 2374.650*really, 2256.134*like, 2226.491*burger, 1707.659*place, 1686.393*salad, 1684.508*great
+Topic 7:   2298.273*sandwich, 1947.838*fries, 1600.051*minutes, 1382.086*order, 1020.562*time, 942.526*wait, 904.937*took, 886.002*ordered, 872.388*lunch
+Topic 8:   978.491*pork, 880.721*dish, 851.457*tacos, 769.891*crab, 707.043*mexican, 598.328*shrimp, 591.097*salsa, 586.416*rice, 583.212*chips

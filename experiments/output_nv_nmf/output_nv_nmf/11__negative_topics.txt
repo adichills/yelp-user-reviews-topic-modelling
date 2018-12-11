@@ -1,0 +1,11 @@
+Topic 0:   2.764*place, 1.691*don, 1.416*just, 1.346*like, 1.161*people, 1.052*time, 1.031*room, 0.912*know, 0.836*really
+Topic 1:   1.891*minutes, 1.571*table, 1.208*came, 1.101*server, 0.960*wait, 0.933*waited, 0.901*asked, 0.843*took, 0.842*seated
+Topic 2:   4.658*pizza, 0.525*crust, 0.480*cheese, 0.344*delivery, 0.327*pepperoni, 0.325*slice, 0.317*pizzas, 0.262*wings, 0.261*toppings
+Topic 3:   1.982*good, 1.436*like, 1.105*sauce, 1.048*really, 1.023*taste, 1.009*flavor, 1.002*just, 0.984*ordered, 0.952*tasted
+Topic 4:   3.694*burger, 2.036*fries, 0.964*burgers, 0.534*cheese, 0.352*bun, 0.327*bacon, 0.289*patty, 0.286*ordered, 0.271*onion
+Topic 5:   3.942*order, 1.031*said, 0.888*called, 0.820*told, 0.769*time, 0.685*wrong, 0.660*phone, 0.609*asked, 0.608*location
+Topic 6:   3.885*buffet, 0.745*crab, 0.680*buffets, 0.591*legs, 0.571*price, 0.571*selection, 0.559*vegas, 0.546*line, 0.503*quality
+Topic 7:   5.058*sushi, 1.311*rolls, 1.205*roll, 1.064*fish, 0.845*ayce, 0.832*rice, 0.585*eat, 0.483*nigiri, 0.471*tuna
+Topic 8:   4.158*service, 1.617*horrible, 1.442*customer, 1.294*bad, 1.161*terrible, 0.958*worst, 0.957*slow, 0.884*good, 0.709*rude
+Topic 9:   3.476*steak, 0.978*medium, 0.774*rare, 0.677*cooked, 0.615*ordered, 0.575*waiter, 0.557*steaks, 0.485*dinner, 0.465*salad
+Topic 10:  5.034*chicken, 0.853*fried, 0.787*rice, 0.574*salad, 0.539*wings, 0.534*ordered, 0.471*dry, 0.338*sauce, 0.274*waffles

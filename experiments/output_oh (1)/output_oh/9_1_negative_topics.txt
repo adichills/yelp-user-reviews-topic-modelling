@@ -1,0 +1,9 @@
+Topic 0:   774.728*mexican, 421.160*lettuce, 368.571*dog, 297.345*door, 292.306*cafe, 228.475*lunch, 227.080*closed, 182.187*salad, 181.743*dogs
+Topic 1:   3586.953*like, 3025.111*place, 2881.567*good, 2520.403*just, 1506.515*better, 1480.642*ve, 1480.305*sauce, 1464.522*really, 1374.638*sushi
+Topic 2:   6473.252*service, 5570.202*table, 5417.644*place, 4916.022*time, 4860.795*bar, 4705.877*minutes, 4552.581*just, 3555.703*came, 3497.584*server
+Topic 3:   1234.300*called, 1038.032*order, 971.314*manager, 921.443*card, 818.689*customer, 771.524*phone, 617.723*business, 609.256*told, 575.693*credit
+Topic 4:   4125.314*pizza, 3958.922*ordered, 2595.678*order, 2585.462*cheese, 2079.681*came, 2037.070*burger, 1852.865*fries, 1769.258*got, 1605.546*asked
+Topic 5:   2079.130*place, 1528.699*service, 1516.223*like, 1356.511*just, 1345.574*location, 1240.413*ve, 1230.139*time, 1080.601*times, 985.009*good
+Topic 6:   1199.411*beer, 1122.131*fish, 811.180*pork, 731.310*sauce, 608.430*good, 588.397*lobster, 579.949*menu, 561.386*cheese, 537.463*soup
+Topic 7:   1574.343*order, 1443.407*just, 1349.447*time, 980.907*like, 936.160*ve, 909.198*drive, 841.540*got, 800.472*line, 796.307*make
+Topic 8:   3598.364*chicken, 3343.182*good, 2788.901*ordered, 2286.225*like, 2014.046*salad, 1926.240*really, 1775.767*just, 1768.241*meal, 1729.095*place

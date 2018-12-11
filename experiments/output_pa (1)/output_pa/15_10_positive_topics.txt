@@ -1,0 +1,15 @@
+Topic 0:   4099.853*tacos, 3834.228*chicken, 3045.941*pork, 2501.074*sauce, 2438.352*taco, 2313.195*wings, 2176.794*good, 2133.695*chips, 1969.707*bbq
+Topic 1:   15852.825*place, 15320.018*great, 13953.831*good, 10596.983*bar, 7272.585*really, 6668.352*nice, 6430.028*beer, 5644.020*menu, 5491.436*like
+Topic 2:   1726.882*buffet, 1512.562*indian, 1292.144*cocktail, 884.125*cocktails, 820.223*money, 460.951*naan, 429.023*whiskey, 426.633*signature, 408.961*masala
+Topic 3:   6446.761*time, 5532.976*just, 4981.517*table, 4508.111*didn, 4359.427*did, 4263.944*came, 4063.384*got, 3879.078*ordered, 3758.149*order
+Topic 4:   3613.992*coffee, 1698.304*tea, 1610.084*shop, 1252.096*cafe, 1163.490*dog, 971.834*turkey, 948.195*market, 849.385*square, 772.783*local
+Topic 5:   3887.064*sushi, 2496.661*roll, 2412.899*fish, 1368.617*rolls, 1299.584*tuna, 1173.098*asian, 922.766*seafood, 854.462*shrimp, 772.406*ramen
+Topic 6:   7092.274*sandwich, 3136.251*fries, 2443.481*sandwiches, 1175.921*cheese, 1163.455*bread, 1060.020*steak, 929.208*pittsburgh, 754.647*slaw, 714.190*beef
+Topic 7:   6238.831*burger, 3252.524*fries, 3136.440*cream, 2397.536*ice, 2051.335*burgers, 1819.299*cheese, 1742.304*bacon, 1320.186*chocolate, 1302.897*sweet
+Topic 8:   1562.818*free, 980.217*gluten, 792.458*airport, 781.352*hill, 780.852*tasting, 738.258*kay, 687.775*course, 647.573*like, 579.523*east
+Topic 9:   4565.657*breakfast, 3607.778*brunch, 2582.627*french, 2219.488*eggs, 1791.014*toast, 1576.574*diner, 1514.505*pancakes, 1244.519*bacon, 1087.323*potatoes
+Topic 10:  12341.385*pizza, 2201.447*sauce, 2173.401*crust, 2014.765*cheese, 1547.327*good, 1497.790*chinese, 1479.620*best, 1323.716*pie, 1218.737*delivery
+Topic 11:  6077.774*great, 5431.251*service, 5328.614*restaurant, 3346.243*excellent, 3153.123*delicious, 3050.312*dinner, 2982.539*amazing, 2820.483*best, 2769.073*wine
+Topic 12:  3600.817*thai, 2982.601*rice, 2504.346*spicy, 2265.354*noodles, 2093.662*curry, 1894.336*chicken, 1748.457*soup, 1495.283*dish, 1493.477*dishes
+Topic 13:  13533.198*place, 11734.310*good, 10099.920*ve, 7881.676*like, 6436.554*just, 6292.252*don, 6034.387*great, 5982.203*lunch, 5808.691*best
+Topic 14:  7955.215*good, 7491.156*ordered, 6756.236*salad, 6682.811*sauce, 5217.752*got, 5041.632*really, 4959.441*cheese, 4854.128*delicious, 4684.479*came

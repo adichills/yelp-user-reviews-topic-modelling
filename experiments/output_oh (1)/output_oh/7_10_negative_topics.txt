@@ -1,0 +1,7 @@
+Topic 0:   2366.339*said, 1996.321*manager, 1769.036*order, 1715.582*told, 1654.569*customer, 1603.326*don, 1584.568*asked, 1437.522*called, 1309.023*rude
+Topic 1:   4502.462*pizza, 1435.634*sushi, 1165.163*like, 1076.266*good, 1076.227*place, 1071.912*rice, 1017.099*tacos, 840.768*taco, 822.173*just
+Topic 2:   3213.394*server, 3080.341*came, 2952.584*table, 2930.378*ordered, 2670.074*restaurant, 2216.051*didn, 2197.554*good, 2193.362*menu, 2161.465*waitress
+Topic 3:   6727.288*minutes, 4838.285*order, 4836.436*time, 4579.700*service, 3336.278*wait, 3026.986*table, 2797.013*place, 2705.769*took, 2539.753*got
+Topic 4:   5264.580*chicken, 4393.140*ordered, 4127.975*like, 3360.346*sauce, 3353.059*good, 3292.495*cheese, 2729.928*salad, 2610.507*got, 2402.253*fries
+Topic 5:   6435.146*place, 4248.940*just, 3844.872*good, 3642.785*like, 3122.136*really, 2880.742*service, 2744.648*ve, 2341.946*don, 2235.077*restaurant
+Topic 6:   4653.103*bar, 2375.729*beer, 1453.964*bartender, 1352.736*place, 977.921*drinks, 961.971*drink, 951.255*night, 742.175*good, 737.544*like

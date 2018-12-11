@@ -1,0 +1,6 @@
+Topic 0:   1.845*wait, 1.567*minut, 1.459*tabl, 0.877*seat, 0.705*drink, 0.627*hour, 0.617*waitress, 0.535*server, 0.513*reserv
+Topic 1:   1.007*chicken, 0.846*tast, 0.785*veri, 0.728*sauc, 0.662*like, 0.622*dish, 0.613*good, 0.606*salad, 0.550*flavor
+Topic 2:   3.448*pizza, 0.449*crust, 0.441*chees, 0.296*deliveri, 0.292*sauc, 0.281*order, 0.249*pepperoni, 0.245*slice, 0.226*wing
+Topic 3:   1.629*order, 0.796*said, 0.789*ask, 0.716*manag, 0.713*time, 0.703*did, 0.536*told, 0.482*custom, 0.381*want
+Topic 4:   1.858*burger, 1.361*sandwich, 1.299*fri, 0.540*chees, 0.322*bread, 0.296*meat, 0.240*bacon, 0.240*slaw, 0.231*primanti
+Topic 5:   1.125*place, 0.734*bar, 0.689*servic, 0.581*good, 0.530*beer, 0.509*just, 0.466*like, 0.458*drink, 0.445*realli

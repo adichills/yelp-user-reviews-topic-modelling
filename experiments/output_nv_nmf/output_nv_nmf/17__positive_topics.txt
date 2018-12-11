@@ -1,0 +1,17 @@
+Topic 0:   1.773*ordered, 1.575*steak, 1.525*just, 1.342*came, 1.341*like, 1.317*meal, 1.282*restaurant, 1.236*got, 1.182*dinner
+Topic 1:   5.855*pizza, 0.882*crust, 0.539*slice, 0.475*cheese, 0.471*pepperoni, 0.422*pizzas, 0.422*toppings, 0.325*garlic, 0.312*slices
+Topic 2:   6.055*great, 2.150*service, 0.631*atmosphere, 0.546*excellent, 0.491*customer, 0.474*awesome, 0.390*prices, 0.294*experience, 0.280*price
+Topic 3:   5.435*sushi, 1.513*rolls, 1.438*roll, 1.131*ayce, 0.932*fish, 0.785*fresh, 0.603*tuna, 0.554*eat, 0.549*sashimi
+Topic 4:   4.939*thai, 1.837*pad, 1.641*curry, 0.947*tea, 0.773*spicy, 0.700*rice, 0.532*soup, 0.512*lunch, 0.489*noodles
+Topic 5:   5.058*burger, 2.597*fries, 1.505*burgers, 0.714*cheese, 0.613*shake, 0.444*bacon, 0.405*truffle, 0.381*onion, 0.376*bun
+Topic 6:   5.901*place, 1.054*like, 0.954*try, 0.800*just, 0.790*eat, 0.648*don, 0.613*awesome, 0.544*want, 0.542*people
+Topic 7:   3.682*best, 3.639*vegas, 2.037*ve, 1.858*las, 0.690*restaurant, 0.668*strip, 0.631*far, 0.574*town, 0.567*time
+Topic 8:   5.533*buffet, 1.367*crab, 1.320*buffets, 1.115*legs, 0.943*seafood, 0.894*line, 0.783*selection, 0.778*lunch, 0.761*station
+Topic 9:   3.917*breakfast, 1.479*eggs, 1.358*coffee, 1.076*pancakes, 1.033*sandwich, 0.896*toast, 0.733*bacon, 0.691*hash, 0.658*french
+Topic 10:  6.027*good, 2.492*really, 1.159*pretty, 0.835*nice, 0.780*service, 0.432*prices, 0.430*price, 0.378*got, 0.347*little
+Topic 11:  3.844*tacos, 1.712*taco, 1.294*mexican, 1.223*asada, 1.154*salsa, 1.068*carne, 0.811*chips, 0.761*burrito, 0.634*pastor
+Topic 12:  5.225*love, 0.388*favorite, 0.240*location, 0.223*coming, 0.207*absolutely, 0.197*come, 0.192*fresh, 0.191*times, 0.167*yummy
+Topic 13:  3.743*amazing, 3.246*friendly, 3.132*staff, 1.566*delicious, 1.342*definitely, 1.222*super, 1.133*recommend, 1.071*service, 0.785*highly
+Topic 14:  3.848*ramen, 1.444*pho, 1.200*broth, 1.168*noodles, 1.102*pork, 0.764*bowl, 0.716*soup, 0.593*spicy, 0.554*noodle
+Topic 15:  4.636*chicken, 1.721*fried, 1.361*rice, 0.832*sauce, 0.583*wings, 0.582*salad, 0.544*bbq, 0.485*waffles, 0.428*spicy
+Topic 16:  2.709*happy, 2.511*hour, 2.240*bar, 1.477*drinks, 0.982*night, 0.907*beer, 0.761*drink, 0.698*pm, 0.641*menu

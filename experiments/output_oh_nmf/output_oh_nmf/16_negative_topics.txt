@@ -1,0 +1,16 @@
+Topic 0:   1.634*table, 1.353*server, 1.183*asked, 1.133*came, 0.996*said, 0.978*waitress, 0.850*manager, 0.811*didn, 0.757*restaurant
+Topic 1:   1.355*sauce, 0.971*like, 0.759*tasted, 0.744*rice, 0.635*flavor, 0.575*bland, 0.545*thai, 0.544*taste, 0.526*pork
+Topic 2:   3.387*pizza, 0.447*crust, 0.237*toppings, 0.235*pizzas, 0.234*cheese, 0.217*sauce, 0.215*pepperoni, 0.196*delivery, 0.194*hut
+Topic 3:   2.281*place, 0.922*like, 0.815*don, 0.601*people, 0.547*just, 0.437*know, 0.404*want, 0.403*really, 0.327*bad
+Topic 4:   2.992*order, 0.901*called, 0.601*told, 0.540*phone, 0.524*delivery, 0.523*said, 0.486*customer, 0.401*wrong, 0.379*placed
+Topic 5:   2.716*burger, 1.140*fries, 0.686*burgers, 0.284*bun, 0.276*medium, 0.226*onion, 0.225*ordered, 0.210*cheese, 0.186*rings
+Topic 6:   2.521*service, 0.971*slow, 0.938*terrible, 0.732*horrible, 0.571*poor, 0.548*customer, 0.392*rude, 0.350*bad, 0.333*worst
+Topic 7:   2.656*bar, 0.921*beer, 0.905*bartender, 0.650*drink, 0.523*drinks, 0.389*bartenders, 0.373*sat, 0.350*night, 0.339*beers
+Topic 8:   2.788*minutes, 1.319*waited, 1.090*wait, 0.740*waiting, 0.714*hour, 0.614*took, 0.515*seated, 0.419*finally, 0.386*later
+Topic 9:   2.861*sushi, 0.625*roll, 0.460*rolls, 0.407*fish, 0.338*tuna, 0.286*rice, 0.278*hibachi, 0.236*buffet, 0.235*fresh
+Topic 10:  1.604*breakfast, 1.190*coffee, 1.166*eggs, 0.695*bacon, 0.589*cold, 0.586*toast, 0.391*hash, 0.372*brunch, 0.356*pancakes
+Topic 11:  3.292*chicken, 0.372*fried, 0.277*rice, 0.215*ordered, 0.184*dry, 0.180*wings, 0.172*general, 0.172*tso, 0.167*chinese
+Topic 12:  1.902*salad, 1.333*sandwich, 1.052*cheese, 0.683*bread, 0.492*lunch, 0.487*lettuce, 0.459*dressing, 0.418*soup, 0.385*ordered
+Topic 13:  2.046*time, 1.297*ve, 1.048*times, 0.985*location, 0.506*chipotle, 0.405*worst, 0.390*line, 0.373*wait, 0.357*long
+Topic 14:  2.212*steak, 0.651*medium, 0.582*ordered, 0.451*rare, 0.411*cooked, 0.264*steaks, 0.249*came, 0.232*dinner, 0.220*potatoes
+Topic 15:  2.121*good, 0.759*really, 0.671*just, 0.638*great, 0.577*menu, 0.573*pretty, 0.571*better, 0.511*price, 0.468*ok

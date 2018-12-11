@@ -1,0 +1,16 @@
+Topic 0:   chicken, like, sauce, ordered, good, flavor, just, dish, soup
+Cuisine / Flavor
+Topic 1:   bar, breakfast, coffee, eggs, brunch, bacon, bartender, toast, diner
+Service / Staff
+Topic 2:   time, service, came, table, minutes, order, asked, just, ordered
+Service / Wait time
+Topic 3:   place, service, like, bar, don, room, just, better, good
+Service 
+Topic 4:   pizza, just, beer, don, like, ve, order, place, good
+
+Topic 5:   avoid, cake, driver, cream, called, hash, chocolate, window, corporate
+Cuisine / Bad food
+Topic 6:   good, cheese, just, like, really, place, burger, menu, salad
+Cuisine / menu options
+Topic 7:   sandwich, minutes, people, said, told, hours, rude, just, manager
+Service / Rude treatment

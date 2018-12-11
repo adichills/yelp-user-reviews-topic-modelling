@@ -1,0 +1,5 @@
+Topic 0:   0.934*ordered, 0.921*got, 0.914*good, 0.821*cheese, 0.761*came, 0.759*really, 0.742*salad, 0.726*burger, 0.652*just
+Topic 1:   3.959*pizza, 0.694*crust, 0.391*cheese, 0.354*sauce, 0.331*delivery, 0.325*pepperoni, 0.310*toppings, 0.305*pizzas, 0.286*best
+Topic 2:   2.634*great, 1.167*service, 0.803*good, 0.733*beer, 0.720*bar, 0.709*atmosphere, 0.661*friendly, 0.628*place, 0.565*staff
+Topic 3:   1.487*thai, 1.164*sushi, 0.874*chicken, 0.697*spicy, 0.637*curry, 0.593*pad, 0.584*rice, 0.552*chinese, 0.520*rolls
+Topic 4:   1.346*place, 0.990*ve, 0.928*love, 0.886*best, 0.852*pittsburgh, 0.718*breakfast, 0.631*like, 0.612*coffee, 0.540*don
